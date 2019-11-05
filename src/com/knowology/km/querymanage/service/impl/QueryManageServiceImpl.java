@@ -1,9 +1,7 @@
 package com.knowology.km.querymanage.service.impl;
 
-import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
-import com.knowology.Bean.User;
 import com.knowology.bll.CommonLibMetafieldmappingDAO;
 import com.knowology.bll.CommonLibQueryManageDAO;
 import com.knowology.common.util.ResultData;
@@ -12,7 +10,6 @@ import com.knowology.km.querymanage.service.QueryManageService;
 import com.knowology.km.querymanage.util.CreateWordpatUtil;
 import com.knowology.km.util.Check;
 import com.knowology.km.util.GetLoadbalancingConfig;
-import com.knowology.km.util.GetSession;
 import com.knowology.km.util.MyUtil;
 import com.knowology.km.util.SimpleString;
 import com.knowology.km.util.getServiceClient;

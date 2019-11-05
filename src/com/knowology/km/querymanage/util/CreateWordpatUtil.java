@@ -9,6 +9,7 @@ import javax.servlet.jsp.jstl.sql.Result;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.log4j.Logger;
 
+import com.knowology.Bean.User;
 import com.knowology.bll.CommonLibWordclassDAO;
 import com.knowology.km.util.GetLoadbalancingConfig;
 /**
@@ -128,5 +129,14 @@ public class CreateWordpatUtil {
 		}
 		return StringUtils.join(newWordList,"@@");
 	}
+	
+   public static User getUserInfo(String workerId,String serviceType,String brand){
+	   User user = new User();
+		user.setUserIP(" ");
+		user.setUserName(" ");
+		user.setUserID(workerId);
+		user.setIndustryOrganizationApplication(serviceType);
+	   return user;
+   }
 
 }

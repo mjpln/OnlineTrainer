@@ -31,7 +31,6 @@ import com.knowology.km.querymanage.service.QueryManageService;
 import com.knowology.km.querymanage.service.WordpatWordCorrectService;
 import com.knowology.km.querymanage.util.CreateWordpatUtil;
 import com.knowology.km.util.Check;
-import com.knowology.km.util.GetSession;
 import com.knowology.km.util.SimpleString;
 
 /**
@@ -354,11 +353,7 @@ public class WordpatWordCorrectServiceImpl implements WordpatWordCorrectService{
 		// 标准问题ID
 		String kbdataid = "";
 		String brand = "";
-		User user = new User();
-		user.setUserID(workerId);
-		user.setIndustryOrganizationApplication(serviceType);
-		user.setUserIP(" ");
-		user.setUserName(" ");
+
 		// 根据serviceid获取根节点
 		Result result = CommonLibMetafieldmappingDAO.getConfigValue("问题库业务根对应关系配置",serviceType);;
 		
@@ -370,7 +365,8 @@ public class WordpatWordCorrectServiceImpl implements WordpatWordCorrectService{
 				rootserviceid = rootrs.getRows()[0].get("serviceid").toString();
 			}
 		}
-		user.setBrand(brand);
+		//组装用户信息
+		User user = CreateWordpatUtil.getUserInfo(workerId, serviceType, brand);
 		// 根据根节点查询下级的识别规则业务节点
 		if (StringUtils.isBlank(rootserviceid)) {
 			obj.put("success", false);
@@ -378,7 +374,7 @@ public class WordpatWordCorrectServiceImpl implements WordpatWordCorrectService{
 			return obj;
 		}
 		// 获取识别业务规则ID
-		ruleserviceid = getBusinessServiceId("识别规则业务", workerId, serviceType, rootserviceid);
+		ruleserviceid = getBusinessServiceId("识别规则业务", workerId, serviceType, rootserviceid,user);
 		// 识别规则业务节点ID不存在
 		if (StringUtils.isBlank(ruleserviceid)) {
 			obj.put("success", false);
@@ -386,7 +382,7 @@ public class WordpatWordCorrectServiceImpl implements WordpatWordCorrectService{
 			return obj;
 		}
 		// 获取业务名称获取ID
-		businessserviceid = getBusinessServiceId("业务词获取业务", workerId, serviceType, ruleserviceid);
+		businessserviceid = getBusinessServiceId("业务词获取业务", workerId, serviceType, ruleserviceid,user);
 		// 业务名称获取节点ID不存在
 		if (StringUtils.isBlank(businessserviceid)) {
 			obj.put("success", false);
@@ -506,7 +502,7 @@ public class WordpatWordCorrectServiceImpl implements WordpatWordCorrectService{
 	 * @return
 	 */
 	private static String getBusinessServiceId(String service, String userid, String servicetype,
-			String rootserviceid) {
+			String rootserviceid,User user) {
 		String serviceid = "";
 		Result rs = CommonLibQueryManageDAO.createServiceTreeNew(userid, servicetype, "querymanage", "全国",
 				rootserviceid);
@@ -519,7 +515,7 @@ public class WordpatWordCorrectServiceImpl implements WordpatWordCorrectService{
 			}
 		}
 		if (StringUtils.isBlank(serviceid)) {// 新增业务
-			JSONObject jsonobj = (JSONObject) appendService(rootserviceid, service);
+			JSONObject jsonobj = (JSONObject) appendService(rootserviceid, service,servicetype,user);
 			serviceid = jsonobj.getString("serviceid");
 		}
 		return serviceid;
@@ -645,10 +641,9 @@ public class WordpatWordCorrectServiceImpl implements WordpatWordCorrectService{
 	 *            待添加业务
 	 * @return
 	 */
-	public static Object appendService(String preServiceId, String serviceName) {
+	public static Object appendService(String preServiceId, String serviceName,String serviceType,User user) {
 		JSONObject jsonObj = new JSONObject();
-		User user = (User) GetSession.getSessionByKey("accessUser");
-		String serviceType = user.getIndustryOrganizationApplication();
+
 		String brand = "";
 		Result rs = CommonLibServiceDAO.getServiceInfoByserviceid(preServiceId);
 		if (rs != null && rs.getRowCount() > 0) {
