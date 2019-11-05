@@ -1,0 +1,15639 @@
+挨 v
+挨打 v
+挨冻 v
+挨斗 v
+挨饿 v
+挨近 v
+挨骂 v
+挨批 v
+挨整 v
+挨着 v
+挨揍 v
+哀悼 v v
+哀告 v
+哀嚎 v
+哀号 v
+哀叫 v
+哀怜 v
+哀鸣 v
+哀泣 v
+哀求 v
+哀诉 v
+哀叹 v v
+碍 v
+爱 j n v v
+爱戴 v v
+爱抚 v
+爱好 n v
+爱护 v v
+爱教 a v
+爱怜 v
+爱恋 v
+爱慕 v
+爱上 v
+爱惜 v
+氨化 v
+安 a a g n n r v
+安插 v
+安抵 v
+安定 a a v v
+安度 v
+安顿 a v
+安放 v
+安抚 v v
+安家 v
+安居 n v v
+安乐死 v
+安眠 v
+安排 v v
+安上 v
+安设 v
+安身 v
+安神 v
+安生 v
+安睡 v
+安慰 a a v v
+安息 v
+安歇 v
+安营 v
+安于 v
+安葬 v
+安置 v v
+安装 v v
+按 p v
+按揭 v v
+按铃 n v
+按脉 v
+按摩 v v
+按压 v
+按照 p v
+按住 v
+按捺 v
+暗 a a v
+暗藏 v
+暗访 v v
+暗害 v
+暗含 v
+暗杀 v v
+暗示 v
+暗算 v
+暗探 n v
+暗喜 v
+暗想 v
+暗笑 v
+案发 v
+昂 g v v
+昂首 v v
+昂扬 a a v
+凹陷 v
+熬 v
+熬煎 v
+熬汤 v
+熬夜 v
+翱翔 v v
+傲视 v
+懊悔 v
+懊恼 v
+懊丧 v
+扒 v
+扒开 v
+扒拉 v
+扒窃 v v
+巴 g j n q v x
+巴不得 v
+巴结 v
+巴望 v
+拔 v
+拔草 v
+拔除 v
+拔掉 v
+拔毒 v
+拔高 v
+拔河 v v
+拔剑 v
+拔节 v v
+拔锚 v
+拔腿 v
+拔牙 v
+拔秧 v
+拔营 v
+跋涉 v v
+把 g m n n n p q v
+把持 v
+把舵 v
+把关 v v
+把酒 v
+把脉 v
+把门 v
+把守 v
+把握 n v v
+耙 g n v
+霸 g n v v
+霸占 v
+罢 v y
+罢工 v v
+罢官 v
+罢教 v
+罢课 v
+罢免 v
+罢市 v
+罢手 v
+罢休 v
+罢职 v
+罢黜 v
+白 a b d g j n n n v
+白吃 v
+白搭 v
+白费 v
+白热化 v
+白送 v
+摆 n v
+摆摆 v
+摆布 v
+摆动 v
+摆渡 v
+摆放 v v
+摆架子 v
+摆开 v
+摆阔 v
+摆擂台 v
+摆弄 v
+摆平 v
+摆谱 v
+摆设 n v
+摆手 v
+摆摊 v
+摆摊儿 v
+摆摊子 v
+摆脱 v
+摆样子 v
+摆正 v
+败 g v
+败北 v
+败毒 v
+败坏 v
+败火 v
+败露 v v
+败落 v
+败诉 v
+败退 v
+败胃 v
+败阵 v
+拜 g n v
+拜把子 v
+拜别 v
+拜倒 v
+拜读 v
+拜访 v
+拜佛 v
+拜会 v v
+拜见 v
+拜年 v v
+拜神 v
+拜师 v
+拜寿 v
+拜天地 v
+拜托 v
+拜望 v
+拜谢 v
+拜谒 v
+搬 v
+搬兵 v
+搬动 v
+搬家 v v
+搬进 v
+搬弄 v
+搬迁 v v
+搬运 v
+搬走 v
+扳 v
+扳倒 v
+扳道 v
+扳回 v
+扳闸 v
+颁 g v v
+颁布 v v
+颁发 v
+颁奖 v v
+颁行 v
+颁证 v
+板 a g j n n v x
+板书 n v
+扮 v
+扮成 v
+扮鬼脸 v
+扮演 v
+扮装 v
+扮作 v
+拌 v
+拌和 v
+拌匀 v
+拌种 v
+拌嘴 v
+伴 g v
+伴唱 v v
+伴读 n v
+伴生 v
+伴随 v v v
+伴同 v
+伴舞 v v
+伴游 v
+伴有 v
+伴奏 v v
+半公开 v
+半停产 v v
+办 j v
+办案 v v
+办班 v
+办报 v v
+办厂 v
+办到 v
+办公 v v
+办理 v v
+办起 v
+办事 v v
+办税 v
+办学 v v
+办证 v v
+绊 v
+绊倒 v
+帮 g n q v
+帮办 n v
+帮厨 v
+帮带 v v
+帮扶 v v
+帮工 n v
+帮教 v v
+帮困 v v
+帮忙 v
+帮腔 v v
+帮助 v v v
+膀 g v x
+绑 v
+绑架 v v
+绑票 v
+磅 n q v x
+磅礴 a v
+傍 v
+包 n n q v
+包办 v
+包庇 v
+包藏 v
+包产 v
+包场 v
+包抄 v v
+包车 n v
+包村 v
+包饭 n v
+包扶 v
+包干 v
+包工 n v
+包管 v
+包裹 n v v
+包含 v
+包涵 v
+包户 v v
+包伙 n v
+包机 n v v
+包金 v
+包括 v
+包揽 v
+包赔 v
+包容 v
+包围 v v
+包销 v v
+包修 v
+包衣 n v v
+包圆 v
+包扎 v
+包装 n v v
+包租 v
+褒贬 v
+褒奖 v
+褒扬 v v
+剥 g v
+剥夺 v v
+剥离 v v
+剥落 v
+剥弃 v
+剥蚀 v
+剥削 v v
+保 g n v
+保安 b n v
+保本 v
+保藏 v
+保持 v v
+保存 v v
+保底 v
+保管 n v v
+保护 n v v
+保级 v
+保驾 v
+保荐 v
+保健 b n v v
+保洁 b v
+保举 v
+保留 v v
+保媒 v
+保密 v v
+保苗 v
+保全 v
+保墒 v v
+保释 v v
+保守 a v
+保税 v
+保送 v
+保卫 v v
+保鲜 v v
+保险 a n v v
+保修 v
+保养 v v
+保有 v
+保佑 v v
+保障 n v v
+保证 n v v
+保值 v v
+保重 v
+保住 v
+饱 a a v
+饱尝 v
+饱含 v
+饱和 v v
+饱览 v
+饱受 v
+抱 q v
+抱抱 v
+抱病 v
+抱不平 v
+抱恨 v
+抱屈 v
+抱窝 v
+抱养 v
+抱有 v
+抱怨 v v
+报 n v
+报案 v v
+报偿 v v
+报仇 v
+报春 v
+报答 v
+报导 n v
+报到 v
+报道 n v v
+报恩 v
+报废 v v
+报复 v v
+报告 n v v
+报关 v v
+报国 v v
+报价 v v
+报奖 v
+报捷 v
+报警 v v
+报考 v v
+报名 v v
+报幕 v
+报批 v v
+报请 v
+报丧 v
+报失 v
+报时 v
+报收 v
+报数 v
+报税 v
+报送 v
+报喜 v
+报销 v v
+报晓 v
+报效 v
+报信 v
+报修 v
+报忧 v
+报账 v v
+报知 v
+暴跌 v v
+暴动 v v
+暴发 v
+暴光 v
+暴力化 v
+暴露 v
+暴乱 v
+暴晒 v v
+暴涨 v v
+暴卒 v
+爆 v
+爆炒 v
+爆出 v
+爆发 v v
+爆冷 v
+爆裂 v v
+爆满 v
+爆破 v v
+爆炸 v v
+悲鸣 v
+悲泣 v
+悲叹 v
+悲嗟 v
+北 f g v
+北上 v v
+辈出 v
+背 a n v
+背风 v
+背负 v v
+背光 v
+背黑锅 v
+背靠背 v
+背离 v
+背理 v
+背叛 v v
+背弃 v
+背上 v
+背书 v
+背诵 v
+背阴 v
+背约 v
+背着 v
+倍感 v
+倍受 v
+倍增 v v
+备 d g v
+备案 v v
+备查 v
+备份 n v
+备耕 v v
+备荒 v
+备课 v
+备料 v v
+备齐 v
+备受 v
+备用 v v
+备灾 v v
+备战 v v
+备足 v
+焙 v
+焙干 v
+焙烧 v
+焙制 v
+被 d g n n p v
+被捕 v v
+被盗 v v
+被俘 v v
+被覆 n v
+被害 v
+被叫 v v
+被窃 v
+被占 v v
+奔 g p v v
+奔波 v
+奔驰 n v v
+奔赴 v
+奔流 v
+奔忙 v
+奔命 v
+奔跑 v
+奔丧 v
+奔驶 v
+奔逃 v
+奔腾 n v
+奔突 v
+奔袭 v
+奔泻 v v
+奔涌 v
+奔月 v
+奔走 v
+本报 r v v
+本地化 v v
+本土化 v
+崩 v
+崩溃 v v
+崩裂 v
+崩塌 v v
+绷 g v
+绷脸 v
+甭 d v v
+泵 n v
+蹦 v
+迸 v
+迸发 v
+迸溅 v
+迸裂 v
+逼 v
+逼供 v v
+逼和 v
+逼近 v
+逼迫 v v
+逼视 v
+逼死 v
+逼债 v
+比 j n p v
+比方 c n v
+比画 v
+比划 v
+比较 d p v v
+比量 v
+比拟 v v
+比起 v
+比如 n p v
+比赛 v v
+比试 v
+比武 v
+比喻 n v
+比照 v
+比作 v
+鄙薄 v
+鄙弃 v
+鄙视 v
+鄙夷 v
+笔答 v
+笔耕 v
+笔记 n v
+笔录 n v
+笔试 n v
+笔算 v
+笔谈 v v
+笔译 v
+蔽 g v v
+蔽塞 a v
+毕 g n v v
+毕业 v v
+毙 v
+毙命 v
+庇护 v v
+庇佑 v
+闭 g v
+闭关 v
+闭合 v v
+闭会 v
+闭经 v
+闭卷 n v
+闭幕 v v
+闭目 v v
+闭塞 a v v
+必败 v
+必备 b v v
+必读 v
+必经 v v
+必胜 v
+必修 v v
+必需 v v
+必须 d n v
+辟 g v
+辟邪 v
+辟谣 v
+避 v
+避风 v
+避讳 v
+避开 v
+避免 v
+避难 v v
+避让 v
+避暑 v v
+避嫌 v
+避险 v
+避邪 v
+避孕 v v
+鞭 g n n v
+鞭策 v v
+鞭打 v
+鞭挞 v
+鞭笞 v
+编 g j n v
+编成 v
+编程 v v
+编次 v
+编导 n v v
+编订 v
+编队 n v
+编号 n v
+编辑 n v v
+编剧 n v v
+编录 v
+编码 n v v
+编目 n v
+编排 v v
+编入 v
+编审 n v v
+编写 v v
+编选 v
+编演 v
+编译 n v
+编印 v
+编造 v
+编织 v v
+编制 n v v
+编著 v
+编撰 v v
+编组 n v v
+编纂 v v
+贬 v
+贬褒 v
+贬斥 v
+贬低 v
+贬损 v
+贬抑 v
+贬职 v
+贬值 v v
+贬谪 v
+贬黜 v
+便利 a a v v
+便秘 v
+便民 b v v
+便溺 n v
+便血 v
+便宜 a a v
+便于 v
+变 a v v
+变成 v
+变电 v v
+变调 v
+变动 v v
+变法 v
+变革 v v
+变更 v v
+变化 v v
+变换 v
+变幻 v v
+变价 v
+变节 v
+变脸 v v
+变卖 v
+变频 v
+变迁 v v
+变色 v
+变速 v
+变态 n v
+变天 v
+变通 v v
+变为 v
+变戏法 v
+变线 v
+变相 v v
+变心 v
+变型 v
+变形 v v
+变性 v v
+变样 v
+变异 n v
+变质 v v
+变卦 v
+辨 g v v
+辨别 v
+辨认 v
+辨识 v
+辨析 v
+辨义 v
+辨证 v
+辩 g v v
+辩白 v
+辩驳 v
+辩护 v
+辩解 v v
+辩论 v v
+辩明 v
+辩正 v
+辩证 a b v v
+遍 a d q v
+遍布 v
+遍地 v v
+遍访 v
+遍及 v
+遍野 v
+标 g n n q v
+标榜 v
+标点 n v
+标定 v
+标记 n v
+标价 n v v
+标明 v v
+标示 v v
+标志 n v v
+标注 n v
+标准化 v v
+彪炳 v z
+表 g n v v
+表白 v
+表达 v v
+表功 v
+表决 v v
+表露 v v
+表面化 v
+表明 v v
+表情 n v
+表示 v v
+表述 v v
+表态 v v
+表现 n v v
+表演 n v v
+表扬 v v
+表意 v
+表音 v
+表彰 v v
+表征 n v
+憋 v
+别 d n r v v
+别离 v
+别提 v
+濒 g v
+濒临 v
+濒死 v
+濒危 v v
+濒于 v
+摈除 v
+摈弃 v
+兵变 v
+冰 n v
+冰冻 n v v
+冰镇 v
+秉笔 v
+秉承 v
+秉借 v
+病 n v
+病变 v v
+病倒 v
+病故 v
+病逝 v
+病退 v
+病危 v v
+病休 v
+病愈 v
+并 c d g v
+并存 v v
+并发 v
+并非 d v
+并购 v v
+并轨 v v
+并进 v
+并举 v
+并立 v
+并联 v
+并列 v v
+并拢 v
+并入 v
+并吞 v
+并网 v
+并线 v
+并行 v v
+并用 v
+并重 v
+播 v
+播报 v
+播出 v v
+播发 v
+播放 v v
+播讲 v
+播撒 v
+播送 v
+播音 v v
+播映 v
+播种 v v
+拨 q v
+拨打 v
+拨动 v
+拨发 v
+拨付 v v
+拨给 v
+拨号 v
+拨开 v
+拨款 n v v
+拨弄 v
+拨通 v
+波动 n v v
+波分 n v v
+波及 v v
+博采 v
+博得 v
+博览 v v
+博取 v
+博弈 v
+勃兴 v v
+搏 g v v
+搏动 v
+搏斗 v v
+搏击 v
+搏杀 v v
+泊 g v
+驳 g v
+驳斥 v v
+驳倒 v
+驳回 v
+驳运 v v
+捕 v
+捕获 v
+捕捞 v v
+捕猎 v v
+捕拿 v
+捕杀 v
+捕食 v
+捕鱼 v v
+捕捉 v v
+卜 g n v x
+卜卦 v
+哺 g v
+哺乳 v
+哺养 v
+哺育 v v
+补 g v v
+补报 v
+补差 v
+补偿 v v
+补充 v v
+补发 v
+补给 v v
+补过 v
+补焊 v v
+补缴 v
+补救 v v
+补考 v
+补课 v v
+补苗 v
+补票 v
+补缺 v
+补税 v
+补台 v
+补贴 n v v
+补习 v v
+补休 v
+补修 v v
+补选 v
+补血 v
+补牙 v
+补养 v
+补遗 n v
+补益 v v
+补征 v
+补种 v
+补助 n v v
+补缀 v
+补足 v
+不 d v
+不齿 v
+不得 v
+不得不 d v
+不等 v
+不独 c v
+不乏 v
+不妨 d v
+不符 v
+不服 v
+不甘 v v
+不够 a v
+不顾 v
+不管 c d v
+不合 a v
+不会 v
+不讳 v
+不及 v
+不见 d v
+不结盟 v v
+不解 v
+不拘 v
+不堪 d v
+不可 d v
+不愧 d v
+不愧为 v
+不理 v
+不利于 v
+不料 d v
+不吝 v
+不论 c v
+不满 a a v
+不明 v v
+不能 d v
+不怕 v
+不屈 v
+不然 c v
+不忍 v
+不容 v
+不如 c v
+不胜 d v
+不失为 v
+不是 c v
+不衰 v
+不遂 v
+不图 v
+不外 v
+不外乎 d v
+不畏 v
+不无 v
+不息 v
+不惜 v
+不下于 v
+不详 v
+不消 v
+不屑 v
+不休 v
+不许 d v
+不要 d v
+不一 v
+不依 v
+不宜 v
+不已 d v
+不用说 l v
+不予 v
+不孕 v
+不再 d v
+不在乎 v
+不知 v
+不止 v
+不致于 v
+不准 d v v
+不足 a a n v v
+不足道 v
+不足以 v
+不谙 v
+不啻 d v
+布 g j n v
+布道 v
+布点 v v
+布防 v
+布光 v v
+布景 n v
+布局 n v v
+布雷 v
+布满 v
+布洒 v
+布设 v
+布施 v v
+布展 v v
+布阵 v
+布置 v v
+步 g n n q v
+步测 v
+步履 n v
+步入 v
+步行 v
+步韵 v
+部署 v v
+擦 v
+擦掉 v
+擦亮 v
+擦伤 v
+擦拭 v
+擦洗 v
+擦澡 v
+猜 v
+猜猜 v
+猜测 v v
+猜度 v
+猜忌 v
+猜谜 v
+猜拳 v
+猜想 v
+猜疑 v v
+猜中 v
+裁 g v
+裁边 v v
+裁撤 v
+裁处 v v
+裁定 v v
+裁断 v
+裁夺 v
+裁缝 n v v
+裁剪 v
+裁减 v
+裁决 v v
+裁军 v v
+裁判 n v
+裁员 v v
+才能 n v
+睬 v
+踩 v
+踩高跷 v
+踩水 v
+踩闸 v
+采 g v v x
+采办 v
+采编 j v v
+采伐 v v
+采访 v v
+采风 v v
+采购 v v
+采光 v
+采集 v v
+采掘 v v
+采矿 v v
+采录 v
+采买 v
+采煤 v v
+采纳 v v
+采暖 v v
+采取 v
+采石 v v
+采写 v
+采样 v v
+采药 v
+采用 v v
+采油 v v
+采摘 v v
+采制 v
+采种 v
+采撷 v
+彩排 v v
+菜单化 v
+餐 g n n q v v
+参 g j n n v x
+参拜 v
+参半 v
+参股 v v
+参观 v v
+参加 v v
+参见 v
+参建 v v
+参军 v v
+参看 v
+参考 v v
+参谋 n v
+参评 v v
+参赛 v v
+参选 v
+参议 n v
+参与 v v
+参预 v
+参阅 v
+参展 v v
+参战 v v
+参照 v v
+参政 v v
+参谒 v
+蚕食 v v
+残 a a g v
+残存 v
+残废 v v
+残害 v
+残留 v v
+残破 v
+残缺 v v
+残杀 v
+残损 v
+惨败 n v v
+惨叫 v
+惨杀 v
+惨死 v
+惨笑 v
+惨遭 v
+仓储 v v
+藏 g j n v
+藏匿 v
+藏身 v v
+藏书 n v v
+藏掖 v
+藏拙 v
+操 g n v
+操办 v
+操持 v
+操劳 v v
+操练 v
+操心 v
+操演 v
+操纵 v v
+操作 v v
+草创 v v
+草拟 v
+草签 n v
+策动 v
+策反 v
+策划 n v v
+策应 v v
+侧 f g n v
+侧击 v
+侧身 v
+侧卧 v
+侧向 v
+侧重 v v v
+册封 v
+测 v
+测出 v
+测定 v v
+测度 v
+测绘 v v
+测距 v
+测控 v
+测量 v v
+测评 v
+测试 v v
+测速 v
+测算 v v
+测验 v v
+测字 v
+层报 v
+蹭 v
+插 v
+插班 v
+插队 v
+插花 v
+插话 n v
+插口 n v
+插入 v
+插手 v
+插条 v
+插秧 v
+插足 v
+插嘴 v
+叉 n v x
+叉腰 v
+查 g n v
+查案 v
+查办 v
+查抄 v
+查出 v
+查处 v v
+查档 v
+查点 v v
+查对 v
+查房 v
+查访 v v
+查封 v v
+查核 v
+查获 v v
+查缉 v
+查检 v
+查缴 v
+查禁 v v
+查究 v
+查卷 v
+查勘 v
+查看 v
+查考 v
+查控 v
+查明 v
+查票 v
+查铺 v
+查讫 v
+查勤 v v
+查清 v
+查哨 v
+查实 v
+查收 v
+查体 v
+查问 v
+查血 v
+查询 v v
+查验 v
+查夜 v
+查阅 v
+查账 v
+查找 v
+查证 v v
+搽 v
+搽粉 v
+察 g j v
+察访 v
+察觉 v v
+察看 v v
+察明 v
+岔 g v
+岔开 v
+岔气 v
+差 a a g n n v x
+差别化 v v
+差遣 v
+差使 v v
+差转 v v
+拆 g v v
+拆除 v
+拆穿 v
+拆封 v
+拆毁 v
+拆伙 v
+拆解 v v
+拆借 v v
+拆开 v
+拆迁 v
+拆散 v
+拆台 v
+拆洗 v
+拆线 v
+拆卸 v
+拆阅 v
+拆字 v
+搀 v
+搀扶 v v
+搀和 v
+搀假 v
+搀杂 v
+掺 g v
+掺假 v
+掺水 v
+掺杂 v
+蝉联 v
+馋嘴 n v
+缠 v
+缠绕 v
+缠身 v
+缠住 v
+缠足 v
+铲 g n v
+铲除 v
+产 g j n n v v
+产出 n v v
+产粮 v
+产卵 v v
+产品化 v v
+产生 v v
+产销 n v v
+产业化 v v v
+阐发 v v
+阐明 v v
+阐释 v v
+阐述 v v
+颤 g v
+颤动 v
+颤抖 v
+颤栗 v v
+颤悠 v
+尝 g v
+尝尝 v
+尝试 v v
+尝新 v
+常见于 v
+常住 v
+常驻 v v
+长 a a a g j k n n v
+长成 v
+长存 v
+长达 v
+长大 v
+长进 v
+长眠 v
+长跑 v v
+长驱 v
+长叹 v
+长啸 v
+长远 a a a n v
+长征 n n v
+长住 v v
+偿 g v v
+偿付 v v
+偿还 v v
+偿命 v
+偿债 v v
+敞 a v
+敞开 v v
+敞露 v
+畅谈 v
+畅通 a a v
+畅想 v v
+畅销 a a v
+畅行 v
+畅叙 v
+畅饮 v
+畅游 v
+唱 g n v
+唱反调 v
+唱高调 v
+唱歌 v v
+唱票 v
+唱戏 v
+唱主角 v
+倡 g v
+倡导 v v
+倡议 n v v
+超 d h v
+超编 v v
+超标 v v v
+超产 v
+超常 v
+超车 v
+超出 v v
+超大 a b v
+超度 v
+超额 v v v
+超过 v
+超乎 v
+超假 v
+超量 v v
+超龄 v
+超群 v
+超生 v
+超水平 v v
+超速 v v v
+超脱 a v
+超员 v v
+超越 v v
+超载 v
+超支 n v
+超重 v
+抄 v
+抄报 v
+抄查 v
+抄获 v
+抄家 v
+抄录 v
+抄身 v
+抄收 v
+抄送 v
+抄袭 v
+抄写 v
+朝 g j p q t t v
+朝拜 v
+朝贡 v
+朝见 v
+朝圣 v v
+朝向 n v
+嘲讽 v
+嘲弄 v
+嘲笑 v
+吵 v x
+吵架 v
+吵闹 a v v
+吵嚷 v
+吵嘴 v
+炒 v
+炒菜 n v
+炒饭 n v
+炒股 v
+炒汇 v
+炒卖 v
+炒鱿鱼 v
+车 n n q v
+扯 v
+扯淡 v
+扯后腿 v
+扯谎 v
+扯裂 v
+扯皮 v
+撤 v
+撤兵 v
+撤出 v
+撤除 v
+撤掉 v
+撤防 v
+撤换 v
+撤回 v
+撤军 v v
+撤离 v
+撤诉 v
+撤退 v
+撤席 v
+撤销 v
+撤消 v
+撤职 v v
+撤走 v
+掣 g v
+掣肘 v v
+彻 g v v
+臣服 v
+尘封 v
+晨练 v
+沉 a v
+沉底 v v
+沉淀 n v
+沉浮 v v
+沉积 v v
+沉寂 v z
+沉降 v v
+沉浸 v
+沉沦 v
+沉没 v
+沉迷 v
+沉默 a a v
+沉溺 v
+沉睡 v
+沉思 v v
+沉陷 v
+沉吟 v
+沉住气 v
+沉醉 v
+沉湎 v
+陈 a g n t v v
+陈列 v v
+陈设 n v v
+陈述 v v
+陈说 v
+陈诉 v
+趁 g p v
+衬 g v
+衬托 v v
+衬映 v
+撑 v
+撑门面 v
+撑腰 v
+撑住 v
+称 g n v v
+称霸 v
+称道 v
+称得起 v
+称得上 v
+称帝 v
+称呼 n v
+称快 v
+称颂 v
+称为 v
+称谓 n v v
+称羡 v
+称谢 v
+称雄 v
+称许 v
+称誉 v
+称赞 v v v
+称之为 v
+称做 v
+称作 v
+城市 n v v
+城市化 v v
+成 a a j n n q v
+成材 v v
+成才 v v
+成册 v
+成长 v v
+成堆 v
+成风 v
+成婚 v
+成活 v
+成绩 n v
+成家 v
+成交 n v v
+成就 n v
+成立 v v
+成名 v v
+成年 b n v v
+成片 b d v v
+成器 v
+成亲 v
+成全 v
+成群 v v
+成仁 v
+成人 n v v
+成事 n v
+成熟 a a v
+成团 v
+成为 v v
+成文 v
+成像 v v
+成型 v v
+成行 v
+成灾 v
+呈 g v
+呈报 v
+呈递 v
+呈请 v
+呈示 v
+呈现 v
+呈献 v
+乘 g p v
+乘车 v v
+乘船 v
+乘机 d v v
+乘凉 v
+乘坐 v
+惩 g v
+惩办 v
+惩处 v v
+惩罚 v v
+惩戒 v
+惩治 v v
+澄 g v
+澄清 v
+诚然 c d v
+诚如 v
+诚挚 a v
+承 g n v v
+承办 v v
+承包 v v
+承贷 v
+承担 v
+承当 v
+承兑 v v
+承负 v v
+承继 v
+承建 v v
+承接 v
+承揽 v
+承蒙 v
+承诺 v v
+承情 v
+承认 v v
+承受 v v
+承袭 v
+承销 j v v
+承修 v
+承印 v
+承运 v
+承载 v v
+承重 v
+承租 v
+逞 g v
+逞能 v
+逞强 v
+逞性子 v
+逞凶 v
+吃 v v x
+吃败仗 l v
+吃醋 v
+吃饭 v v
+吃官司 l v
+吃馆子 v
+吃光 v
+吃荤 v
+吃苦 v v
+吃苦头 v
+吃亏 a v
+吃请 v
+吃水 a n v v
+吃素 v
+吃透 v
+吃斋 v
+吃重 a v
+痴恋 v
+痴迷 v v
+痴想 v
+持 v
+持家 v
+持平 v
+持枪 v v v
+持球 v
+持续 d v v v
+持有 v v
+持证 v v
+迟到 v v
+迟误 v
+迟延 v
+迟滞 a v
+驰 g v v
+驰骋 v
+驰名 v v
+驰援 v
+耻 a g v
+耻笑 v
+侈谈 n v
+赤 a a g v v
+赤膊 n v
+赤脚 n v
+赤露 v
+赤足 n v v
+斥 g v v x
+斥骂 v
+斥退 v
+斥责 v
+斥资 v
+充 g n v
+充斥 v
+充当 v
+充电 v v
+充放电 v v
+充公 v
+充饥 v
+充军 v
+充满 v
+充气 v v
+充任 v
+充塞 v
+充实 a a v
+充数 v
+充血 v
+充溢 v
+充盈 v v
+冲 a g j p v
+冲茶 v
+冲刺 v v
+冲淡 v
+冲荡 v
+冲犯 v
+冲锋 v
+冲服 v
+冲击 v v
+冲积 v v
+冲开 v
+冲垮 v
+冲浪 v
+冲凉 v
+冲破 v
+冲散 v
+冲杀 v
+冲刷 v
+冲突 v v
+冲洗 v
+冲销 v
+冲压 v
+冲澡 v
+冲账 v
+冲撞 v
+冲走 v
+崇拜 v v
+崇奉 v
+崇敬 v v
+崇尚 v
+宠 v v
+宠爱 v
+宠坏 v
+宠信 v
+抽 v
+抽查 v v
+抽出 v
+抽搐 v
+抽搭 v
+抽打 v
+抽调 v
+抽动 v
+抽风 v
+抽检 v v
+抽奖 v v
+抽筋 v
+抽空 v
+抽泣 v
+抽签 v v
+抽取 v
+抽纱 v
+抽身 v
+抽水 v
+抽税 v
+抽丝 v
+抽穗 v
+抽头 v
+抽象 a a v v
+抽血 v
+抽芽 v
+抽烟 v
+抽验 v
+抽样 v v
+抽噎 v
+抽印 v
+抽枝 v
+抽壮丁 v
+酬 g n v
+酬报 v
+酬宾 v
+酬答 v
+酬劳 v v
+酬谢 v v
+酬应 v
+酬酢 v
+踌躇 v
+愁 g n n v
+筹 g v
+筹办 v v
+筹备 v v
+筹措 v v
+筹划 v v
+筹集 v v
+筹建 v v
+筹借 v
+筹款 v v
+筹募 v
+筹算 v
+筹资 v v
+仇恨 n v v
+仇杀 v v
+仇视 v v
+瞅 v
+瞅见 v
+丑化 v
+臭骂 v
+初创 v v
+初犯 v
+初见 v
+初恋 v v
+初评 v
+初赛 v
+初审 v
+初始 b v
+初始化 v
+初试 v
+初选 v
+初学 v
+初印 v
+初战 v
+初诊 v
+出 q v v v
+出版 v v
+出榜 v
+出奔 v
+出兵 v
+出操 v v
+出岔子 v
+出差 v v
+出产 n v
+出场 v v
+出厂 v v
+出超 v
+出车 v
+出丑 v
+出出 v
+出错 v v
+出道 v
+出点子 v
+出动 v
+出发 v v
+出访 v v
+出风头 v
+出港 v
+出格 v
+出阁 v
+出工 v
+出恭 v
+出公差 v
+出关 v
+出轨 v
+出国 v v
+出海 v v
+出航 v
+出乎 v
+出活 v
+出击 v
+出家 v
+出价 v
+出嫁 v
+出界 v
+出借 v
+出境 v v
+出局 v v
+出具 v
+出口 n v v
+出来 v
+出栏 v v
+出冷汗 v
+出力 v
+出列 v
+出猎 v
+出笼 v
+出漏子 v
+出炉 v
+出乱子 v
+出落 v
+出马 v
+出卖 v
+出毛病 v
+出没 v
+出门 v
+出面 v
+出苗 v
+出品 n v
+出气 v
+出勤 v v
+出去 v
+出让 v
+出人命 v
+出任 v
+出入 n v v
+出色 a a a v
+出山 v
+出身 v
+出神 v
+出生 v v
+出师 v
+出使 v
+出示 v
+出世 v
+出事 v v
+出手 n v
+出售 v v
+出死力 v
+出台 v v
+出逃 v
+出题 v
+出庭 v v
+出头 m n v
+出土 v v
+出外 v
+出席 v
+出现 v v
+出线 v v
+出新 v
+出行 v v
+出血 v
+出巡 v
+出芽 v
+出言 v
+出演 v
+出洋 v
+出洋相 v
+出迎 v
+出游 v v
+出于 v
+出狱 v
+出浴 v
+出院 v v
+出战 v
+出疹子 v
+出诊 v
+出阵 v
+出征 v v
+出资 v v
+出自 v
+出走 v v
+出租 v v
+出殡 v
+锄 g v
+锄草 v
+锄奸 v
+除 g p v
+除草 v v
+除尘 v v
+除掉 v
+除恶 v
+除根 v
+除开 v
+除了 p v
+除名 v
+除去 v
+除外 v
+除锈 v
+除雪 v v
+除以 v
+储 g n n v v
+储备 n v v
+储藏 v v
+储存 v v
+储供 v v
+储蓄 n v v
+矗立 v
+触 v
+触电 v
+触动 v v
+触发 v
+触犯 v
+触及 v
+触礁 v
+触雷 v
+触摸 v
+触怒 v
+处 n q v
+处罚 v v
+处方 n v
+处分 n v v
+处决 v
+处理 v v
+处世 v
+处事 v v
+处死 v
+处刑 v
+处以 v
+处于 v
+处在 v
+处置 v v
+处治 v
+揣 g v x
+揣测 v
+揣度 v
+揣摩 v
+穿 v v
+穿插 v
+穿刺 v
+穿戴 n v
+穿过 v
+穿孔 v
+穿梭 v v v
+穿透 v
+穿行 v
+穿巡 v
+穿越 v v
+穿着 n v
+传 g n n v
+传遍 v
+传播 v v
+传唱 v
+传抄 v
+传承 v v
+传出 v
+传达 v v
+传代 v
+传导 v v
+传道 v
+传递 v v
+传动 v v
+传呼 v v
+传话 v v
+传唤 v v
+传回 v
+传教 v v
+传开 v
+传来 v v
+传令 v
+传情 v
+传球 v v
+传染 v v
+传热 v
+传人 n v
+传入 v v
+传世 v v
+传授 v v
+传输 v v
+传说 n v
+传颂 v
+传送 v v
+传诵 v
+传习 v
+传销 v v
+传讯 v v
+传言 n v
+传扬 v
+传艺 v
+传阅 v v
+传种 v
+船运 v v
+喘 v
+喘喘气 v
+喘气 v
+喘息 v v
+串 n q v
+串供 v
+串话 v
+串会 v
+串讲 v
+串联 v
+串连 v
+串门 v
+串通 v v
+串演 v
+闯 v
+闯荡 v v
+闯关东 v
+闯祸 v
+闯江湖 v
+闯进 v
+闯入 v
+创 g n n v v
+创办 v
+创出 v
+创汇 v v
+创纪录 v v
+创建 v v
+创刊 v v
+创利 v v
+创立 v v
+创牌子 v
+创设 v
+创始 v v
+创收 v
+创下 v
+创新 v v
+创演 v
+创业 n v v
+创造 v v
+创制 v
+创作 n v v
+吹 v
+吹打 v
+吹动 v
+吹风 v
+吹拂 v
+吹号 v
+吹冷风 v
+吹牛 v
+吹牛皮 v
+吹捧 v
+吹塑 v
+吹嘘 v
+吹奏 v v
+捶 v
+捶背 v
+捶打 v
+锤炼 v
+垂 g v
+垂钓 v
+垂范 v
+垂落 v
+垂念 v
+垂青 v
+垂涎 v
+垂询 v
+垂直 v v v
+春播 v v
+春耕 n v v
+春灌 v v
+春游 v
+纯洁 a a v
+纯净 a a v
+纯属 v
+戳 g v
+戳穿 v
+绰 g v
+磁化 v
+磁疗 v
+辞 g n v
+辞别 v
+辞去 v
+辞让 v
+辞世 v
+辞讼 v
+辞岁 v
+辞退 v
+辞谢 v
+辞行 v v
+辞职 v v
+此致 v
+刺 n o v
+刺激 a v v
+刺杀 v v
+刺伤 v
+刺探 v
+刺绣 n v
+刺中 v
+赐 g v
+赐福 v
+赐稿 v
+赐教 v
+赐予 v v
+次于 v
+次之 v
+从 d g n p v
+从简 v
+从教 v
+从警 v
+从军 v v
+从宽 d v
+从良 v
+从略 v
+从戎 v
+从师 v
+从事 v
+从属 v
+从俗 v
+从严 d v
+从业 b v
+从艺 v
+从政 v v
+丛集 n v
+丛生 v
+凑 v
+凑份子 v
+凑和 v
+凑合 v
+凑集 v
+凑近 v
+凑拢 v
+凑趣 v
+凑热闹 v
+凑数 v
+凑足 v
+粗放 v
+簇拥 v v
+促 g v v
+促成 v
+促进 v v
+促请 v
+促生产 v
+促使 v
+促销 v v
+蹿 v
+篡党 v
+篡夺 v
+篡改 v
+篡权 v
+篡位 v
+窜 v
+窜犯 v
+窜改 v
+窜扰 v
+窜逃 v
+摧 g v v
+摧残 v v
+摧毁 v
+催 v
+催办 v
+催逼 v
+催产 v
+催促 v v
+催肥 v
+催化 v v
+催缴 v v
+催款 v
+催粮 v
+催眠 v
+催命 v
+催奶 v
+催青 v
+催生 v
+催熟 v v
+催芽 v v
+淬火 v
+村办 v v
+存 j v
+存查 v
+存储 v v
+存贷 n v
+存档 v
+存放 v v
+存活 v v
+存款 n v v
+存栏 v v
+存取 v v
+存入 v
+存身 v
+存亡 n v
+存心 d v
+存疑 v
+存在 v v
+存照 n v
+存贮 v
+磋商 v v
+撮 q v
+撮合 v v
+搓 v
+搓洗 v
+搓澡 v
+措 g v
+措辞 v v
+措词 v
+措施 n v
+挫 v
+挫败 v
+挫伤 v
+挫折 n v v
+错 a n v v
+错车 v
+错怪 v
+错过 v
+错开 v
+错落 v
+错位 v v
+搭 v
+搭伴 v
+搭乘 v
+搭档 n v
+搭话 v
+搭伙 v
+搭建 v
+搭界 v
+搭救 v
+搭理 v
+搭配 v v v
+搭棚 v
+搭腔 v
+搭桥 v v
+搭线 v
+搭载 v
+搭讪 v
+达 g n v
+达标 v v v
+达成 n v v
+达到 v
+达意 v
+答 g n v
+答辩 v v
+答茬 v
+答道 v
+答对 v
+答复 v v
+答话 v
+答理 v
+答礼 v
+答腔 v
+答谢 v
+答疑 v v
+答应 v
+打 p q v v
+打靶 v v
+打摆子 v
+打败 v
+打扮 n v
+打苞 v
+打包 v
+打岔 v
+打柴 v
+打颤 v
+打场 v
+打车 v
+打虫 v
+打出手 v
+打打 v
+打倒 v
+打的 v
+打底子 v
+打地铺 v
+打点 v
+打电话 v
+打动 v
+打斗 v
+打赌 v
+打断 v
+打哆嗦 v
+打发 v
+打翻 v
+打非 v v
+打分 v
+打更 v
+打工 v v
+打鼓 v
+打官司 v v
+打滚 v
+打哈哈 v
+打哈欠 v
+打夯 v
+打呼噜 v
+打滑 v
+打火 v
+打击 v v
+打基础 v
+打假 v v
+打架 v v
+打尖 v
+打浆 v
+打交道 v
+打搅 v
+打劫 v
+打结 v
+打井 v v
+打酒 v
+打开 v
+打孔 v
+打垮 v
+打蜡 v
+打捞 v
+打雷 v
+打擂台 v
+打量 v
+打猎 v
+打零工 v
+打乱 v
+打落 v
+打骂 v
+打埋伏 v
+打磨 v
+打闹 v
+打拍子 v
+打牌 v
+打炮 v
+打喷嚏 v
+打票 v
+打破 v
+打旗 v
+打气 v v
+打前站 v
+打枪 v
+打球 v
+打趣 v
+打拳 v
+打群架 v
+打扰 v
+打入 v
+打伞 v
+打散 v
+打扫 v
+打闪 v
+打私 v v
+打算 n v v
+打算盘 v
+打碎 v
+打胎 v
+打探 v
+打天下 v
+打铁 v
+打听 v
+打通 v
+打头 v
+打头阵 v
+打下 v
+打下手 v
+打响 v
+打消 v
+打掩护 v
+打眼 v
+打样 v
+打药 n v
+打印 v v
+打游击 v
+打鱼 v
+打杂 v
+打造 v
+打战 v
+打仗 v
+打招呼 v
+打折 v v
+打折扣 v
+打针 v
+打中 v
+打钟 v
+打粥 v
+打主意 v
+打住 v
+打转 v
+打转儿 v
+打桩 v v
+打字 v v
+打坐 v
+打诨 v
+打嗝 v
+打杈 v
+打榧子 v
+打烊 v
+打盹 v
+打瞌睡 v
+打鼾 v
+大败 v
+大办 v
+大便 n v
+大出血 v
+大干 v
+大规模化 v v
+大解 v
+大考 v
+大赛 v v
+大扫除 v
+大赦 v
+大团圆 n v
+大笑 v
+大修 n v v
+大选 n v v
+大于 v
+大战 n v
+大众化 v v
+大作 n v
+呆 a v
+戴 g n v
+戴孝 v
+带 g n n v
+带班 v
+带兵 v v
+带刺 v
+带到 v
+带电 v
+带动 v v
+带队 v
+带来 v
+带领 v v
+带路 v
+带入 v
+带伤 v v
+带头 v v v
+带孝 v
+带笑 v
+带羞 v
+带有 v
+带资 v
+带走 v
+殆尽 v
+代 n n q v
+代办 n v
+代笔 v
+代表 n v v
+代购 v
+代管 v
+代换 v
+代课 v v
+代劳 v
+代理 n v v
+代培 v
+代售 v
+代书 v
+代替 p v
+代销 v
+代谢 v v
+代用 v
+代职 v
+贷 g n v v
+贷款 n v v
+待 p v v
+待办 v
+待查 v
+待产 v
+待岗 v v
+待机 v v
+待考 v
+待客 v
+待命 v
+待人 v
+待续 v
+待业 v v
+待援 v
+待战 v
+逮 g v x
+逮捕 v v
+怠工 v
+怠慢 v
+耽搁 v
+耽误 v
+耽于 v
+担 g n q v
+担保 v v
+担不是 v
+担待 v
+担当 v
+担风险 v
+担负 v
+担纲 v
+担任 v
+担心 v v
+担忧 v v
+单打一 v
+单干 v
+单击 v
+单列 v
+单一化 v
+掸 g v
+胆敢 v
+胆寒 v
+旦 g n q v
+氮化 v
+但愿 v
+淡泊 v
+淡出 v
+淡化 v v
+淡漠 a v
+淡忘 v
+诞生 v v
+弹 g n n v
+弹回 v
+弹起 v
+弹琴 v
+弹射 v
+弹跳 v
+弹压 v
+弹奏 v
+弹劾 v
+当 g n o p v v v v
+当班 v v
+当兵 v v
+当差 n v
+当成 v
+当道 s v
+当官 v
+当家 v v
+当今 t v
+当权 v
+当头 d v
+当心 v v
+当选 v v
+当真 d v
+当政 v
+当做 v
+当作 v
+挡 n q v x
+挡风 v v
+挡光 v
+挡驾 v
+挡路 v
+挡住 v
+荡 g v
+荡涤 v
+荡秋千 v
+荡漾 v
+捣 v
+捣蛋 v
+捣鼓 v
+捣鬼 v
+捣毁 v
+捣乱 v
+捣碎 v
+蹈 g v
+倒 d v
+倒班 v
+倒闭 v v
+倒不如 v
+倒插 v
+倒茬 v
+倒车 v v
+倒掉 v
+倒伏 v
+倒戈 v
+倒阁 v
+倒挂 v
+倒灌 v
+倒换 v
+倒剪 v
+倒扣 v
+倒立 v
+倒流 v v
+倒卖 v
+倒赔 v
+倒入 v
+倒手 v
+倒数 n v
+倒水 v
+倒算 v
+倒塌 v v
+倒台 v
+倒腾 v
+倒贴 v
+倒退 v v
+倒胃口 v
+倒下 v
+倒休 v
+倒叙 v
+倒悬 v
+倒映 v
+倒运 a v
+倒置 v
+倒转 v
+倒装 v
+祷 g v
+祷告 v
+导 g j v v
+导出 v
+导电 v
+导航 v v
+导护 v
+导尿 v
+导热 v
+导入 v
+导向 n v
+导演 n v
+导游 n v
+导致 v v
+到 g p v v
+到场 v
+到达 v v
+到底 d v
+到点 v
+到顶 v
+到访 v
+到会 v
+到货 v v
+到来 v v
+到期 v v
+到任 v
+到手 v
+到头 v
+到位 v v
+到职 v
+悼 g v
+悼念 v v
+道 j n n q v
+道别 v
+道贺 v
+道破 v
+道歉 v v
+道喜 v
+道谢 v
+盗 g n v v
+盗版 n v v
+盗车 v v
+盗汗 v
+盗掘 v v
+盗卖 v v
+盗墓 v
+盗窃 v v
+盗取 v
+盗印 v v
+盗用 v
+盗运 v
+盗走 v
+得 e u u v v
+得病 v
+得不到 v
+得逞 v
+得宠 v
+得出 v
+得到 v
+得分 n v v
+得救 v
+得空 v
+得利 v
+得利于 v
+得了 v y
+得人心 a v
+得胜 v
+得势 v
+得手 a v v
+得悉 v
+得闲 v
+得以 d v
+得益 v
+得知 v
+得志 v
+得罪 v
+蹬 v x
+蹬立 v
+蹬腿 v
+登 v
+登岸 v
+登报 v
+登场 v
+登程 v
+登高 v v
+登基 v
+登机 v v
+登记 v v
+登临 v
+登录 v v
+登陆 v v
+登门 v
+登攀 v
+登山 v v
+登上 v
+登台 v
+登月 v v
+登载 v
+等 a c g n n q u v v
+等长 v
+等待 v v
+等到 c v
+等候 v v
+等价 v v
+等距 v v
+等宽 v
+等速 v
+等同 v
+等位 v
+等效 v
+等压 v
+等于 v
+等值 v v
+瞪 v
+瞪视 v
+瞪眼 v
+低 a a a v
+低垂 v
+低估 v
+低龄化 v
+低迷 a v
+低头 v
+低下 a a v
+低于 v
+低语 v
+滴 q v
+滴翠 v
+滴灌 v v
+滴水 n v
+滴眼药 v
+敌 g n n v v
+敌视 v v
+涤 g v
+涤荡 v
+嫡传 v
+抵 v
+抵补 v
+抵偿 v
+抵触 v v
+抵达 v
+抵挡 v
+抵京 v
+抵抗 v v
+抵扣 v
+抵赖 v
+抵命 v
+抵消 v
+抵押 v v
+抵御 v v
+抵债 v
+抵账 v
+抵制 v v
+抵罪 v
+地处 v
+地震 n v v
+递 g v
+递补 v
+递给 v
+递回 v
+递加 v
+递减 v v
+递交 v
+递进 v
+递升 v
+递水 v
+递送 v
+递增 v v
+缔交 v
+缔结 v
+缔约 v
+缔造 v v
+颠 a g v
+颠倒 v
+颠覆 v
+颠簸 v v v
+掂 v
+掂量 v
+点 m n q v
+点播 v
+点拨 v
+点菜 v
+点灯 v
+点滴 a n v
+点点 n q v
+点点头 v
+点歌 v
+点火 v v
+点货 v
+点将 v
+点卯 v
+点明 v
+点名 v
+点评 v v
+点破 v
+点球 n v v
+点燃 v
+点染 v
+点射 v
+点收 v
+点数 n v
+点题 v
+点头 v
+点穴 v
+点烟 v
+点眼药 v
+点验 v
+点种 v
+点缀 v
+典当 v
+典卖 v
+典押 v
+垫 g v
+垫补 v
+垫底 v v
+垫付 v
+垫款 n v
+垫支 v
+电 n v
+电动 b v
+电镀 v
+电告 v
+电焊 v
+电贺 v
+电汇 n v
+电击 v
+电解 v v
+电控 v v
+电离 n v
+电疗 v
+电气化 v v
+电闪 n v
+电慰 v
+电唁 v
+电子化 v v v
+佃 g v
+惦 v
+惦挂 v
+惦记 v v
+惦念 v
+奠定 v v
+奠基 v
+殿后 v
+殿试 v
+叼 v
+雕 g n n v
+雕花 n v
+雕刻 n v v
+雕饰 v
+雕塑 n v
+雕凿 v
+雕琢 v
+凋 g v
+凋零 v
+凋落 v
+凋萎 v
+凋谢 v
+刁难 v
+掉 v
+掉包 v
+掉队 v
+掉话 v v
+掉换 v
+掉魂 v
+掉价 v
+掉泪 v
+掉落 v
+掉色 v
+掉头 v
+掉转 v
+吊 q v
+吊顶 n v
+吊放 v
+吊扣 v
+吊嗓子 v
+吊丧 v
+吊死 v
+吊销 v
+吊孝 v
+吊唁 v
+吊装 v v
+钓 g v
+钓鱼 v
+调 n v
+调拨 v v
+调查 n v v
+调出 v
+调动 v v
+调度 n v v
+调防 v
+调幅 n v
+调干 v
+调和 v v
+调换 v
+调集 v
+调剂 v v
+调价 v v
+调减 v
+调焦 v
+调教 v
+调节 v v
+调解 v v v
+调控 n v v
+调离 v
+调理 v
+调弄 v
+调派 v
+调配 v v
+调频 v v
+调遣 v
+调情 v v
+调取 v
+调人 n v
+调任 v v
+调入 v
+调色 v
+调升 v v
+调试 v v
+调速 v
+调唆 v
+调停 v v
+调头 v
+调味 v
+调戏 v
+调笑 v
+调谐 a v
+调休 v
+调研 v v
+调演 v v
+调养 v
+调用 v
+调阅 v
+调匀 v
+调运 v v
+调整 v v
+调制 v v
+调治 v
+调转 v
+调资 v v
+调侃 v v
+跌 v v
+跌倒 v
+跌价 v v
+跌交 v
+跌落 v
+跌伤 v
+跌跤 v
+蝶泳 n v
+迭出 v
+迭起 v
+叠 q v
+叠加 v v
+叠罗汉 v
+叠印 v
+丁 g n n v v x
+盯 v
+盯梢 v
+盯住 v
+叮 v
+叮嘱 v
+叮咛 v
+钉 g v
+钉梢 v
+顶 d f g n n q v
+顶班 v
+顶风 n v v
+顶牛 v
+顶事 v
+顶替 v
+顶住 v
+顶撞 v
+顶嘴 v
+鼎立 v
+定 d g n v
+定案 n v v
+定编 v v v
+定点 d n v
+定调 v
+定都 v
+定夺 v
+定额 d n v
+定岗 v v
+定稿 n v v
+定格 v v
+定购 v v
+定婚 v
+定货 v
+定级 v
+定计 v
+定价 n v v
+定居 v
+定量 n v v
+定名 v
+定亲 v
+定神 v
+定位 n v v
+定下 v
+定弦 v
+定型 v v
+定形 v
+定性 v v
+定义 n v
+定影 v v
+定于 v
+定员 n v v
+定造 v
+定责 v v
+定制 v
+定罪 v
+定做 v
+定座 v
+订 v
+订报 v
+订餐 v
+订购 v
+订婚 v v
+订货 v v
+订立 v
+订约 v
+订阅 v v
+订正 v
+订制 v
+丢 v
+丢丑 v
+丢掉 v
+丢开 v
+丢面子 v
+丢弃 v
+丢失 v
+丢手 v
+东渡 v
+冬灌 v
+冬眠 v
+冬训 v v
+冬泳 n v v
+冬运 j v
+懂 v
+懂得 v
+懂事 a v
+动 g v
+动笔 v
+动兵 v
+动弹 v
+动荡 a a v
+动工 v
+动火 v
+动乱 v v
+动脑筋 v
+动怒 v
+动气 v
+动迁 v v
+动情 a v
+动容 v
+动身 v
+动手 v v
+动手术 v
+动土 v
+动武 v v
+动心 v
+动摇 a v v
+动用 v
+动员 v v
+动辄 d v
+恫吓 v v
+冻 n v
+冻僵 v
+冻结 v v
+冻伤 n v v
+冻死 v v
+洞察 v v
+洞开 v
+洞悉 v
+洞晓 v
+兜 g q v
+兜底 v
+兜风 v
+兜揽 v
+兜圈子 v
+兜售 v
+兜销 v
+抖 v
+抖动 v v
+抖搂 v
+抖落 v
+抖擞 v
+斗 n q v
+斗法 v
+斗鸡 v
+斗牛 v
+斗殴 v
+斗气 v
+斗心眼 v
+斗争 v v
+斗智 v
+斗嘴 v
+陡增 v
+逗 v
+逗乐 v
+逗留 v
+逗闷子 v
+逗弄 v
+逗趣 v
+逗笑 v
+逗引 v
+逗嘴 v
+逗哏 v
+都 d g n n n v
+都市化 v
+督办 v
+督察 n v
+督促 v v
+督导 v v
+督学 v
+督战 v
+毒 a n v
+毒打 v
+毒害 n v v
+毒化 v
+毒杀 v
+毒死 v
+独霸 v v
+独唱 v v
+独处 v
+独创 v v
+独断 v
+独居 v
+独具 v
+独揽 v
+独立 a a a d v v v
+独吞 v
+独有 a v
+独占 v v
+独奏 v v
+独尊 v v
+读 g n v
+读报 v v
+读出 v
+读读 v
+读取 v
+读入 v
+读书 v v
+堵 a g n q v
+堵车 v
+堵击 v
+堵截 v v
+堵塞 v v
+堵住 v
+睹 g v v
+赌 j v
+赌博 v v
+赌气 v
+赌钱 v
+赌咒 v
+杜 g n v
+杜绝 v
+杜撰 v
+镀 v
+镀金 v v
+度 g n n q v v
+度度 v
+度过 v
+度荒 v
+度假 v v
+度量 n v
+度日 v
+度夏 v v
+渡 g v
+渡过 v
+妒嫉 v v
+妒忌 v
+端 g n n q v
+端量 v
+端平 v
+端详 v
+端正 a v
+端坐 v
+短 a a v
+短不了 v
+短短 v z
+短路 v v
+短欠 v
+短缺 a v v
+短少 v
+短收 v v
+锻 g v
+锻炼 v v
+锻压 v
+锻造 v
+断 d v v
+断案 v
+断炊 v
+断代 b v
+断档 v v
+断电 v v
+断定 v
+断顿 v
+断根 v
+断后 v
+断交 v
+断句 v
+断绝 v
+断开 v
+断粮 v
+断裂 v
+断流 v v
+断路 v
+断奶 v
+断气 v
+断送 v
+断头 n v
+断言 v
+堆 k n q v
+堆存 v
+堆放 v v
+堆积 v v
+堆满 v
+堆砌 v
+兑 g v
+兑付 v v
+兑换 v v
+兑奖 v
+兑取 v
+兑现 v v
+对 a p q v
+对本 v
+对比 v v
+对不起 v
+对不住 v
+对唱 v v
+对冲 v v
+对答 v
+对打 v
+对待 v v
+对得起 v
+对等 v v
+对敌 v v
+对调 v
+对付 v
+对歌 v
+对攻 v
+对公 v v
+对光 v
+对号 v
+对话 v v
+对接 v v
+对局 v
+对开 n v
+对抗 v v
+对口 a a n v v
+对垒 v v
+对立 v v
+对流 v
+对骂 v
+对内 b d v v
+对齐 v
+对视 v v
+对外 v v v
+对消 v
+对饮 v
+对应 v
+对照 v v
+对折 v
+对阵 v v
+对证 v
+对峙 v v
+对质 v
+对准 v
+对坐 v
+对弈 v
+墩 g n n q v
+蹲 v
+蹲点 v
+蹲伏 v
+蹲苗 v
+敦促 v
+敦睦 v
+敦请 v
+敦劝 v
+顿 d d g n q v x
+顿首 v
+顿悟 v v
+囤 g v
+囤积 v
+哆嗦 v
+多 a a a d g m n n n v
+多达 v
+多多 d v z
+多发 b v
+多极化 v v
+多亏 v
+多谢 v
+多样化 v v v
+多于 v
+多余 a v
+多元化 v v v
+多嘴 v
+夺 v
+夺标 v
+夺得 v
+夺冠 v v
+夺金 j v
+夺魁 v v
+夺目 a v
+夺取 v
+夺权 v
+夺占 v
+垛 g n q v
+躲 v
+躲避 v
+躲藏 v
+躲开 v
+躲懒 v
+躲让 v
+躲闪 v
+躲雨 v
+躲债 v
+跺 v
+跺脚 v
+剁 v
+堕 v
+堕落 v v
+堕入 v
+堕胎 v
+讹 g v
+讹诈 v
+恶斗 v
+恶化 v v
+扼 g v
+扼杀 v
+扼守 v
+扼死 v
+扼制 v
+扼住 v
+遏止 v v
+遏制 v v
+饿 a v v
+饿饭 v
+恩赐 v v
+恩典 n v
+而是 c v
+耳聋 v v
+耳鸣 v v
+耳闻 v
+耳语 v
+发 g n n q v v
+发案 v v
+发榜 v
+发包 v v
+发报 v
+发表 v v
+发病 v v
+发布 v v
+发财 v
+发钞 v v
+发潮 v
+发车 v
+发愁 a v
+发臭 v
+发出 v v
+发喘 v
+发大财 v
+发呆 v
+发电 v v
+发动 v v
+发抖 v
+发放 v v
+发奋 v v
+发愤 v
+发疯 v
+发福 v
+发稿 v v
+发给 v
+发光 v
+发汗 v
+发狠 v
+发横 v
+发红 v
+发乎 v
+发花 v
+发话 v
+发还 v
+发慌 v
+发挥 v v
+发昏 v
+发火 v
+发货 v
+发迹 v
+发急 v
+发家 v
+发奖 v
+发酵 v v
+发窘 v
+发酒疯 v
+发旧 v
+发掘 v v
+发觉 v
+发狂 v
+发来 v
+发懒 v
+发牢骚 v
+发楞 v
+发冷 v
+发亮 v
+发令 v
+发绿 v
+发落 v
+发麻 v
+发毛 v
+发霉 v
+发明 n v v
+发难 v
+发怒 v
+发排 v
+发胖 v
+发配 v
+发脾气 v
+发起 v v
+发情 v v
+发球 v v
+发热 v
+发散 v
+发傻 v
+发烧 v v
+发射 v v
+发声 v
+发生 v v
+发誓 v
+发售 v v
+发送 v
+发酸 v
+发文 n v
+发问 v
+发现 n v v
+发笑 v
+发泄 v
+发信 v
+发行 v v
+发芽 v v
+发言 v v
+发炎 v
+发扬 v v
+发痒 v
+发音 n v v
+发育 v v
+发源 v v
+发运 v
+发晕 v
+发债 v v
+发展 n v v
+发证 v v
+发自 v
+发作 v v
+发饷 v
+发愣 v
+发憷 v
+发痧 v
+罚 v
+罚款 n v v
+罚没 v v
+罚球 v
+伐 v v
+伐木 v
+伐树 v
+乏 a v
+法办 v
+法西斯化 v
+法制化 v v
+翻 v
+翻案 v
+翻版 n v v
+翻本 v
+翻场 v
+翻车 v v
+翻船 v
+翻地 v
+翻动 v
+翻番 v
+翻翻 v
+翻飞 v
+翻改 v
+翻盖 v
+翻供 v
+翻滚 v
+翻过 v
+翻悔 v
+翻浆 v
+翻开 v
+翻脸 v
+翻录 v
+翻身 v v
+翻腾 v
+翻天 v
+翻胃 v
+翻新 v v
+翻修 v
+翻译 n v v
+翻印 v
+翻越 v
+翻阅 v
+翻转 v
+繁 a g v
+繁荣 a a v v
+繁衍 v
+繁育 v v
+繁殖 v v
+凡是 d v
+烦 a v
+烦劳 v
+烦扰 v v
+反 b d g v
+反扒 v v
+反霸 v
+反驳 v
+反潮流 v
+反衬 v
+反串 v
+反弹 v v
+反党 v v
+反帝 v v
+反对 v v
+反复 d v v
+反攻 v
+反共 v
+反光 n v
+反悔 v
+反击 v v
+反劫 v v
+反抗 v v
+反馈 v v
+反目 v
+反叛 v
+反扑 v
+反潜 v v
+反射 v v
+反省 v v
+反思 v v
+反诉 v
+反贪 v v
+反胃 v
+反问 v
+反应 n v v
+反映 v v
+反照 v
+反证 v
+反诘 v
+反刍 v
+返 v
+返潮 v
+返程 n v
+返防 v
+返工 v
+返国 v
+返航 v
+返还 v v
+返回 v v
+返家 v
+返聘 v
+返青 v
+返乡 v v
+返销 v
+返校 v v
+返修 v
+范式化 v v
+贩 g n v
+贩毒 v v
+贩卖 v
+贩枪 v v
+贩运 v v
+犯 g n v
+犯案 v
+犯病 v
+犯不上 v
+犯不着 v
+犯愁 v
+犯得上 v
+犯得着 v
+犯法 v
+犯规 v
+犯忌 v
+犯戒 v
+犯禁 v
+犯难 v
+犯上 v
+犯下 v
+犯疑 v
+犯罪 n v v
+饭 n v
+泛 g h v
+泛称 v
+泛读 v
+泛滥 v v
+泛起 v
+泛指 v
+泛舟 n v
+方便 a a a v v
+方可 d v
+房改 v v
+房管 v v
+防 g v
+防癌 v v
+防备 v
+防病 v v
+防潮 v v
+防尘 v
+防虫 v v
+防弹 v
+防盗 v v
+防冻 v v
+防毒 v
+防范 v v
+防风 v v
+防腐 v v
+防寒 v v
+防旱 v
+防洪 v v
+防护 v v
+防火 v v
+防劫 v v
+防空 v
+防涝 v v
+防凌 v
+防龋 v
+防沙 v v
+防身 v
+防渗 v v
+防守 v v
+防暑 v
+防水 v v
+防缩 v
+防伪 v v
+防卫 v v
+防务 n v
+防险 v v
+防锈 v
+防汛 v v
+防疫 v v
+防御 v v
+防灾 v v
+防震 v v
+防止 v
+防治 n v v
+防蛀 v
+妨碍 v
+妨害 v
+仿 n v
+仿佛 d v
+仿古 v v
+仿冒 v
+仿效 v
+仿造 v v
+仿照 v
+仿真 v v
+仿制 v v
+访 v v
+访查 v
+访华 v v
+访求 v
+访谈 v v
+访问 v v
+访友 v
+纺 g v
+纺纱 v v
+纺丝 v
+纺线 v
+纺织 n v v
+放 v v
+放出 v
+放大 v
+放贷 v
+放胆 v
+放到 v
+放电 v v
+放电影 v v
+放刁 v
+放毒 v
+放飞 v v
+放风 v
+放工 v
+放过 v
+放缓 v
+放活 v
+放火 v
+放假 v
+放开 v v
+放空 v
+放空气 v
+放宽 v
+放款 v v
+放浪 v
+放冷风 v
+放疗 v
+放慢 v v
+放牧 v
+放牛 v
+放炮 v
+放屁 v
+放弃 v
+放青 v
+放晴 v
+放权 v
+放热 v
+放任 v v
+放散 v
+放哨 v
+放射 v v
+放生 v
+放手 v v
+放水 v
+放松 a v v
+放下 v
+放心 v v v
+放行 v
+放学 v v
+放血 v
+放眼 v
+放羊 v
+放养 v
+放映 v v
+放在 v
+放债 v
+放置 v
+放逐 v v
+放纵 v
+放走 v
+菲薄 v
+非 b d h j v v
+非饱和 b v
+非国有 v v
+非难 v
+非议 v v
+飞 d d g v
+飞奔 v
+飞播 v
+飞驰 v
+飞抵 v
+飞渡 v
+飞夺 v
+飞过 v
+飞架 v
+飞溅 v
+飞来 v
+飞跑 v
+飞洒 v
+飞升 v
+飞逝 v
+飞腾 v
+飞往 v
+飞吻 n v
+飞舞 v
+飞翔 v v
+飞行 n v v
+飞扬 v
+飞越 v
+飞跃 v v
+飞涨 v
+肥 a n v
+肥育 v
+诽谤 v
+废 a a g v
+废弛 v
+废除 v
+废掉 v
+废弃 v v
+废止 v v
+废置 v
+废黜 v
+沸腾 v
+费 n n v
+吩咐 v v
+分 b d d g n n q v v v
+分辨 v
+分辩 v
+分别 d v
+分布 v v
+分步 d v v
+分成 v
+分词 n v
+分担 v
+分得 v
+分等 v
+分段 v
+分发 v v
+分房 v v
+分封 v
+分赴 v
+分付 v
+分割 v v
+分隔 v
+分工 v v v
+分管 v
+分洪 v
+分红 n v v
+分化 v v
+分获 v
+分级 v v
+分家 v
+分拣 v
+分解 v v
+分界 n v
+分居 v v
+分卷 v
+分开 v v
+分科 v
+分块 v
+分类 v v v
+分离 v v v
+分理 v
+分列 v
+分裂 v v
+分馏 v
+分流 v v
+分泌 v
+分娩 v
+分派 v
+分配 v v
+分批 d v
+分片 v v
+分清 v
+分区 n v v
+分权 v
+分散 a a a v v v
+分设 v
+分身 v
+分神 v
+分手 v
+分属 v
+分送 v
+分摊 v v
+分为 v
+分析 v v
+分享 v v
+分销 n v v
+分晓 n v
+分心 v
+分选 v v
+分忧 v
+分赃 v
+分组 v v v
+分蘖 v
+纷呈 v
+纷飞 v v
+纷扰 v
+焚 g v
+焚化 v
+焚毁 v
+焚烧 v
+焚香 v
+粉 b g n v
+粉饰 v
+粉刷 v
+粉碎 v z
+奋 g v v
+奋斗 v v
+奋发 v
+奋进 v v
+奋起 v
+奋勇争先 v
+奋战 v v
+愤 g v
+愤恨 v
+丰产 v v
+丰富 a a v v
+丰富化 v v
+丰收 n n v v
+封 g n n n q v
+封闭 v v v
+封存 v
+封顶 v v
+封冻 v
+封关 v
+封火 v
+封爵 v
+封口 n v
+封路 v
+封门 v v
+封杀 v
+封山 v
+封锁 v v
+封装 v
+封阻 v
+蜂起 v
+蜂拥 v
+蜂拥而来 l v
+风传 n v
+风干 v v
+风光 a n v
+风化 n v
+风靡 v
+风蚀 v
+风闻 v
+风行 v
+疯 v
+疯长 v
+疯癫 v
+逢 g n v
+逢迎 v
+缝 n v
+缝补 v
+缝缝补补 v
+缝合 v
+缝制 v
+讽 g v
+讽刺 v v
+讽诵 v
+奉 g v
+奉承 v
+奉告 v
+奉还 v
+奉命 v
+奉陪 v
+奉劝 v
+奉送 v
+奉献 n v v
+奉行 v
+奉养 v
+奉赠 v
+否 g v v y
+否定 v v
+否决 v v
+否认 v v
+敷 v
+敷设 v v
+敷衍 v v
+敷药 v
+孵 v
+孵化 v
+孵卵 v
+扶 g n v
+扶持 v v
+扶贫 n v v
+扶养 v
+扶掖 v
+扶植 v v
+扶志 v
+扶智 v
+扶助 v v
+扶乩 v
+拂 v
+拂面 v
+拂拭 v
+辐射 n v v
+符 g n n v
+符合 v v
+伏 g n q v
+伏案 v
+伏法 v
+伏击 v
+伏罪 v
+俘 g v v
+俘获 v
+俘虏 n v
+服 g j q v
+服兵役 v v
+服从 v
+服毒 v
+服气 v
+服软 v
+服丧 v
+服侍 v
+服输 v
+服务 n v v
+服刑 v v
+服药 v v
+服役 v v
+服用 v
+服罪 v
+浮 a v
+浮报 v
+浮沉 v
+浮荡 v
+浮动 v v
+浮泛 a v
+浮夸 v
+浮水 v
+浮现 v
+浮游 v
+浮肿 v
+抚 g v v
+抚爱 v v
+抚摸 v
+抚摩 v
+抚弄 v
+抚平 v
+抚慰 v
+抚恤 v v
+抚养 v v
+抚育 v
+抚熨 v
+辅 g n v v
+辅导 v v
+辅助 v v
+辅佐 v
+俯 g v
+俯冲 v
+俯射 v
+俯身 v
+俯视 v
+俯卧 v
+俯仰 v
+俯泳 v
+俯贻 v
+俯瞰 v
+斧正 v
+腐 a g n v v
+腐臭 v
+腐化 a v
+腐烂 v v
+腐蚀 v v
+赴 g v
+赴考 v
+赴难 v
+赴任 v
+赴席 v
+赴宴 v
+赴约 v
+覆 g v
+覆盖 v v
+覆没 v
+覆灭 v
+赋 g v
+赋诗 v
+赋闲 v
+赋有 v
+赋予 v
+赋值 v
+复 d d g v
+复辟 v
+复查 v v
+复仇 v
+复发 v
+复工 v
+复古 v
+复核 v v
+复合 v v
+复会 v
+复婚 v
+复活 v
+复建 v v
+复交 v v
+复旧 v
+复刊 v
+复课 v
+复垦 v v
+复命 v
+复赛 v
+复审 v
+复试 v
+复述 v
+复苏 v v
+复位 v
+复习 v v
+复写 v
+复信 n v v
+复兴 v v
+复学 v
+复业 v
+复议 v v
+复印 v v
+复用 v v
+复原 v v
+复员 v v
+复杂化 v
+复诊 v
+复职 v
+复制 v v
+复转 v v
+复壮 v
+傅粉 v
+付 g n q v
+付出 v v
+付费 v
+付给 v
+付汇 v v
+付款 v v
+付排 v
+付讫 v
+付钱 v
+付清 v
+付托 v
+付息 v
+付现 v
+付印 v
+付与 v
+付账 v
+付梓 v
+腹痛 v v
+腹泻 v
+腹胀 v
+负 b v v v
+负担 n v v
+负气 v
+负伤 v
+负心 v
+负有 v
+负于 v
+负约 v
+负载 n v v
+负责 a v v
+负债 n v v v
+负重 v v
+富 a a g n n n v v
+富集 v v
+富民 n v v
+富有 a v v
+富于 v
+富余 v v
+附 v
+附带 d v
+附和 v v
+附会 v
+附记 n v
+附加 v v
+附上 v
+附设 v
+附属 v v
+附议 v
+附有 v
+附着 v
+缚 g v
+该 r v
+该死 v
+改 g n v v
+改版 v
+改扮 v
+改编 v v
+改变 v v
+改称 v
+改错 v
+改道 v
+改掉 v
+改订 v
+改动 v
+改稿 v
+改革 v v
+改观 v v
+改过 v
+改换 v
+改悔 v
+改嫁 v
+改建 v v
+改进 v v
+改口 v
+改良 v v
+改名 v
+改判 v
+改期 v
+改任 v
+改善 v v
+改写 v v
+改型 v
+改行 v
+改选 v v
+改用 v
+改造 n v v
+改正 v
+改制 v v
+改装 v v
+改组 v v
+改嘴 v
+改作 v
+概括 a a v v v
+概览 n v
+概述 v v
+概算 n v
+钙化 v
+盖 d g n n n v
+盖戳 v
+盖房 v
+盖章 v v
+干 a d g j n n n v
+干杯 v
+干瞪眼 v
+干掉 v
+干号 v
+干涸 v
+干活 v
+干咳 v
+干枯 a v
+干裂 v
+干吗 v
+干呕 v
+干扰 v v
+干涉 v v
+干什么 v
+干事 n v
+干洗 v
+干笑 v
+干预 v v
+甘 a g j n v v
+甘当 v
+甘心 v
+甘休 v
+甘于 v
+甘愿 v
+赶 p v
+赶不及 v
+赶场 v v
+赶超 v v
+赶车 v
+赶到 v
+赶得及 v
+赶赴 v
+赶海 v
+赶回 v
+赶集 v v
+赶考 v
+赶来 v
+赶浪头 v
+赶路 v
+赶排 v
+赶跑 v
+赶任务 v
+赶上 v
+赶时髦 v
+赶趟 v v
+赶往 v
+赶下台 v
+赶早 v
+赶走 v
+感 g k n n v v
+感触 n v
+感到 v
+感动 a v v
+感恩 v
+感奋 v
+感光 v
+感化 v
+感激 v v
+感觉 n v v
+感慨 a a v v
+感冒 v v
+感念 v
+感染 v v
+感受 v v
+感叹 v v
+感悟 v v
+感谢 v v
+感召 v v
+感知 v
+敢 d d g v
+敢于 v
+钢 n v
+杠 g n v
+高 a a a d g j n n v
+高产 b n v v
+高唱 v
+高矗 v
+高歌 n v
+高喊 v
+高呼 v
+高架 n v v
+高举 v v
+高踞 v
+高抗 v
+高考 v v
+高科技化 v
+高攀 v
+高升 v
+高耸 v
+高于 v
+高涨 a a v
+高中 n v
+膏 g v
+搞 v
+搞臭 v
+搞鬼 v
+搞好 v
+搞活 v
+搞垮 v
+告 v
+告别 v v
+告吹 v
+告辞 v
+告发 v
+告负 v
+告急 v
+告假 v
+告捷 v
+告戒 v
+告诫 v v
+告警 v
+告竣 v
+告密 v
+告饶 v
+告诉 v
+告退 v
+告慰 v
+告知 v v
+告终 v
+告状 v v
+告罄 v
+歌 g n q v v
+歌唱 v v
+歌颂 v
+歌舞 n v
+歌咏 n v
+搁 g v
+搁浅 v v
+搁置 v v
+胳肢 v
+割 v
+割爱 v
+割除 v
+割地 v
+割断 v
+割胶 v v
+割据 v
+割裂 v
+割麦 v
+割让 v
+割伤 v
+割舍 v
+革 g v
+革除 v
+革命 a v v
+革命化 v v
+革新 v v
+革职 v
+格斗 n v
+格式化 v
+隔 v v
+隔断 v
+隔绝 v
+隔离 v v
+隔热 v
+隔音 v v
+个人化 v v
+个体化 v
+个性化 v v
+给 g p u v
+给定 v
+给面子 v
+给水 v
+给以 v
+给予 v v
+根除 v v
+根据 n p v
+根绝 v
+根植 v
+根治 v
+跟 c g p v
+跟班 n v v
+跟不上 v
+跟读 v
+跟脚 d v
+跟进 v
+跟随 n p v
+跟着 v
+跟踪 v v v
+耕 v
+耕地 n v
+耕翻 v
+耕田 v v
+耕耘 v v
+耕种 v
+耕作 v v
+更 d g v v
+更迭 v v
+更动 v
+更改 v v
+更换 v v
+更名 v
+更替 v
+更新 v v
+更衣 v
+更正 v
+梗 g v
+梗塞 v
+梗阻 v
+工厂化 v v
+工程化 v v
+工业化 v v
+工作 n v v
+攻 v v
+攻打 v
+攻读 v
+攻防 v v
+攻关 v v
+攻击 v v
+攻歼 v
+攻坚 v v
+攻克 v
+攻掠 v
+攻破 v
+攻取 v
+攻袭 v
+攻陷 v
+攻心 v
+攻占 v
+恭贺 v
+恭候 v
+恭请 v
+恭维 v v
+恭喜 v
+恭祝 v
+供 g v v
+供电 v v
+供奉 v
+供稿 v
+供给 v v
+供货 v v
+供暖 v v
+供气 v v
+供热 v v
+供认 v v
+供水 v v
+供销 n v
+供养 v
+供应 v v
+供油 v
+供职 v
+供种 n v
+躬 g v v
+躬逢 v
+躬身 v
+公布 v v
+公断 v v
+公告 n v
+公交化 v v
+公开 a a a v v
+公开化 v v
+公理 n v
+公判 v
+公平化 v v
+公认 v v
+公审 v
+公式化 v v
+公诉 v v
+公推 v
+公演 v
+公议 v
+公映 v
+公用 n v v
+公有化 v
+公寓化 v
+公证 n v v
+公转 v
+弓 n n v
+巩固 a v v
+拱 g v
+拱手 v v
+贡献 n v v
+共 d g j v v
+共处 v
+共存 v
+共度 v
+共犯 n v
+共管 j v
+共计 v
+共建 v v
+共聚 v
+共勉 v
+共鸣 v v
+共谋 v
+共生 v
+共事 v v
+共享 v v
+共有 d v v
+共振 v
+钩 n v
+钩挂 v
+勾 g n v
+勾除 v
+勾搭 v
+勾画 v
+勾结 v
+勾勒 v
+勾通 v
+勾销 v
+勾引 v
+勾芡 v
+沟通 v v
+苟安 v
+苟活 v
+苟全 v
+苟同 v
+构 g n v v
+构成 n v v
+构建 v v
+构思 v v
+构图 v v
+构想 n v v
+构造 n v
+构筑 v
+购 g v v
+购并 v v
+购得 v
+购房 v v
+购回 v
+购汇 v
+购货 v v
+购建 v v
+购进 v v
+购买 v v
+购票 v v
+购入 v v
+购书 v
+购物 v v
+购销 v v
+购置 v
+够 a d v
+够本 v
+够交情 v
+够朋友 v
+够呛 v
+够用 v
+辜负 v
+咕哝 v
+咕唧 v
+箍 g v
+估 v x
+估测 v
+估计 v v
+估价 n v v
+估量 v v
+估算 v v
+孤立 a a v v
+姑息 v
+鼓 a n v
+鼓吹 v
+鼓捣 v
+鼓动 v v
+鼓风 v
+鼓鼓 v
+鼓劲 v
+鼓励 v v
+鼓舞 a a v v
+鼓噪 v v
+鼓掌 v v
+鼓胀 v
+鼓足 v
+蛊惑 v
+骨化 v
+骨碌 v
+骨折 v v
+股 j n q v
+故去 v
+顾 g n n v
+顾不得 v
+顾及 v
+顾忌 v
+顾念 v
+顾盼 v
+顾全 v
+顾惜 v
+固 d d g j v v
+固定 a a v v
+固化 v
+固守 v
+雇 v
+雇工 n v
+雇请 v
+雇佣 v v
+雇用 v v
+雇员 n v
+刮 v
+刮风 v
+刮宫 v
+刮脸 v
+刮痧 v
+瓜分 v
+剐 v
+寡居 v
+挂 q v
+挂彩 v
+挂到 v
+挂钩 n v
+挂果 v
+挂号 v
+挂红 v
+挂花 v
+挂怀 v
+挂靠 v v
+挂虑 v
+挂名 v
+挂念 v v
+挂牌 v v v
+挂牵 v
+挂失 v
+挂帅 v v
+挂心 v
+挂载 v
+挂账 v
+挂职 v v v
+拐 g n v
+拐带 v
+拐卖 v
+拐骗 v
+拐弯 v
+拐走 v
+怪 a d g v
+怪罪 v
+关 j n n v
+关爱 v v
+关闭 v v
+关灯 v
+关掉 v
+关乎 v v
+关怀 v v
+关机 v
+关禁闭 v
+关联 v v
+关连 v
+关门 v v
+关念 v
+关切 a a v v
+关上 v
+关停 v
+关系 n v v
+关心 a v v
+关押 v
+关于 p v
+关张 v
+关照 v v
+关注 v v
+官办 b v
+官子 n v v
+冠 g j n n v
+冠名 v v v
+观 g k n n v v
+观测 v v
+观察 v v
+观光 v v
+观看 v v
+观览 v
+观礼 v v
+观摩 v v
+观赛 v
+观赏 v v
+观望 v v
+观展 v
+观战 v v
+管 c g n n n p q v
+管保 v
+管标 v
+管教 v v
+管窥 v
+管理 v v
+管事 v v
+管束 v
+管辖 v v
+管押 v
+管账 v
+管制 v v
+馆藏 n v v
+惯 a v
+惯用 v
+灌 j v
+灌肠 v
+灌溉 v v
+灌浆 v v
+灌输 v
+灌制 v
+灌注 v
+灌醉 v
+贯彻 v v
+贯穿 v
+贯串 v
+贯通 v
+贯注 v
+光 a d n v
+光大 v
+光复 v
+光顾 v
+光疗 v
+光临 v v
+广播 n v v
+广开 v
+逛 v
+逛荡 v
+逛逛 v
+规避 v
+规定 n v v
+规范 a a b n v v
+规范化 v v v
+规格化 v v
+规划 n v v
+规模化 v v v
+规劝 v
+规谏 v
+归 g n p v
+归案 v
+归并 v
+归档 v
+归队 v
+归附 v
+归功 v
+归公 v
+归国 v v
+归航 v
+归还 v
+归集 v
+归降 v
+归结 n v
+归咎 v
+归口 v v
+归来 v v
+归类 v v
+归拢 v
+归纳 v v
+归去 v
+归入 v
+归属 v v
+归顺 v
+归天 v
+归位 v
+归西 v
+归依 v v
+归隐 v
+归于 v
+归整 v
+归总 v
+归罪 v
+龟裂 v
+龟缩 v
+鬼混 v
+诡辩 v
+诡笑 v
+跪 v
+跪拜 v
+跪倒 v
+跪射 v
+跪下 v
+跪坐 v
+贵乎 v
+滚 g n n v
+滚蛋 v
+滚地皮 v
+滚动 v v v
+滚翻 v
+滚沸 v
+滚开 v
+滚雪球 v
+滚压 v
+滚装 v v
+国产化 v v
+国防 b n v v
+国际化 v v
+国有 v v
+国有化 v
+果 d g n n n v
+果树 n v
+裹 g v
+裹进 v
+裹挟 v
+裹胁 v
+过 d g h n n n u u v
+过半 v
+过磅 v
+过不去 v
+过场 n v
+过秤 v
+过得去 v
+过电影 v
+过冬 v v
+过度 d v v
+过渡 v v
+过分 a a v
+过关 v
+过户 v v
+过激 v v
+过继 v
+过奖 v
+过节 v v
+过境 v v
+过来 v
+过量 v v
+过路 b v
+过虑 v
+过滤 v
+过门 v
+过敏 v
+过目 v
+过年 t v v
+过期 v v
+过去 t v v
+过人 v
+过剩 v v
+过手 v
+过往 v v
+过问 v v
+过夜 v
+过于 d v
+过载 v
+过账 v
+过重 v v
+哈 e g j n o v x
+哈腰 v
+海涵 v
+海运 v v
+海战 v
+害 g n n v v
+害病 v
+害怕 v v
+害人 v
+害眼 v
+酣睡 v
+酣饮 v
+酣战 v
+酣醉 v
+憨笑 v
+含 v
+含泪 v
+含量 n v
+含怒 v
+含笑 v
+含羞 v
+含油 v v
+含有 v
+含冤 v
+涵盖 v
+涵养 n v
+寒心 v
+寒喧 v
+寒伧 a v
+寒暄 v
+寒碜 a v
+函告 v
+函购 v
+函授 v v
+喊 v
+喊话 v
+喊叫 v v
+喊冤 v
+撼 g v
+撼动 v
+捍卫 v v
+旱作 j v
+焊 v
+焊接 v v
+汗颜 n v
+汉化 v
+夯 n v
+夯实 v
+航 g n n n v
+航渡 v
+航海 v v
+航行 v
+航运 n v
+嚎 v
+嚎叫 v
+嚎哭 v
+豪饮 v
+毫无 v
+好 a a d v
+好比 v
+好评 n v
+好似 v
+好像 v
+好意思 v
+好转 v v
+耗 g n n v
+耗电 v
+耗费 v v
+耗竭 v
+耗尽 v
+耗时 v
+耗损 v
+耗油 v
+耗资 v v
+号 g n q v
+号称 v
+号叫 v
+号哭 v
+号脉 v
+号召 v v
+浩荡 v v
+呵 e g v x y
+呵斥 v
+呵护 v v
+呵责 v
+喝 e v v
+喝彩 v v
+喝茶 v
+喝道 v
+喝酒 v
+喝令 v
+喝问 v
+喝叱 v
+荷 g j n n v
+核 g j n v
+核拨 v
+核查 v v
+核定 v
+核对 v
+核发 v
+核计 v
+核减 v
+核实 v v
+核收 v
+核算 v v
+核销 v v
+核准 v v
+和 a c g n n n p q v
+和好 v
+和缓 a v
+和解 v v
+和面 v
+和亲 v
+和谈 v v
+和稀泥 v
+和议 v
+何干 v
+何谓 v
+何在 v
+何止 v
+合 g q v
+合办 v
+合抱 v
+合编 v
+合并 v v
+合不来 v
+合唱 v v
+合成 v v
+合得来 v
+合法化 v v
+合格 v v
+合股 v v
+合乎 v
+合伙 v v v
+合计 v
+合理化 v v
+合力 d n v v
+合流 v
+合龙 v
+合拢 v
+合谋 v
+合拍 a v
+合十 v
+合署 v
+合围 v
+合写 v
+合眼 v
+合演 v
+合一 v
+合营 v v
+合影 n v
+合用 v
+合葬 v
+合闸 v
+合著 v
+合资 v v
+合奏 v v
+合作 v v v
+合作化 v v
+合璧 v
+阂 g v v
+河运 v
+贺 g n n v v
+贺春 v
+贺年 v v
+贺岁 v v
+贺喜 v
+黑色化 v
+狠抓 v
+恨 v
+恨死 v
+哼 e v
+哼唱 v v
+哼哼 v
+哼唧 v
+横 a a d g n v
+横穿 v
+横吹 v
+横渡 v
+横贯 v
+横滚 v
+横跨 v
+横流 v
+横扫 v
+横卧 v
+横行 v
+横溢 v
+横亘 v
+衡量 v v
+轰 o v
+轰动 v v
+轰击 v
+轰鸣 v
+轰响 n v
+轰炸 v v
+哄 g o v
+哄传 v
+哄动 v
+哄骗 v
+哄抢 v
+哄劝 v
+哄人 v
+哄抬 v
+哄笑 v
+烘 v
+烘焙 v
+烘衬 v
+烘干 v
+烘烤 v
+烘漆 v
+烘手 v
+烘托 v
+烘制 v
+弘扬 v
+红 a a g j n n v x
+红脸 v
+红眼 v
+红肿 v
+红焖 v
+吼 v
+吼叫 v v
+厚待 v
+候 g n v
+候车 v v
+候机 v v
+候教 v
+候审 v v
+候诊 v
+后撤 v
+后处理 v
+后悔 v v
+后空翻 v v
+后怕 v
+后退 v v
+后续 v v
+后移 v v
+后于 v
+呼 g o v
+呼喊 v
+呼号 n v
+呼呼 o v
+呼唤 v v
+呼叫 v
+呼救 v
+呼吸 v v
+呼啸 v v
+呼应 v v
+呼吁 v v
+忽略 v v
+忽闪 v
+忽视 v
+胡编 v
+胡扯 v
+胡吹 v
+胡搅 v
+胡来 v
+胡闹 v
+胡说 v
+胡诌 v
+糊 a g v
+糊口 v
+糊弄 v
+虎踞 v
+唬 v
+唬人 v
+护 j v
+护短 v
+护法 n v
+护航 v
+护理 v v
+护林 v v
+护身 v
+护树 v
+护送 v v
+护卫 n v v
+护养 v
+互补 v v
+互斥 v
+互访 v v
+互换 v
+互惠 v v
+互济 v
+互救 v
+互利 v v v
+互联 v
+互连 v
+互勉 v
+互殴 v
+互派 v
+互聘 v
+互让 v
+互通 v
+互信 v
+互助 v v
+户办 v
+花 a n n v
+花费 n v
+花钱 v v
+哗变 v
+哗笑 v
+滑 a g n v
+滑冰 v v
+滑动 v
+滑跑 v
+滑坡 v v
+滑翔 v
+滑行 v v
+滑雪 v v
+画 n q v
+画画 v
+画说 v
+画图 n v
+画押 v
+划 n v x
+划拨 v v
+划船 v
+划得来 v
+划定 v
+划分 v v
+划归 v
+划价 v
+划桨 v
+划界 v
+划破 v
+划清 v
+划拳 v
+划伤 v
+划水 v
+划线 v
+划一 v
+划着 v
+化 j k n v
+化冻 v
+化费 v
+化合 v
+化解 v v
+化疗 v v
+化名 n v
+化脓 v
+化食 v
+化痰 v
+化为 v
+化验 v v
+化缘 v
+化斋 v
+化装 v v
+化妆 v
+化作 v
+话 g n v v
+话别 v
+话家常 v
+话旧 v
+话说 v
+怀 g n n n v
+怀抱 n v v
+怀春 v
+怀古 v
+怀恨 v
+怀旧 v v
+怀念 v v
+怀胎 v
+怀想 v v
+怀疑 v v
+怀孕 v v
+怀着 v
+坏 a g v
+坏死 v
+欢唱 v
+欢度 v
+欢歌 v
+欢呼 v v
+欢聚 v v
+欢庆 v v
+欢送 v v
+欢谈 v
+欢腾 v v
+欢喜 v v
+欢笑 v v
+欢宴 n v
+欢迎 v v
+环 n n v v
+环抱 v
+环城 v
+环顾 v
+环球 n n v
+环绕 v v
+环视 v
+环行 v
+还 d g n v
+还本 v
+还贷 v v
+还给 v
+还魂 v
+还击 v v
+还家 v
+还价 v
+还款 v v
+还礼 v
+还是 c d v
+还手 v
+还俗 v
+还乡 v
+还要 d v
+还有 v
+还原 v
+还愿 v
+还债 v v
+还账 v
+还嘴 v
+缓 a a a j v
+缓冲 v v
+缓付 v
+缓和 a v v
+缓减 v
+缓建 v
+缓解 v v
+缓期 v
+缓刑 v
+缓征 v
+换 v
+换班 v
+换茬 v
+换车 v
+换乘 v
+换代 v
+换挡 v
+换防 v v
+换岗 v v
+换工 v
+换换 v
+换季 v
+换届 v v v
+换料 v
+换脑筋 v
+换气 v
+换钱 v
+换亲 v
+换取 v
+换人 v
+换上 v
+换算 v v
+换位 v v
+换文 n v v
+换洗 v
+换向 v v
+换型 v
+换血 v
+换牙 v
+换药 v
+患 g n n v
+患病 v v
+患难 n v
+唤 g v v
+唤起 v
+唤醒 v
+豢 g v
+豢养 v
+焕发 v
+涣散 a v
+幻 g v v
+幻化 v
+幻灭 v
+幻想 n v v
+荒 a g n n v
+荒废 v
+荒疏 v
+慌神 v
+黄 a g j n n v
+晃 g v
+晃荡 v
+晃动 v
+晃悠 v
+恍如 v
+谎报 v
+谎称 v
+挥 v
+挥笔 v
+挥动 v
+挥发 v
+挥戈 v
+挥毫 v
+挥霍 v
+挥泪 v
+挥拳 v
+挥洒 v
+挥师 v
+挥手 v
+挥舞 v
+辉映 v
+恢复 v v
+回 g j n q v
+回拜 v
+回报 v v
+回避 v v
+回采 v
+回潮 v v
+回车 v
+回城 v
+回春 v
+回答 v v
+回荡 v
+回到 v
+回电 n v
+回返 v
+回访 v v
+回复 v v
+回顾 v v
+回归 v v
+回锅 v
+回国 v v
+回过 v
+回话 n v
+回火 v
+回击 v v
+回家 v v
+回见 v
+回敬 v v
+回绝 v
+回扣 n v v
+回来 v
+回老家 v
+回礼 n v
+回流 n v
+回笼 v v
+回炉 v
+回落 v v
+回暖 v
+回请 v
+回去 v v
+回绕 v
+回身 v
+回生 v
+回升 v v
+回师 v
+回收 v v
+回手 v
+回首 v
+回水 v
+回溯 v
+回填 v
+回头 d v
+回味 n v
+回乡 v v
+回想 v
+回响 n v
+回信 n v
+回旋 v v
+回忆 v v
+回应 v v
+回游 v v
+回援 v
+回赠 v
+回转 v v
+回嘴 v
+回禀 v
+回眸 v v
+毁 v
+毁版 v v
+毁谤 v
+毁坏 v v
+毁灭 v v
+毁弃 v
+毁容 v
+毁伤 v
+毁损 v
+毁誉 v
+毁约 v
+悔 g v v
+悔改 v
+悔过 v
+悔恨 v
+悔棋 v
+悔悟 v
+悔罪 v
+惠 g n n v
+惠存 v
+惠顾 v
+惠临 v
+贿赂 n v v
+会 g n v
+会餐 v
+会操 v
+会合 v
+会话 v
+会集 v
+会见 v v
+会聚 v
+会考 v v
+会客 v
+会面 v v
+会商 v v
+会审 v v
+会师 v
+会谈 v v
+会同 v
+会晤 v v
+会演 v v
+会意 v
+会友 n v
+会战 v v
+会诊 v v
+烩 v
+汇 g n n v
+汇报 v v
+汇编 n v
+汇兑 v v
+汇合 v
+汇集 v
+汇寄 v
+汇聚 v
+汇款 n v
+汇流 v
+汇拢 v
+汇演 v v
+汇展 n v
+汇总 v v
+讳言 v
+绘 v
+绘画 n v v
+绘图 v v
+绘制 v
+昏 g t t v
+昏倒 v
+昏迷 v
+昏睡 v
+昏死 v
+昏眩 v
+昏厥 v
+婚 g n n v
+婚配 v v
+婚育 v v
+混 a a v
+混饭 v
+混合 v v
+混迹 v
+混进 v
+混入 v
+混事 v
+混同 v
+混淆 v v
+混养 v
+混杂 v
+混战 v v
+豁 g v x
+豁出去 v
+豁免 v
+活 a d n v v
+活动 a v v
+活动阵地化 n v
+活化 v
+活埋 v
+活命 v
+活现 v
+活像 v
+活跃 a a v v
+活捉 v
+伙同 v
+火 a n n v
+火并 v
+火攻 v
+火化 v
+火烧 n v
+火葬 v
+获 v v
+获得 v
+获奖 v v
+获救 v
+获利 v
+获取 v v
+获胜 v
+获释 v v
+获悉 v
+获益 v
+获知 v
+获准 v
+惑 g v
+货币化 v v
+击 g v v
+击败 v
+击毙 v
+击沉 v
+击穿 v
+击打 v
+击倒 v
+击鼓 v
+击毁 v
+击剑 v
+击溃 v
+击落 v
+击破 v
+击球 v
+击伤 v
+击退 v
+击掌 v
+击中 v
+基地化 v v
+机播 v v
+机耕 v v
+机降 v
+机械化 v v
+机修 j v
+稽查 n v v
+稽审 v v
+积 n v
+积储 v
+积存 v
+积德 v
+积淀 v v
+积肥 v
+积聚 v v
+积累 n v v
+积欠 n v
+积弱 v
+积水 n v
+积蓄 n v v
+积压 v v
+积攒 v
+激 v
+激荡 v v
+激发 v v
+激化 v v
+激活 v
+激励 v v
+激怒 v
+激起 v
+激增 v
+激战 v v
+讥嘲 v
+讥讽 v
+讥笑 v v
+讥诮 v
+鸡奸 v
+缉捕 v
+缉毒 v v
+缉获 v
+缉拿 v
+缉私 v
+极化 v v
+辑录 v v
+集 g n n q v v
+集成 b v v
+集合 n v
+集会 v v
+集结 v v
+集居 v
+集聚 v v
+集落 v v
+集纳 v v
+集权 v
+集散 v v
+集体化 v
+集团化 v v
+集训 v v
+集邮 v v
+集约 v v v
+集约化 v v v
+集中 a a a v v
+集中化 v v
+集注 n v
+集资 v v
+及 c g n v v
+及格 v v
+急 a a a g v
+急救 v v
+急袭 v
+急行军 v
+急需 v v
+急眼 v
+急用 v
+急于 v
+急造 v
+疾驰 v
+疾驶 v
+疾走 v
+汲 g v
+汲取 v v
+汲水 v
+即 c d v
+即可 v z
+即位 v
+嫉妒 v
+嫉恨 v
+挤 a v
+挤出 v
+挤掉 v
+挤兑 v v
+挤挤 v
+挤满 v
+挤压 v v
+挤占 v
+祭 g v
+祭拜 v
+祭奠 v
+祭灵 v
+祭扫 v
+祭天 v v
+祭献 v
+祭灶 v
+祭祖 v
+祭祀 v v
+悸动 v v
+济 g j v v
+济困 v v
+寄 g v
+寄出 v
+寄存 v
+寄放 v
+寄居 v
+寄卖 v
+寄生 v v
+寄售 v
+寄宿 v v
+寄托 v v
+寄信 v
+寄养 v
+寄予 v
+寄语 v v
+寄寓 v
+计 g k n n n v
+计酬 v
+计费 v v
+计分 v v
+计划 n v v v
+计价 v v
+计较 v
+计量 v v
+计年 v v
+计入 v
+计时 v v
+计数 v
+计算 v v
+计议 v
+记 g n n q v
+记仇 v
+记得 v
+记分 v
+记工 v
+记功 v
+记挂 v
+记过 v
+记恨 v
+记录 n v v
+记念 v
+记取 v
+记事 v v
+记述 v v
+记下 v
+记叙 v
+记忆 n v v
+记载 n v v
+记账 v
+记住 v
+既有 v v
+忌 v v
+忌才 v
+忌惮 v
+忌妒 v
+忌恨 v
+忌讳 v v
+忌口 v
+继 d d g v v
+继承 v v
+继任 v
+继嗣 n v
+继续 v v
+继之 v
+纪录 n v v
+纪年 n v
+纪念 n v v
+纪寿 v
+嘉奖 v v
+嘉勉 v
+夹 b g v x
+夹带 v
+夹道 n v
+夹攻 v
+夹击 v v
+夹杂 v
+家访 v
+家教 n v
+加 g j v
+加班 v v
+加长 v
+加大 v v
+加高 v
+加工 v v
+加固 v v
+加害 v
+加厚 v
+加价 v v
+加紧 v v
+加剧 v v
+加快 v v
+加宽 v v
+加力 v
+加料 v
+加码 v
+加盟 v v
+加密 v v
+加冕 v
+加强 v v
+加权 v
+加热 v v
+加入 v v
+加塞 v
+加塞儿 v v
+加赛 v
+加上 v
+加深 v v
+加收 v
+加速 v v
+加薪 v
+加刑 v
+加压 v
+加演 v
+加以 v
+加油 v v
+加重 v
+加筑 v
+加总 v v
+假 a a g n v
+假扮 v
+假充 v
+假定 n v
+假借 v
+假冒 v v
+假设 n v
+假释 v
+假手 n v
+假死 v
+假托 v
+假想 b v
+假造 v
+假装 v
+假座 n v
+架 g n n q v
+架不住 v
+架空 v v
+架桥 v
+架设 v
+驾 g q v
+驾车 v
+驾临 v
+驾驶 v v
+驾御 v
+驾驭 v v
+嫁 v
+嫁接 v v
+嫁娶 v
+嫁人 v
+歼敌 v
+歼击 v
+歼灭 v
+监测 v v
+监察 v v
+监督 v v
+监管 v v
+监护 v v
+监禁 v v
+监考 n v
+监控 v v
+监理 v v
+监票 v
+监视 v v
+监守 v
+监听 v
+监制 v v
+坚持 v v
+坚辞 v v
+坚定 a a a v
+坚守 v v
+坚信 v v
+尖叫 v
+间 f g q v
+间断 v
+间苗 v
+间歇 n v
+间杂 v
+间作 v v
+煎 q v
+煎熬 v v
+兼 v
+兼办 v
+兼备 v
+兼并 v v
+兼程 v
+兼得 v
+兼顾 v v
+兼管 v
+兼具 v
+兼课 v
+兼类 v
+兼任 v
+兼容 v v
+兼学 v
+兼营 v
+兼有 v
+兼职 v v
+肩 g n v
+肩负 v
+奸杀 v
+奸污 v
+奸笑 v
+奸淫 v
+缄默 v
+检 g j n v
+检波 v
+检测 v v
+检查 v v
+检察 b v
+检场 v
+检错 v
+检点 a v
+检举 v v
+检录 v
+检索 v v
+检讨 v
+检修 v v
+检验 v v
+检疫 v v
+检阅 v v
+碱 n v
+碱化 v
+硷 n v
+拣 v
+拣到 v
+捡 v
+捡破烂 v
+简称 n v
+简单化 v
+简化 v v
+简介 n v v
+简慢 v
+简述 v
+简缩 v
+剪 g n n v
+剪裁 v v
+剪彩 v v
+剪除 v
+剪短 v
+剪发 v
+剪辑 v
+剪接 v
+剪票 v
+剪切 v
+剪贴 n v v
+剪影 n v
+剪枝 v v
+减 v v
+减半 v v
+减产 v v
+减低 v
+减掉 v
+减肥 v v
+减缓 v v
+减价 v v v
+减亏 v v
+减慢 v v
+减免 v v
+减轻 v v
+减去 v
+减弱 v v
+减色 v
+减少 v v
+减税 v v
+减速 v v
+减缩 v
+减退 v
+减息 v v
+减下 v
+减小 v
+减刑 v
+减压 v
+减员 v v
+减灾 v v
+减震 v
+减租 v v
+荐 g v
+荐举 v
+鉴 g n v v
+鉴别 v v
+鉴定 v v
+鉴赏 v v
+践 g v v
+践踏 v
+践约 v
+贱卖 v
+见 g u v
+见报 v v
+见长 v
+见到 v
+见怪 v
+见鬼 v
+见好 v
+见见 v
+见谅 v
+见面 v
+见识 n v
+见世面 v
+见外 v
+见习 v
+见笑 v
+见于 v
+见状 v
+健全 a a a v
+健身 v v
+健胃 v
+健在 v
+饯别 v
+饯行 v
+渐 d g v v
+渐变 v
+溅 v
+建 g j v
+建部 v
+建厂 v
+建成 v v
+建党 v v
+建堤 v
+建都 v
+建房 v v
+建功 v
+建构 v
+建管 v v
+建国 v v
+建交 v v
+建军 n v v
+建卡 v
+建立 v v
+建路 v
+建起 v
+建设 v v
+建树 n v v
+建网 v
+建校 v v
+建业 v
+建议 n v v
+建造 v v
+建制 n v
+建筑 n v v
+僵持 v v
+僵化 v v
+僵死 v
+将 d g n n p u v
+将就 v
+浆 n v
+浆洗 v
+奖 n v
+奖励 n v v
+奖赏 n v v
+奖掖 v
+讲 v
+讲和 v
+讲话 n v v
+讲价 v
+讲讲 v
+讲解 v v
+讲究 a a v v
+讲课 v v
+讲论 v
+讲面子 v
+讲明 v
+讲排场 l v
+讲评 v v
+讲情 v
+讲求 v
+讲授 v
+讲述 v v
+讲习 v
+讲学 v v
+讲演 v v
+讲座 n v v
+酱 n v
+降 g v v
+降半旗 v
+降低 v v
+降伏 v
+降服 v
+降格 v v v
+降级 v
+降价 v v v
+降解 j v v
+降临 v v
+降落 v
+降旗 v v
+降生 v
+降水 n v
+降糖 v
+降温 v v
+降雪 v v
+降压 v
+降雨 v v
+降职 v
+焦化 v v
+胶 n v
+胶合 v
+胶印 v
+交 g n n v
+交白卷 v
+交班 v
+交叉 d v v
+交差 v
+交出 v
+交错 v v
+交代 v
+交待 v v
+交底 v
+交费 v v
+交锋 v v
+交付 v v
+交割 v
+交给 v
+交工 v
+交公 v
+交好 v
+交互 b d v
+交还 v
+交换 v v
+交汇 v v
+交活 v
+交火 v
+交货 v v
+交集 n v
+交际 v
+交加 v
+交接 v v
+交界 v
+交井 v
+交卷 v
+交款 v
+交粮 v v
+交流 v v
+交纳 v
+交配 v v
+交融 v v
+交涉 v v
+交手 v
+交谈 v v
+交替 d v
+交投 v
+交往 v v
+交尾 v
+交响 a v v
+交心 v
+交易 n v v
+交游 v
+交友 v v
+交战 v v
+交账 v v
+交织 v
+交媾 v
+郊游 v
+浇 g v
+浇地 v
+浇灌 v v
+浇洒 v
+浇水 v
+浇铸 v
+浇筑 v
+浇注 v
+娇 a v
+娇宠 v
+娇惯 v
+娇纵 v
+嚼 v x
+嚼舌 v
+搅 v
+搅拌 v
+搅动 v
+搅和 v
+搅混 v
+搅乱 v
+搅闹 v
+搅扰 v
+铰 g v
+矫形 v
+矫正 v
+矫治 v
+狡辩 v
+狡赖 v
+角斗 v
+角力 v
+角逐 v v
+缴 g v
+缴费 v
+缴付 v
+缴获 v v
+缴纳 v v
+缴枪 v
+缴税 v
+缴械 v v
+缴租 v
+绞 q v
+绞脑汁 v
+绞杀 v
+绞死 v
+绞痛 v
+剿 g v
+剿除 v
+剿匪 v v
+剿共 v
+剿灭 v
+教 g j n n v v v
+教导 v v
+教改 j v v
+教会 n v
+教诲 v v
+教课 v
+教授 n v v
+教书 v v
+教唆 v
+教学 n v v
+教训 n v v
+教养 n v
+教育 v v
+较劲 v
+较量 v v
+叫 g p v
+叫菜 v
+叫喊 v v
+叫好 v
+叫号 v
+叫唤 v
+叫绝 v
+叫苦 v
+叫骂 v
+叫卖 v
+叫门 v
+叫屈 v
+叫嚷 v
+叫嚣 v
+叫醒 v
+叫做 v
+叫作 v
+揭 g n v
+揭榜 v
+揭穿 v
+揭底 v
+揭短 v
+揭发 v
+揭开 v
+揭露 v v
+揭秘 v
+揭幕 v v
+揭牌 v
+揭批 v
+揭破 v
+揭示 v v
+揭晓 v v
+接 c g v
+接班 v
+接办 v
+接茬 v
+接触 v v
+接处警 v
+接待 v v
+接到 v
+接地 v v
+接风 v
+接骨 v
+接管 v v
+接轨 v v
+接合 v
+接火 v
+接货 v
+接济 v
+接见 v v
+接近 v
+接力 n v v
+接纳 v
+接洽 v
+接球 v
+接壤 v
+接任 v
+接入 v v
+接生 v v
+接收 v v
+接手 v
+接受 v v
+接送 v v
+接替 v v
+接通 v
+接头 n v
+接吻 v
+接线 v v
+接续 v v
+接应 v
+接种 v
+接着 c d v v
+街办 v v
+截 q v
+截断 v
+截获 v v
+截击 v
+截留 v
+截流 v v
+截取 v
+截收 v
+截肢 v
+截止 v v
+截至 v
+截住 v
+劫 g v
+劫持 v
+劫夺 v
+劫机 v
+劫掠 v
+劫狱 v v
+劫争 v v
+节 n n q v v x
+节哀 v
+节电 v v
+节减 v
+节流 v
+节录 n v
+节能 v v
+节省 v
+节食 v
+节水 v v v
+节选 v v
+节油 v
+节余 n v
+节欲 v
+节育 v v
+节约 a v v v
+节支 v
+节制 v v
+竭尽 v
+结 n v
+结案 v v
+结疤 v
+结拜 v
+结伴 v v
+结冰 v
+结成 v
+结仇 v
+结队 v v
+结对 v v
+结果 d n v v
+结合 v v
+结婚 v v
+结伙 v v
+结集 v
+结荚 v
+结焦 v
+结交 v
+结块 v
+结盟 v v
+结欠 v
+结亲 v
+结社 v
+结识 v
+结束 v v
+结算 v v
+结为 v
+结尾 n v
+结业 v v v
+结余 n v
+结缘 v v
+结怨 v
+结扎 v
+结账 v
+结转 v
+结痂 v
+解 g n n v
+解饱 v
+解嘲 v
+解愁 v
+解除 v
+解答 v v
+解调 v
+解冻 v v
+解毒 v
+解放 a v v
+解雇 v
+解惑 v
+解禁 v
+解救 v
+解决 v v
+解开 v
+解困 v v
+解码 v v
+解闷 v
+解密 v
+解难 v
+解囊 v
+解聘 v v
+解剖 v v
+解气 v
+解劝 v
+解热 v
+解散 v
+解释 v v
+解手 v
+解说 v v
+解送 v
+解题 v
+解体 v v
+解痛 v
+解脱 v v
+解围 v
+解析 v
+解忧 v
+解约 v
+解职 v
+戒 g n n v
+戒备 v v
+戒除 v
+戒毒 v v
+戒赌 v
+戒酒 v
+戒烟 v
+戒严 v
+藉 g v v
+界定 v v
+借 p v
+借贷 n v v
+借调 v
+借读 v
+借光 v
+借火 v
+借鉴 v v
+借口 n v
+借款 n v v
+借入 v
+借宿 v
+借问 v
+借以 v
+借用 v
+借阅 v v
+借债 v v
+借账 v
+借支 v
+借重 v
+借助 v
+借助于 v
+介乎 v
+介入 v v
+介绍 v v
+介意 v
+介于 v
+诫勉 v v
+届 n q v
+届满 v v
+津贴 n v v
+紧 a d v
+紧逼 v
+紧跟 v
+紧接 v
+紧邻 n v
+紧密 a a v
+紧缩 v v
+紧贴 v
+紧握 v
+仅次于 v
+谨防 v
+谨启 v
+进 g v v
+进逼 v
+进兵 v
+进不起 v
+进步 a a v v
+进餐 v
+进场 v
+进城 v v
+进尺 n v
+进出 n v v
+进出口 n v v
+进而 c v
+进发 v
+进犯 v
+进攻 v v
+进贡 v
+进化 v v
+进货 v v
+进见 v
+进进 v
+进军 v v
+进口 n v v
+进来 v
+进栏 v
+进取 v v
+进去 v
+进入 v v
+进食 v
+进退 v v
+进位 v
+进屋 v
+进行 v v
+进修 v v
+进言 v
+进展 v v
+进站 v v
+进驻 v
+晋 g j n t t v v
+晋级 v
+晋见 v
+晋京 j v
+晋升 v v
+晋谒 v
+禁 g v v
+禁闭 v
+禁不起 v
+禁不住 v
+禁得起 v
+禁毒 v v
+禁赌 v
+禁酒 v
+禁绝 v
+禁猎 v
+禁赛 v
+禁食 v
+禁烟 v
+禁用 v v
+禁欲 v
+禁运 v v
+禁止 v v
+禁锢 v v
+近 a a d j n n t t v
+近乎 v
+近视 a v
+近战 v
+浸 v
+浸没 v
+浸泡 v
+浸染 v
+浸入 v
+浸润 v v
+浸湿 v
+浸蚀 v
+浸水 v
+浸透 v
+浸种 v v
+浸渍 v
+尽 a d p v
+尽力 d v
+尽心 a a v
+尽兴 v
+尽义务 v
+尽职 v
+尽忠 v
+鲸吞 v
+惊 v
+惊动 v
+惊呼 v
+惊惑 v
+惊悸 v
+惊叫 v v
+惊扰 v
+惊叹 v v
+惊悉 v
+惊吓 v v
+惊羡 v
+惊醒 v
+惊异 v
+惊厥 v
+精 a a a g n v v
+精读 v
+精简 v v
+精减 v
+精炼 a v
+精通 v
+精细 a a v
+精选 v v
+精制 v v
+经 g n n n p v v
+经办 v v
+经不起 v
+经常化 v v
+经得起 v
+经得住 v
+经管 j v
+经过 d n p v
+经纪 n v v
+经历 n v v
+经商 v v
+经手 v
+经售 v
+经受 v
+经销 v v
+经验 n v v
+经营 n v v
+井喷 v
+警 g j n n v v
+警告 n v v
+警戒 v v
+警觉 v v
+警示 n v v
+警惕 a a v v
+警卫 n v v
+警醒 v v
+景慕 v
+景仰 v v
+静 a a g v
+静观 v
+静候 v
+静默 v
+静听 v
+静养 v
+静音 v v
+静止 v v
+静坐 v v
+敬 g n n n v
+敬爱 v
+敬奉 v
+敬贺 v
+敬酒 v
+敬老 v v
+敬礼 v
+敬慕 v v
+敬佩 v
+敬请 v
+敬挽 v
+敬畏 v
+敬献 v
+敬烟 v
+敬仰 v v
+敬业 a v v
+敬赠 v
+敬重 v v
+痉挛 v
+竟 d v v
+竟敢 v
+竟会 v
+竟是 v
+竞 a a g v v
+竞标 v
+竞猜 v
+竞春 v
+竞技 n v
+竞买 v v
+竞赛 n v v
+竞销 v
+竞选 v v
+竞争 v v
+竞逐 v
+竞走 v
+净化 v v
+净增 v
+净赚 v
+窘 a v
+揪 v
+揪辫子 v
+究 d g v v
+究办 v
+纠 g v v
+纠察 n v v
+纠缠 v v
+纠错 v
+纠风 v v
+纠合 v
+纠集 v
+纠结 v
+纠偏 v
+纠章 v
+纠正 v v
+久别 v
+久等 v
+久留 v
+久违 v
+久仰 v
+救 v
+救国 v v
+救护 v v
+救荒 v
+救活 v
+救火 v
+救急 v v
+救济 n v v
+救救 v
+救命 v v
+救难 v
+救起 v
+救人 v v
+救生 v v
+救亡 v
+救物 v
+救险 v v
+救应 v
+救援 v v
+救灾 v v
+救治 v v
+救助 v v
+就 c d p v
+就餐 v v
+就读 v
+就范 v
+就寝 v
+就任 v
+就是 c d v
+就位 v
+就席 v
+就绪 v
+就学 v
+就业 n v v
+就医 v v
+就义 v
+就诊 v v
+就职 v v
+就坐 v
+就座 v
+鞠躬 v
+拘 g v
+拘捕 v
+拘禁 v v
+拘留 v v
+拘泥 v
+拘押 v
+拘于 v
+狙击 v
+狙杀 v
+居 g n n v
+居多 v
+居功 v
+居家 v
+居留 v
+居于 v
+居中 v
+居住 v v
+局限 v v
+咀嚼 v
+举 g n n v
+举办 v v
+举报 v v
+举杯 v
+举出 v
+举动 n v v
+举架 v
+举荐 v
+举借 v
+举例 v
+举起 v
+举手 v
+举行 v v
+举债 v
+举重 n v v
+聚 v v
+聚变 v v
+聚餐 v v
+聚赌 v
+聚合 v
+聚会 v v
+聚积 v
+聚集 v v
+聚歼 v
+聚焦 v v
+聚居 v
+聚拢 v
+聚齐 v
+聚首 v
+拒 g v v
+拒捕 v
+拒钓 v
+拒付 v
+拒绝 v v
+拒收 v
+据 g n p v v x
+据称 v
+据传 v
+据守 v
+据说 v
+据悉 v
+巨变 n v v
+具 g n n q v v
+具备 v
+具结 v
+具名 v
+具体 a a v
+具体化 v v
+具有 v v
+距 g p v v
+距离 n p v
+踞 g v v
+锯 n v
+俱全 v
+惧 v
+惧怕 v
+剧变 v
+剧增 v
+剧终 v
+捐 g v
+捐款 n v v
+捐弃 v
+捐躯 v
+捐物 v
+捐献 v v
+捐赠 v v
+捐助 v v
+捐资 v v
+眷顾 v
+眷恋 v v
+眷念 v v
+卷 g n n q v
+卷发 n v v
+卷进 v
+卷起 v
+卷曲 v
+卷入 v
+卷逃 v
+撅 v
+攫取 v
+抉择 v v
+掘 v v
+掘进 v v
+掘开 v
+觉 g n n v
+觉察 v
+觉得 v
+觉世 v
+觉悟 n v
+觉醒 v v
+觉着 v
+决 d g v v
+决不能 v
+决策 n v v
+决堤 v
+决定 d n v v
+决斗 v v
+决断 n v
+决非 v
+决口 v
+决裂 v
+决赛 v v
+决胜 v
+决心 d n v v
+决战 v v
+诀别 v
+绝 d g n v v
+绝版 v v
+绝对化 v
+绝非 v
+绝后 v
+绝迹 v
+绝交 v
+绝热 v
+绝食 v v
+绝收 v v
+绝育 v
+绝缘 v v
+绝种 v
+均等 v
+均分 v
+军控 j v
+军事化 v v
+军训 v v
+军用 b v
+竣工 v v
+卡 g j n n q v
+卡脖子 v v
+卡壳 v
+卡住 v
+咯 v x y
+咯痰 v
+咯血 v
+开 g j n q v
+开拔 v
+开办 v v
+开辟 v v
+开标 v v
+开播 v
+开采 v v
+开场 v v
+开车 v
+开锄 v
+开除 v
+开船 v
+开创 n v v
+开刀 v
+开倒车 v
+开导 v
+开道 v
+开动 v
+开冻 v
+开恩 v
+开发 v v
+开饭 v
+开方 v
+开房间 v
+开放 a a v v
+开封 n n v
+开赴 v
+开工 v v
+开关 n v
+开馆 v v
+开锅 v
+开国 b v v
+开航 v
+开河 v
+开户 v v
+开花 v
+开荒 v
+开会 v
+开火 v
+开机 v v
+开价 v
+开架 v v
+开讲 v
+开戒 v
+开进 v
+开禁 v
+开局 n v
+开具 v
+开卷 v
+开掘 v v
+开开 n v
+开课 v
+开垦 v
+开口 v
+开口子 v
+开快车 v
+开矿 v
+开阔 a v v
+开栏 n v
+开犁 v
+开立 v
+开镰 v
+开列 v
+开炉 v
+开路 v
+开绿灯 v
+开门 v v
+开幕 v v
+开拍 v
+开盘 v v
+开炮 v
+开票 v
+开屏 v
+开启 v v
+开枪 v
+开腔 v
+开赛 v
+开山 v v
+开设 v
+开审 v
+开始 n t v v
+开释 v
+开市 v
+开膛 v
+开天窗 v
+开庭 v v
+开通 a v v
+开头 n v
+开脱 v
+开拓 v v
+开挖 v v
+开玩笑 v
+开席 v
+开箱 v
+开销 n v
+开小差 v
+开心 a v
+开行 v
+开学 v v
+开眼 v
+开演 v
+开业 v
+开夜车 v
+开源 v
+开凿 v
+开闸 v v
+开斋 v
+开展 v v
+开战 v
+开张 v
+开征 v
+开支 n v v
+开走 v
+揩 v
+揩油 v
+凯旋 v
+慨叹 v v
+刊 g n n v v
+刊出 v
+刊登 v
+刊发 v
+刊行 v
+刊印 v
+刊载 v
+堪 g v v
+堪称 v
+堪忧 v
+勘 g v
+勘测 v v
+勘查 v v
+勘察 v v
+勘探 v v
+勘误 v
+勘验 v v
+砍 v
+砍伐 v v
+砍价 v
+看 a u v
+看报 v
+看病 v v
+看不到 v
+看不惯 v
+看不起 v
+看场 v
+看成 v
+看出 v
+看穿 v
+看待 v
+看到 v
+看得见 v
+看得起 v
+看跌 v
+看管 v v
+看好 v
+看护 n v v
+看家 b v
+看见 v
+看看 v
+看来 v
+看门 v
+看破 v
+看齐 v
+看青 v
+看轻 v
+看热闹 v
+看上 v
+看上去 v
+看守 n v v
+看似 v
+看透 v
+看望 v v
+看相 v
+看押 v
+看样子 v
+看涨 v
+看中 v
+看重 v v
+看做 v
+看作 v
+康复 v v
+糠 n v
+扛 g v
+抗 v
+抗癌 v v
+抗暴 v
+抗辩 v
+抗病 v v
+抗旱 v v
+抗衡 v
+抗洪 v v
+抗毁 v
+抗击 v
+抗静电 v
+抗救灾 v v
+抗拒 v
+抗涝 v
+抗命 v
+抗热 v
+抗日 v v
+抗税 v
+抗诉 v v
+抗议 v v
+抗御 v
+抗灾 v v
+抗战 v v
+抗震 v v
+抗争 v v
+亢旱 v
+亢进 v
+考 g v
+考查 v v
+考察 v v
+考古 n v v
+考核 v v
+考稽 v v
+考绩 v
+考级 v
+考究 a v
+考据 v
+考量 v
+考虑 v v
+考评 v v
+考勤 v v
+考取 v
+考入 v
+考上 v
+考试 v v
+考验 n v v
+考证 v v
+拷贝 n v
+拷打 v
+拷问 v v
+烤 v
+烤火 v
+靠 g n p v
+靠岸 v
+靠边 v
+靠近 v
+靠拢 v
+苛求 v
+苛责 v
+磕 v
+磕打 v
+磕磕碰碰 l v
+磕碰 v
+磕头 v
+科学化 v v
+咳 e v
+咳嗽 v
+可 c d g v x
+可比 v v
+可变 v v
+可辨 v
+可否 v
+可见 c v
+可怜 a v v
+可能 a a n v
+可逆 v v
+可欺 v
+可是 c d v
+可望 v
+可谓 v
+可惜 a v
+可喜 a v
+可言 v
+可以 a d v
+可用 a v
+可知 v
+渴念 v
+渴盼 v v
+渴求 v v
+渴望 v v
+克 g j q v v
+克服 v v
+克复 v
+克扣 v
+克隆 v v
+克制 a v v
+刻 g q v
+刻画 v v
+刻划 v
+刻写 v
+刻制 v
+刻字 v
+客串 v
+客套 n v
+肯 g v
+肯定 a a a d v v
+啃 v
+垦 v
+垦荒 v v
+恳请 v
+恳求 v
+坑 n v
+坑害 v
+坑农 v
+坑骗 v
+坑人 v
+吭 g v
+吭气 v
+吭声 v
+空 a d g n n n v
+空乏 a v
+空喊 v
+空降 v
+空空荡荡 v z
+空前 a a d v
+空缺 n v v
+空谈 v
+空投 v
+空袭 v v
+空想 n v
+空心 b v v
+空运 n v v
+空战 v
+空置 v v
+空转 v
+恐 d g v
+恐吓 v
+控 g v
+控告 v
+控股 v v
+控诉 v v
+控制 v v
+抠 a v
+抠算 v
+抠字眼 v
+口吃 v
+口传 v
+口服 v v
+口渴 v
+口试 v
+口授 v
+口述 v
+口算 v
+口译 v
+扣 g n n v
+扣除 v v
+扣缴 v v
+扣篮 v
+扣留 v
+扣帽子 v
+扣球 v v
+扣杀 v v
+扣压 v
+扣押 v v
+枯 g v
+枯干 v
+枯竭 v
+枯死 v
+枯萎 v
+枯坐 v
+哭 v
+哭鼻子 v
+哭喊 v
+哭叫 v
+哭闹 v
+哭泣 v
+哭穷 v
+哭丧 v
+哭诉 v
+苦 a a a v
+苦干 v
+苦苦 d v
+苦练 v v
+苦留 v
+苦劝 v
+苦思 v
+苦笑 n v
+苦学 v
+苦于 v
+苦战 v
+酷爱 v v
+酷似 v
+库存 n v v
+夸 v
+夸大 v
+夸奖 v v
+夸口 v v
+夸耀 v
+夸赞 v v
+夸张 n v v
+垮 a a v
+垮台 v
+挎 v
+跨 g v
+跨国 b d v
+跨过 v
+跨境 v v
+跨栏 v
+跨年度 v
+跨入 v
+跨上 v
+跨越 v v
+快递 v
+快攻 v v
+快速化 v
+快运 v v
+宽待 v
+宽容 a a v v
+宽恕 v
+宽慰 v v
+宽限 v
+宽衣 v
+款待 v v
+款留 v
+匡算 v
+匡正 v v
+狂奔 v
+狂跌 v v
+狂放 v
+狂吠 v
+狂呼 v
+狂欢 v v
+狂怒 v
+狂升 v
+狂喜 v
+狂啸 v
+狂笑 v
+狂饮 v
+框 g n n q v
+旷工 v
+旷课 v
+况 g n v
+亏 n n v v
+亏本 v
+亏待 v
+亏得 v
+亏负 v
+亏耗 v
+亏空 n v
+亏欠 v
+亏蚀 v
+亏损 n v v
+窥 g v
+窥测 v
+窥见 v
+窥破 v
+窥视 v
+窥伺 v
+窥探 v
+窥望 v
+窥寻 v
+馈送 v
+馈赠 v v
+愧 g v v
+愧对 v
+溃败 v
+溃决 v
+溃烂 v
+溃灭 v
+溃散 v
+溃逃 v
+溃退 v
+捆 g q v
+捆绑 v v
+捆扎 v
+困 a a n v v
+困扰 v v
+困守 v
+括 v x
+扩 g v v
+扩编 v
+扩充 v
+扩大 v v
+扩大化 v
+扩建 v v
+扩军 v
+扩容 v v
+扩散 v v
+扩印 v
+扩展 v v
+扩张 v v
+廓清 v v
+阔别 v
+拉 j v x
+拉长 v
+拉车 v
+拉扯 v
+拉倒 v
+拉动 v v
+拉肚子 v
+拉关系 v
+拉后腿 v
+拉家常 v
+拉交情 v
+拉锯 v
+拉开 v
+拉练 v v
+拉拢 v
+拉买卖 v
+拉平 v
+拉手 n v v
+拉网 n v
+拉稀 v
+拉纤 v
+拉制 n v
+蜡染 v
+辣 a a v
+来 f g m n u v v y
+来不得 v
+来不及 v
+来到 v v
+来得 v
+来得及 v
+来电 n v
+来犯 v v
+来访 v v
+来稿 n v
+来函 n v
+来华 v v
+来回 n v v
+来讲 u v
+来京 v
+来临 v v
+来美 v
+来去 v
+来说 u v y
+来往 v v
+来信 n v v
+来源于 v
+来自 v
+赖 a g n v
+赖账 v
+拦 v
+拦挡 v
+拦击 v
+拦截 v
+拦劫 v
+拦路 v
+拦网 v v
+拦蓄 v
+拦住 v
+拦阻 v
+揽 v
+揽工 v
+揽活 v
+揽客 v
+览 g v v
+览胜 v
+懒得 v
+缆 n v
+烂 a v
+滥发 v
+滥伐 v
+滥杀 v
+滥用 v v
+朗读 v
+朗诵 v v
+浪费 v v
+捞 v
+捞稻草 v
+捞钱 v
+捞取 v
+劳 g n n n v
+劳动 v v
+劳改 v
+劳驾 v
+劳教 v v
+劳碌 v
+劳损 v
+劳务 n v
+劳心 v v
+劳作 n v v
+牢记 v
+牢系 v
+老百姓 n v
+老化 v v
+烙 v x
+涝 g n n v
+勒 g q v
+勒紧 v
+勒令 v
+勒索 v v
+乐 a a a g n n n v
+乐得 v
+乐意 v
+乐于 v
+雷暴 n v
+雷动 v
+雷击 v
+雷鸣 v v
+雷同 v v
+累 a a g v x
+累积 v
+累及 v
+累计 v v
+累加 v
+累进 v v
+累垮 v
+累死 v
+垒 g n v
+擂 g v
+擂鼓 v
+类比 v
+类似 a v v
+类同 v
+类推 v
+冷藏 v v
+冷淡 a v
+冷冻 v v
+冷敷 v
+冷加工 v
+冷落 a v v
+冷凝 v v
+冷却 v v
+冷缩 v
+冷烫 v
+冷笑 v
+犁 n q v
+犁地 v
+犁田 v
+离 g p v
+离岸 v v
+离别 v v
+离不开 v
+离队 v v
+离婚 v v
+离家 v
+离间 v
+离境 v
+离开 v
+离去 v v
+离任 v v
+离散 b v v
+离题 v
+离退休 v v
+离乡 v
+离休 v v
+离异 v
+离职 v
+理 j n v
+理财 v v
+理睬 v
+理当 v
+理发 v
+理会 v
+理解 v v
+理亏 v
+理疗 v
+理赔 v v
+理清 v
+理入 v
+理事 n v
+理顺 v
+理应 v
+礼让 v v
+礼赞 n v
+励 g n v v
+励人 v
+历 d g n v v
+历尽 v
+历经 v
+历久 v
+历任 v
+历时 v
+历险 v
+利 g n n n v v
+利己 v
+利民 v
+利用 n v v
+利诱 v v
+利于 v
+例如 v
+例外 n v
+例行 v v
+立 d g n v
+立案 v v
+立传 v
+立定 v
+立法 v v
+立功 v v
+立国 v
+立据 v
+立论 v v
+立誓 v
+立体化 v
+立项 v v
+立业 v
+立意 n v
+立约 v
+立正 v
+立志 v
+立足 v
+隶属 v v
+力 g n v v
+力护 v
+力戒 v
+力克 v
+力求 v
+力图 v
+力战 v
+力争 v
+力主 v
+力抓 v
+力阻 v
+联 g n n v v
+联办 v
+联播 v v
+联测 v
+联查 j v
+联唱 v v
+联动 d v v
+联防 v v
+联合 n v v
+联户 n v v
+联欢 v v
+联机 v
+联接 v
+联结 v v
+联控 v
+联络 v v
+联名 v v
+联片 v v v
+联手 v v
+联通 v v
+联网 v v
+联系 n v v
+联想 n v v
+联行 v v
+联训 v
+联谊 b v v
+联谊赛 v v
+联姻 v v
+联营 v v
+联运 v v
+联展 n v
+连 d n n p u v
+连成 v
+连带 v v
+连锅端 v
+连接 v v
+连结 v
+连累 v
+连连 d v
+连片 v v
+连任 v v
+连锁 d v v
+连天 v v
+连通 v
+连写 v
+连续 a a a d v
+连用 v
+连载 v
+连轴转 v
+连着 d v
+连作 v
+怜爱 v
+怜才 v
+怜悯 v
+怜惜 v
+怜恤 v
+敛财 v
+脸红 v
+脸谱化 v
+恋 v v
+恋爱 v v
+恋春 v
+恋家 v
+恋旧 v
+恋慕 v
+炼 v
+炼丹 v
+炼钢 v v
+炼焦 v v
+炼就 v
+炼铁 v
+炼油 v v
+炼制 v
+练 g n v
+练笔 v
+练兵 v v
+练出 v
+练功 v v
+练就 v
+练拳 v
+练嗓子 v
+练摊 v
+练武 v
+练习 n v v
+练字 v v
+凉 a v
+凉拌 v
+两便 v
+两讫 v
+两全 v
+量 g n v
+量化 v v
+量力 v
+量刑 v v
+晾 v
+晾干 v
+晾晒 v
+亮 a v
+亮相 v v
+谅 g v
+谅解 v v
+撩 g v
+撩拨 v
+撩逗 v
+撩开 v
+聊 d g v
+聊天 v
+疗 g v
+疗养 v v
+燎 g v
+燎原 v
+了 g u u v y
+了断 v
+了结 v
+了解 v v
+了局 n v
+了却 v
+了事 v
+了望 v
+撂 v
+撂荒 v
+撂挑子 v
+撂下 v
+料 g n q v
+料到 v
+料及 v
+料理 v
+料想 v
+列 n n n q v
+列编 v
+列表 v
+列出 v
+列队 v v
+列举 v
+列入 v
+列为 v
+列席 v
+列支 v
+裂 g v
+裂变 n v v
+裂化 v
+裂开 v
+猎 g v
+猎获 v
+猎奇 v v
+猎取 v
+猎杀 v
+林立 v
+临 g p v v
+临别 v v
+临产 v
+临床 b d v v
+临到 v
+临街 v v
+临近 a v v
+临门 v
+临摹 v
+临盆 v
+临死 v
+临帖 v
+临头 v
+临危 v
+临刑 v
+临行 v
+临战 v
+临震 v v
+临终 v v
+临走 v
+邻 g v v
+邻接 v
+邻近 a v v
+淋 v
+淋浴 v v
+赁 v
+赁租 v
+吝惜 v
+拎 v
+零花 n v
+零落 a v
+零卖 v
+零售 v v
+零用 n v
+凌 g n n v
+凌驾 v
+凌空 v v
+凌辱 v v
+凌侮 v
+领 g n n q v
+领班 n v
+领唱 v
+领导 n v v
+领到 v
+领道 v
+领读 v
+领航 n v
+领会 v
+领奖 v
+领教 v
+领款 v
+领路 v
+领略 v v
+领情 v
+领取 v
+领赏 v
+领受 v
+领头 v
+领悟 v v
+领先 v v
+领衔 v v v
+领养 v
+领有 v
+另选 v
+另议 v
+令 g n n q v v x
+溜 g q v
+溜冰 v v
+溜达 v
+溜掉 v
+溜号 v
+溜坍 v
+溜走 v
+硫化 v
+馏 g v
+留 g n n v v
+留办 v
+留步 v
+留成 n v
+留存 v v
+留待 v
+留底 v
+留给 v
+留根 v
+留后路 v
+留话 v
+留级 v v
+留客 v
+留连 v
+留恋 v v
+留名 v
+留念 v v
+留情 v
+留任 v
+留神 v
+留守 v
+留水 v
+留宿 v
+留下 v
+留下来 v
+留心 v v
+留学 v v
+留言 n v
+留洋 v
+留意 v v
+留影 n v
+留用 v
+留职 v
+留住 v
+留驻 v
+留足 v
+流 g n n q v v
+流产 v
+流出 v
+流传 v v
+流窜 v v
+流荡 v
+流动 v v v
+流放 v v
+流过 v
+流汗 v
+流经 v
+流浪 v v
+流泪 v v
+流露 v v
+流落 v
+流入 v v
+流散 v v
+流失 v v
+流逝 v v
+流淌 v
+流通 v v
+流亡 v v
+流下 v
+流向 n v v
+流泻 v
+流行 a v v
+流血 v v
+流转 v
+聋 v
+笼 g n n v
+笼络 v
+笼罩 v v
+隆起 v
+垄断 v v v
+拢 v
+拢岸 v
+搂 q v
+搂抱 v
+漏 g v
+漏电 v
+漏掉 v
+漏风 v
+漏光 v
+漏气 v
+漏水 v
+漏税 v
+漏网 v
+掳掠 v
+卤 n v
+卤化 v
+露 g n v
+露出 v
+露底 v
+露脸 v
+露马脚 v
+露面 v
+露怯 v
+露宿 v
+露头 v
+露馅 v
+露一手 v
+露营 v
+路 n n q v
+路过 v
+录 g v
+录放 v v
+录取 v v
+录入 v
+录像 n v v
+录音 v v
+录用 v v
+录制 v
+陆运 n v
+铝焊 v v
+旅 g n v v
+旅法 v v
+旅馆化 v v
+旅检 v v
+旅居 v
+旅美 v v
+旅欧 v v
+旅日 v v
+旅行 v v
+旅游 v v
+履 g v v
+履行 v
+履约 v v
+缕陈 v
+缕述 v
+缕析 v
+氯化 v
+律 g n n v
+律动 n v
+率 g k v v
+率领 v v
+率先 d v
+滤 v
+滤波 v
+绿化 v v
+挛缩 v
+乱 a d v v
+乱采 v
+乱弹琴 v
+乱动 v
+乱发 v
+乱叫 v
+乱来 v
+乱跑 v
+乱套 v
+掠 v
+掠夺 v
+掠过 v
+掠美 v
+掠取 v
+略 d g v
+略带 v
+略读 v
+略去 v
+略作 v
+抡 g v
+轮 g n n q v
+轮班 v v
+轮补 v
+轮唱 v
+轮岗 v
+轮换 v v v
+轮回 v v
+轮奸 v
+轮空 v
+轮流 v v v
+轮牧 v
+轮休 v
+轮训 v
+轮值 v v
+轮种 v
+轮转 v
+轮作 v v
+沦落 v
+沦丧 v
+沦亡 v
+沦为 v
+沦陷 v
+论 g k n n p v
+论处 v
+论断 n v v
+论及 v
+论理 v
+论列 v
+论述 v v
+论说 v
+论战 v v
+论争 v v
+论证 v v
+论罪 v
+罗 j n n q v x
+罗列 v
+罗织 v
+罗致 v
+裸露 v v
+裸袒 v
+落 g v v x
+落榜 v
+落笔 v
+落草 v
+落潮 v
+落成 v v
+落地 v v
+落后 a a v
+落户 v
+落价 v
+落脚 v
+落空 v
+落款 n v
+落泪 v
+落马 v v
+落幕 v
+落难 v
+落聘 v v
+落入 v
+落实 v v
+落水 v v
+落网 v
+落伍 v
+落选 v v
+落枕 v
+落座 v
+络 g v
+麻 a n n v x
+麻痹 a v v
+麻烦 a a v v
+麻醉 v v
+码 g q v
+骂 v
+骂架 v
+骂街 v
+骂娘 v
+埋 v x
+埋藏 v
+埋伏 v
+埋没 v
+埋设 v
+埋头 v v
+埋怨 v v
+埋葬 v
+买 g v
+买不起 v
+买断 v
+买房 v
+买进 v
+买卖 n v v
+买入 v v
+买通 v
+买账 v
+麦收 v
+卖 v
+卖报 v
+卖唱 v
+卖出 v
+卖春 v
+卖乖 v
+卖国 v v
+卖好 v
+卖假 v
+卖命 a v
+卖弄 v
+卖俏 v
+卖身 v
+卖艺 v
+卖淫 v v
+迈 q v
+迈步 v
+迈出 v
+迈进 v
+迈开 v
+迈入 v
+迈向 v v
+瞒 v
+瞒报 v
+瞒哄 v
+蛮干 v v
+满 a d g n v
+满额 v
+满怀 n v
+满期 v
+满天飞 v
+满意 v v
+满员 v
+满月 v
+满载 v
+满足 a a v v
+满座 v
+蔓延 v v
+曼延 v
+慢行 v
+慢走 v
+漫 v
+漫步 v
+漫灌 v v
+漫录 v v
+漫骂 v
+漫谈 v v
+漫议 v v
+漫游 v v
+谩骂 v
+盲从 v
+盲动 v v
+盲干 v
+忙 a a a n v v
+忙乎 v
+忙活 n v
+忙碌 a a v
+忙于 v
+猫 n v x
+猫腰 v
+铆 g v
+铆接 v
+铆劲 v
+冒 g n p v v x
+冒充 v
+冒顶 v
+冒犯 v
+冒汗 v
+冒火 v
+冒尖 v
+冒进 v
+冒领 v
+冒名 v
+冒泡 v
+冒气 v
+冒头 v
+冒险 v v v
+冒烟 v
+冒雨 v v
+貌似 v
+贸 g j n n v v
+贸易 n v v
+霉 n v
+霉变 a v
+霉烂 v
+没 d v x
+没错 v
+没顶 v
+没法 d n v
+没空 v
+没落 v v
+没门 v
+没命 v
+没谱 a v
+没事 v
+没事儿 v
+没收 v v
+没完 v
+没戏 v
+没用 v
+没有 d v
+没辙 v
+没治 v
+没准 v
+媒体化 v
+每逢 v
+美发 v v
+美化 v v
+美容 v v
+美言 n v
+昧 g v
+寐 g v
+媚 g v v
+门诊 n v
+闷 a v
+萌动 v v
+萌发 v
+萌生 v
+萌芽 v v
+蒙 g j n v
+蒙蔽 v
+蒙哄 v
+蒙混 v
+蒙蒙亮 v
+蒙面 v v
+蒙难 v
+蒙骗 v
+蒙受 v
+蒙冤 v
+蒙住 v
+猛冲 v
+猛打 v
+猛跌 v
+猛攻 v
+猛击 v
+猛扑 v
+猛醒 v
+猛增 v
+猛涨 v
+猛追 v
+梦 g n v v
+梦见 v
+梦寐 v
+梦想 n v
+梦遗 v
+梦游 v
+梦魇 n v
+眯 v
+眯缝 v
+靡 g v
+糜烂 v
+迷 g n v
+迷航 v
+迷糊 v
+迷惑 a v
+迷恋 v v
+迷路 n v
+迷漫 v
+迷失 v
+迷信 v v
+迷住 v
+弥 a a g v v
+弥补 v v
+弥缝 v
+弥合 v
+弥留 v
+弥漫 v
+弥散 v
+秘传 v
+觅 g v v
+觅食 v
+密闭 v
+密布 v
+密电 n v
+密访 v
+密封 v v
+密告 v
+密令 n v
+密谋 v
+密切 a a v v
+密商 v
+密谈 v
+密植 v
+眠 g v v
+绵延 v
+绵亘 v
+免 d v
+免不了 v
+免除 v
+免得 v
+免掉 v
+免费 v v v
+免检 v v
+免票 n v
+免去 v
+免试 v
+免税 v v
+免刑 v
+免验 v
+免役 v
+免疫 b v v
+免于 v
+免遭 v
+免责 v v
+免征 v
+免职 v
+免罪 v
+勉励 v v
+勉强 a a v
+缅怀 v v
+面 f n q v v
+面陈 v
+面对 v
+面告 v
+面临 v v
+面洽 v
+面商 v
+面世 v v
+面市 v
+面试 n v v
+面授 v
+面谈 v
+面向 v
+面谢 v
+面议 v
+描 v
+描红 n v
+描画 v v
+描绘 v v
+描眉 v
+描摹 v
+描述 v v
+描图 v
+描写 v v
+瞄 v
+瞄准 v
+藐视 v
+蔑视 v
+灭 v
+灭火 v v
+灭迹 v
+灭绝 v
+灭菌 v
+灭口 v
+灭亡 v
+灭种 v
+民营 b v
+民用化 v v
+民主化 n v v
+民族化 v
+抿 v
+明 a a d g n t t v v
+明白 a a v
+明断 v
+明朗化 v
+明了 v
+明确 a a v v
+明示 v v
+明说 v
+明晰 a v
+明显化 v
+明知 v
+鸣 g v v
+鸣笛 v v
+鸣放 v
+鸣号 v
+鸣叫 v v
+鸣枪 v
+鸣响 v v
+鸣谢 v
+鸣冤 v
+鸣啭 v
+铭记 v
+铭刻 n v
+名 g n n q v v
+名叫 v
+名列 v
+名为 v
+命 g n v
+命令 n v
+命名 n v v
+命题 n v
+命意 n v
+命中 v
+摸 v
+摸彩 v
+摸得着 v
+摸底 v v
+摸黑 v
+摸黑儿 v
+摸奖 v
+摸门 v
+摸摸 v
+摸清 v
+摸索 v
+摸透 v
+摹仿 v
+摹古 v
+摹刻 n v
+摹拟 v
+摹写 v
+摹印 n v
+模仿 v
+模糊 a a v
+模拟 b v v
+磨 n v
+磨不开 v
+磨擦 v v
+磨蹭 v
+磨刀 v
+磨光 v
+磨合 v v
+磨炼 v v
+磨练 v v
+磨灭 v
+磨墨 v
+磨损 v v
+磨削 v
+磨牙 n v
+磨洋工 v
+摩 j v x
+摩擦 v v
+摩挲 v
+抹 q v
+抹鼻子 v
+抹脖子 v
+抹不开 v
+抹掉 v
+抹粉 v
+抹黑 v
+抹灰 v
+抹墙 v
+抹杀 v
+抹煞 v
+莫如 v
+默 g v v
+默哀 v
+默祷 v
+默读 v
+默认 v
+默诵 v
+默想 v
+默写 v
+默许 v
+默坐 v
+漠视 v
+谋 g n n v
+谋反 v
+谋害 v
+谋划 v v
+谋利 v v
+谋求 v v
+谋取 v
+谋杀 v v
+谋生 v
+谋事 v
+谋私 v
+谋职 v
+牟利 v
+牟取 v
+亩产 n v v
+募兵 v
+募集 v v
+募捐 v v
+募款 v
+慕名 v
+目测 v
+目睹 v
+目击 v
+目视 v
+目送 v
+目眩 v
+牧 g j n n v
+牧马 v
+牧羊 v v
+拿 p v
+拿办 v
+拿到 v
+拿获 v
+拿人 v
+拿下 v
+拿药 v
+拿走 v
+呐喊 v v
+纳 g j v
+纳福 v
+纳贿 v
+纳降 v
+纳粮 v
+纳凉 v
+纳闷 v
+纳入 v
+纳税 v v
+纳谏 v
+纳妾 v
+乃 c d r v
+乃是 v
+奶 n v
+耐 v
+耐受 v
+耐震 v
+奈何 v
+南下 v v
+南巡 v v
+男性化 v
+难 a a a d g n n v v
+难保 v
+难产 v
+难当 v
+难倒 v
+难得 a a v
+难免 d v v
+难说 v
+难忘 a v v
+难为 v v
+难以 d v
+难于 v
+囊括 v
+挠 v
+挠头 v
+挠秧 v
+挠痒 v
+恼 v
+恼恨 v
+恼怒 a v
+闹 a v
+闹别扭 v
+闹病 v
+闹肚子 v
+闹翻 v
+闹革命 v
+闹鬼 v
+闹饥荒 v
+闹乱子 v
+闹情绪 v
+闹事 v
+闹腾 v v
+闹心 v v
+闹意见 v
+闹着玩 v
+呢喃 v
+内部化 v
+内出血 v
+内定 v
+内服 v
+内控 v v
+内涝 v
+内设 b v
+内审 v v
+内省 v
+内销 v v
+内讧 v
+能 g n n n v
+能否 d v
+能够 v
+能力 n v
+泥 g n v
+泥墙 n v
+拟 v
+拟定 v
+拟订 v
+拟稿 v
+拟提 v v
+拟题 v
+拟议 v
+匿 g v
+匿迹 v
+匿名 v v
+腻 g v
+腻烦 v
+腻味 v
+逆 g n v v
+逆变换 v
+逆差 n v
+逆耳 v
+逆光 v
+逆料 v
+逆势 v v
+逆水 v
+逆行 v
+逆转 v v
+溺爱 v
+溺水 v
+溺死 v
+溺婴 v
+蔫 v
+拈 v
+拈阄 v
+年产 v v
+年长 v
+年均 j v
+年老 v
+年轻化 v
+碾 g n v
+碾米 v
+碾碎 v
+碾压 v
+撵 v
+捻 g v
+捻线 v
+念 g n v
+念佛 v
+念经 v
+念书 v
+念诵 v
+念咒 v
+念叨 v
+酿 g v
+酿成 v
+酿祸 v
+酿酒 v v
+酿蜜 v
+酿造 v v
+酿制 v
+鸟瞰 v
+尿 n v
+尿床 v
+尿炕 v
+尿频 v
+尿血 v
+捏 v
+捏合 v
+捏造 v
+捏闸 v
+啮合 v
+镊 g v
+狞笑 v
+凝 g v v
+凝成 v
+凝冻 v
+凝固 v
+凝集 v
+凝结 v
+凝聚 v v
+凝神 v
+凝视 v
+凝思 v
+凝望 v
+凝滞 v
+凝眸 v v
+宁 a c d d g j n v
+拧 v
+扭 v
+扭打 v
+扭动 v
+扭断 v
+扭获 v
+扭结 v
+扭亏 v v
+扭曲 v v
+扭伤 v
+扭送 v
+扭头 v
+扭秧歌 v
+扭转 v v
+浓缩 v v
+弄 g v
+弄鬼 v
+弄僵 v
+弄垮 v
+弄清 v
+弄权 v
+奴役 v v
+努 v
+努力 a a a v
+努嘴 v
+怒 g v
+怒斥 v
+怒放 v
+怒号 v
+怒吼 v
+怒骂 v
+怒视 v
+怒叱 v
+女性化 v
+暖 a a a v v
+暖和 a v
+虐待 v v
+挪 j v
+挪动 v
+挪借 v
+挪开 v
+挪窝 v
+挪用 v v
+诺 g n n v
+殴打 v
+殴斗 v
+殴伤 v
+呕吐 v
+呕血 v
+偶遇 v
+沤 g v
+沤肥 v
+沤粪 v
+趴 v
+趴下 v
+爬 v
+爬高 v
+爬山 v
+爬升 v
+爬树 v
+爬行 v
+爬泳 v
+怕 a v v
+拍 g v
+拍巴掌 v
+拍板 v
+拍打 v
+拍发 v
+拍合 v
+拍击 v
+拍马 v
+拍马屁 v
+拍卖 v v
+拍拍 v
+拍片子 v
+拍摄 v v
+拍手 v
+拍外景 v
+拍戏 v
+拍掌 v
+拍照 v
+拍桌子 v
+排 n q v
+排版 v
+排斥 v
+排除 v v
+排错 v
+排定 v
+排队 v v
+排放 v v
+排挤 v v
+排碱 v v
+排解 v
+排涝 v v
+排雷 v v
+排练 v v
+排列 v v
+排卵 v v
+排名 v v
+排气 v v
+排遣 v
+排水 v v
+排位 n v
+排污 v v
+排戏 v
+排泄 v
+排行 n v
+排序 v v
+排烟 v
+排演 v v
+排印 v
+排字 v
+徘徊 v v
+派 n q v x
+派兵 v
+派出 v v
+派遣 v v
+派生 v
+派员 n v
+派驻 v v
+攀 v
+攀比 v
+攀扯 v
+攀登 v v
+攀附 v
+攀亲 v
+攀上 v
+攀升 v
+攀谈 v
+攀援 v
+攀缘 v
+攀越 v
+攀折 v
+盘 g n n n q v
+盘剥 v
+盘查 v
+盘存 v
+盘点 v v
+盘店 v
+盘杠子 v
+盘桓 v
+盘活 v v
+盘货 v
+盘踞 v
+盘库 v
+盘弄 v
+盘球 v
+盘绕 v
+盘算 v
+盘腿 v v
+盘问 v
+盘旋 v
+盘灶 v
+盘账 v
+盘整 v v
+盘诘 v
+盼 v v
+盼归 v
+盼望 v
+判 v
+判案 v
+判别 v
+判处 v
+判定 v v
+判断 n v v
+判决 v v
+判明 v
+判刑 v
+判罪 v
+叛变 v
+叛党 v
+叛国 v
+叛离 v
+叛乱 v v
+叛卖 v
+叛逆 n v
+叛逃 v
+旁观 v
+旁及 v
+旁听 v
+耪 v
+耪地 v
+抛 v
+抛光 v v
+抛开 v
+抛锚 v v
+抛弃 v v
+抛洒 v
+抛售 v v
+抛秧 v v
+抛掷 v
+咆哮 v v
+刨 g v
+刨除 v
+炮 n v
+炮轰 v
+炮击 v v
+炮制 v
+跑 g v
+跑遍 v
+跑步 v v
+跑单帮 v
+跑电 v
+跑旱船 v
+跑马 v
+跑跑颠颠 v
+跑跑跳跳 v
+跑题 v
+跑腿 v
+跑外 v
+泡 g n q v
+泡病号 v
+泡茶 v
+泡蘑菇 v
+泡汤 v
+培 v
+培土 v
+培训 v v
+培养 v v
+培育 v v
+培植 v
+赔 v
+赔本 v
+赔不是 v
+赔偿 n v v
+赔付 v
+赔还 v
+赔款 n v v
+赔礼 v
+赔钱 v
+赔小心 v
+赔笑 v
+赔账 v
+赔罪 v
+陪 v
+陪伴 v
+陪绑 v
+陪衬 n v
+陪读 v
+陪酒 v
+陪客 v
+陪练 v
+陪审 v
+陪同 n v v
+陪葬 v
+配 v
+配备 v
+配餐 v
+配搭 v
+配电 v
+配对 v
+配给 v
+配合 v v
+配乐 v v
+配料 n v
+配器 v
+配曲 v
+配色 v
+配售 v
+配属 v
+配送 v v
+配套 a a a v v
+配套化 v
+配舞 v
+配戏 v
+配药 v
+配音 v
+配置 n v v
+配制 v
+配种 v
+佩 g v
+佩戴 v
+佩带 v
+佩服 v
+喷 g v
+喷发 v v
+喷饭 v
+喷灌 v v
+喷溅 v
+喷漆 v
+喷气 v
+喷洒 v
+喷射 v
+喷涂 v
+喷吐 v
+喷药 v
+喷涌 v
+盆浴 v
+盆栽 n v
+抨击 v v
+烹 v
+烹茶 v
+烹调 v v
+烹制 v
+烹饪 n v v
+澎湃 v
+蓬 n q v
+膨胀 v v
+捧 q v
+捧杯 v
+捧场 v
+捧腹 v
+碰 v
+碰杯 v
+碰壁 v
+碰到 v
+碰钉子 v
+碰见 v
+碰面 v
+碰上 v
+碰头 v
+碰撞 v v
+批 j q v
+批办 v v
+批驳 v
+批捕 v v
+批处理 v
+批斗 v
+批发 v v
+批复 v v
+批改 v
+批零 j v v
+批判 v v
+批评 v v
+批示 n v v
+批阅 v
+批注 n v
+批准 v v
+批租 v v
+披 v
+披盖 v
+披挂 n v
+披露 v v
+披散 v
+披阅 v
+披载 v
+劈 n v
+劈叉 v
+劈杀 v
+毗连 v
+毗邻 v v
+疲惫 a a v
+匹 g q v v
+匹敌 v
+匹配 v
+譬如 v
+譬喻 v
+偏 a d g v
+偏爱 v v
+偏安 v
+偏废 v
+偏护 v
+偏离 v
+偏失 v
+偏食 v
+偏瘫 v v
+偏袒 v
+偏向 n v
+偏信 v
+偏移 v
+偏重 v
+偏转 v
+骗 v v
+骗取 v
+骗人 v
+骗税 v v
+飘 a n v
+飘泊 v
+飘荡 v
+飘动 v
+飘拂 v
+飘浮 v
+飘忽 v
+飘零 v
+飘流 v
+飘落 v
+飘飘 v v
+飘飘扬扬 v
+飘洒 a v
+飘散 v
+飘舞 v
+飘香 v
+飘扬 v
+飘摇 v
+飘曳 v
+飘移 v
+飘逸 a v
+飘溢 v
+漂 v
+漂白 v
+漂泊 v v
+漂浮 a v
+漂流 v
+漂洗 v
+漂移 v
+撇 n q v
+撇开 v
+撇下 v
+撇嘴 v
+瞥 v
+瞥见 v
+拼 v v
+拼版 v
+拼搏 v v
+拼刺 v
+拼凑 v
+拼接 v
+拼命 d v
+拼抢 v v
+拼图 v
+拼写 v
+拼争 v
+贫困化 v v
+贫血 v v
+品 g k n q v
+品茶 v
+品尝 v v
+品酒 v
+品评 v v
+品数 v
+品味 n v
+品茗 v
+聘 v
+聘请 v v
+聘任 v
+聘选 v
+聘用 v v
+平 a g j n v
+平槽 v
+平产 v
+平定 v
+平反 v v
+平分 v
+平复 v
+平衡 a a v v
+平均 a a a v v
+平列 v
+平乱 v
+平盘 v v
+平叛 v
+平视 v
+平摊 v
+平躺 v
+平添 v
+平卧 v
+平息 v
+平行 v
+平移 v
+平整 a v v
+凭 c p v
+凭吊 v v
+凭眺 v
+凭依 v
+凭仗 v
+评 v
+评比 v v
+评测 v
+评点 v
+评定 v v
+评断 v
+评分 v v
+评功 v
+评估 v v
+评级 v v
+评价 v v
+评奖 v v
+评介 v
+评理 v
+评论 n v v
+评判 v v
+评审 v v
+评述 v v
+评说 v v
+评为 v
+评析 v v
+评选 n v v
+评议 v v
+评阅 v
+评注 n v
+屏蔽 n v
+屏除 v
+屏气 v
+屏弃 v
+屏息 v
+屏住 v
+泼 v
+泼冷水 v
+泼墨 v
+破 a v
+破案 v v
+破败 v
+破财 v
+破产 v v
+破除 v
+破费 v
+破格 v v
+破坏 v v
+破坏性 a b n v
+破获 v v
+破戒 v
+破例 v
+破脸 v
+破裂 v
+破落 v
+破门 v v
+破灭 v v
+破碎 a v
+破损 v v
+破土 v
+破相 v
+破晓 v
+破译 v
+破约 v
+迫 g v v x
+迫害 v v
+迫降 v
+迫近 v
+迫使 v
+迫于 v
+剖 v
+剖白 v
+剖腹 v
+剖解 v
+剖开 v
+剖示 v
+剖析 v v
+扑 v
+扑鼻 v
+扑打 v
+扑粉 n v
+扑救 v
+扑空 v
+扑面 v v
+扑灭 v
+扑腾 v
+铺 g n v
+铺陈 v
+铺床 v
+铺垫 n v v
+铺盖 n v
+铺轨 v
+铺开 v
+铺路 v
+铺平 v
+铺砌 v
+铺设 v v
+铺摊 v
+铺叙 v
+铺展 v
+普遍化 v v
+普查 v v
+普法 j v v
+普及 a a v v
+普降 v
+普选 v
+普照 v
+谱 g n n v
+谱曲 v
+谱写 v
+曝光 v v
+曝露 v
+曝晒 v
+期 g n n q v v
+期待 v v
+期考 v
+期满 v
+期盼 v v
+期望 v v
+欺负 v v
+欺凌 v v
+欺瞒 v
+欺骗 v v
+欺侮 v
+欺压 v
+欺诈 v v
+栖 g v v x
+栖身 v
+栖息 v
+漆 n n v
+沏 v
+沏茶 v
+其次 c r v
+奇怪 a v
+奇缺 v v
+奇袭 v v
+歧视 v v
+齐 a d g n v
+齐步走 v
+齐唱 v
+齐集 v
+齐鸣 v
+齐名 v
+齐胸 v
+齐奏 v
+祈 g v v
+祈祷 v v
+祈福 v
+祈求 v
+祈望 v
+祈愿 v
+骑 g n v
+骑车 v
+骑马 v
+骑墙 v
+起 f p q v
+起爆 v
+起兵 v
+起步 v v
+起草 v v
+起程 v
+起床 v
+起到 v
+起动 v
+起帆 n v
+起飞 v v
+起伏 v v
+起稿 v
+起航 v
+起哄 v
+起火 v v
+起家 v
+起降 v v
+起来 v
+起立 v
+起落 v
+起锚 v
+起名 v
+起跑 v
+起泡 v
+起身 v
+起始 v v
+起事 v
+起誓 v
+起诉 v v
+起跳 v
+起头 d v
+起舞 v
+起疑 v
+起义 v v
+起用 v
+起源 n v v
+起运 v
+岂敢 v
+岂能 v
+岂止 v
+乞怜 v
+乞求 v
+乞食 v
+乞讨 v
+乞援 v
+企及 v
+企盼 v v
+企求 v
+企图 v v
+企望 v
+企业化 v v v
+启 g v v
+启程 v
+启齿 v
+启迪 v v
+启动 v v
+启发 v v
+启封 v v
+启航 v
+启蒙 v v
+启幕 v
+启示 v v
+启用 v
+启运 v
+契合 v
+契约化 v v
+砌 g v x
+砌砖 v
+器重 v v
+气 a n v
+气化 v v
+气死 v
+迄 d g v v
+弃 g v v
+弃权 v
+弃掷 v
+弃置 v
+汽化 v
+泣 g v
+泣诉 v
+掐 v
+恰如 v
+恰似 v
+洽商 v
+洽谈 v v
+牵 v
+牵扯 v
+牵掣 v
+牵动 v v
+牵挂 v v
+牵就 v
+牵累 v
+牵连 v v
+牵涉 v
+牵头 v
+牵线 v
+牵引 v v
+牵制 v v
+铅印 v
+迁 v
+迁出 v
+迁都 v
+迁就 v
+迁居 v
+迁怒 v
+迁入 v v
+迁移 v v
+迁葬 v
+迁徙 n v
+签 n v
+签到 v
+签定 v
+签订 v v
+签发 v
+签名 n v v
+签收 v
+签署 v v
+签押 v
+签约 v v
+签证 n v v
+签字 v v
+谦 g n v v
+谦让 v v
+钳 g n v
+钳制 v
+前 f h p v
+前导 n v
+前进 v v
+前来 v v
+前往 v
+前行 v
+潜 g v v
+潜藏 v
+潜伏 v v
+潜留 v
+潜入 v
+潜水 v v
+潜逃 v
+潜在 b v
+遣 g v
+遣返 v v
+遣散 v v
+遣送 v
+浅耕 v
+浅析 v v
+谴责 v v
+嵌 g v
+嵌入 v
+嵌套 v
+嵌镶 v
+欠 d v
+欠安 v
+欠产 v
+欠佳 a v
+欠款 n v
+欠缺 a a v v
+欠身 v
+欠妥 v
+欠债 v v
+欠账 v v
+欠资 v
+歉收 v v
+枪毙 v
+枪击 v v
+枪决 v
+枪杀 v v
+呛 v
+呛鼻子 v
+强 a a g n n n v v
+强暴 n v
+强逼 v
+强辩 v
+强调 a v v v
+强渡 v
+强攻 v v
+强国 n v v
+强化 v v v
+强击 v
+强记 v
+强加 v
+强奸 v
+强令 v
+强迫 v v
+强求 v
+强身 v
+强压 v
+强占 v
+强制 v v
+强壮 a v
+强嘴 v
+抢 g v
+抢白 v
+抢答 v
+抢道 v
+抢夺 v
+抢攻 v
+抢购 v
+抢光 v
+抢建 v
+抢劫 v v
+抢救 v v
+抢掠 v
+抢枪 v
+抢亲 v
+抢墒 v
+抢收 v
+抢滩 v
+抢先 v v
+抢险 n v v
+抢修 v v
+抢运 v
+抢占 v
+抢种 v
+抢走 v
+敲 v
+敲边鼓 v
+敲打 v
+敲定 v
+敲击 v
+敲门 v
+敲响 v v
+敲诈 v
+敲竹杠 v
+瞧 v
+瞧不起 v
+瞧得起 v
+瞧见 v
+瞧瞧 v
+乔迁 v v
+侨居 v
+巧辩 v
+巧干 v
+巧合 v v
+巧遇 v
+撬 v
+翘 g v
+翘首 v
+翘尾巴 v
+切 d v
+切除 v
+切磋 v
+切断 v
+切分 v
+切割 v
+切合 v
+切换 v v
+切记 v
+切忌 v
+切开 v
+切盼 v v
+切片 n v
+切入 v
+切削 v
+切诊 v
+切中 v
+怯阵 v
+窃 d g v v
+窃夺 v
+窃据 v
+窃密 v
+窃取 v
+窃听 v
+窃笑 v
+钦佩 v v
+钦羡 v
+侵夺 v
+侵犯 v v
+侵害 v v
+侵华 v v
+侵略 v v
+侵权 v v
+侵扰 v
+侵入 v v
+侵蚀 v v
+侵吞 v
+侵袭 v v
+侵越 v
+侵占 v v
+亲 a a g n n v x
+亲见 v
+亲近 a a v
+亲历 v v
+亲临 v v
+亲闻 v
+亲吻 v
+亲征 v
+亲政 v
+勤于 v
+擒 v
+擒敌 v
+擒获 v
+擒拿 v
+寝 g n v v
+沁 v
+沁入 v
+青睐 n v v
+轻 a a j v v
+轻敌 v
+轻慢 v
+轻蔑 v
+轻取 v
+轻生 v
+轻视 v
+轻信 v
+倾 v
+倾倒 v
+倾覆 v
+倾慕 v
+倾诉 v v
+倾听 v
+倾吐 v
+倾向 n v v
+倾销 v
+倾斜 v v
+倾泻 v v
+倾心 a a v
+倾轧 v
+倾注 v
+清 a g j t t v
+清仓 v
+清查 v v
+清偿 v
+清唱 v v
+清除 v v
+清楚 a a v
+清道 v
+清点 v v
+清还 v
+清剿 v
+清洁 a a v v
+清理 v v
+清盘 v v
+清扫 v v
+清算 v v
+清谈 v
+清退 v
+清洗 v v
+清醒 a a a v
+清运 v
+清账 v
+清蒸 v
+清炖 v
+擎 v
+晴 v
+氰化 v
+情愿 v
+请 v
+请安 v
+请便 v
+请调 v
+请功 v
+请假 v
+请教 v v
+请客 v
+请命 v
+请求 n v v
+请示 v v
+请问 v
+请勿 v
+请愿 v
+请战 v
+请罪 v
+庆 g v v
+庆春 v
+庆功 v v
+庆贺 v v
+庆回归 v
+庆幸 v
+庆祝 v v
+穷 a a d g j v
+穷尽 v
+穷举 v
+穷追 v
+秋播 v
+秋冬种 v
+秋耕 v
+秋收 n v v
+秋种 v
+求 g n v
+求爱 v
+求得 v
+求告 v
+求购 v
+求和 v
+求婚 v
+求见 v
+求教 v
+求解 v
+求进 v
+求救 v
+求偶 v
+求亲 v
+求情 v
+求全 v
+求饶 v
+求人 v
+求生 v
+求实 v v
+求索 v v
+求学 v v
+求业 v
+求医 v
+求艺 v
+求雨 v
+求援 v
+求真 v
+求证 v
+求知 v v
+求职 v v
+求治 v
+求助 v v
+囚 g v
+囚禁 v
+囚困 v
+泅渡 v
+趋 g v
+趋附 v
+趋同 v v
+趋向 n v v
+趋于 v
+区别 n v v v
+区分 v v
+区域化 v v
+曲 a g n n n q v
+曲解 v
+屈 g n v v
+屈从 v
+屈服 v
+屈就 v
+屈膝 v
+屈指 v
+驱 g v
+驱车 v v
+驱除 v
+驱动 v v
+驱赶 v
+驱寒 v
+驱遣 v
+驱散 v
+驱使 v v
+驱邪 v
+驱逐 v v
+取 v v
+取保 v v
+取报 v
+取材 v
+取出 v
+取代 v
+取道 v
+取得 v v
+取缔 v v
+取给 v
+取回 v
+取经 v
+取景 v
+取决 v
+取决于 v
+取款 v
+取乐 v
+取名 v
+取暖 v v
+取齐 v
+取巧 v
+取舍 v v
+取胜 v v
+取水 v
+取息 v
+取向 n v v
+取消 v
+取笑 v
+取信 v
+取样 v v
+取悦 v
+取证 v v
+取值 v
+娶 v
+娶亲 v
+去 v
+去病 v
+去除 v
+去掉 v
+去火 v
+去留 v v
+去世 v
+去职 v
+圈 g n q v
+圈点 v
+圈定 v
+圈养 v v
+圈阅 v
+权衡 v
+全歼 v v
+全球化 v v
+全食 v
+全托 v
+痊愈 v
+拳 n q v
+劝 v
+劝导 v v
+劝告 v v
+劝和 v
+劝架 v
+劝降 v
+劝解 v
+劝戒 v
+劝诫 v
+劝酒 v
+劝勉 v
+劝说 v v
+劝退 v
+劝慰 v v
+劝诱 v
+劝止 v
+劝阻 v v
+缺 n v
+缺乏 v v
+缺货 v v
+缺课 v
+缺欠 n v
+缺勤 v
+缺少 v
+缺水 v v
+缺损 v v
+缺席 v v
+缺血 v
+缺氧 v v
+瘸 v
+却 c d g v v
+却步 v
+却说 v
+确保 d v
+确定 a v v
+确立 v v
+确认 v v
+确信 n v
+确诊 v
+确证 n v
+雀跃 v
+群居 v
+燃 g v v
+燃爆 v
+燃放 v v
+燃起 v
+燃烧 v v
+染 v
+染病 v
+染毒 v v
+染发 v
+染色 v
+染指 v
+攘 g v
+攘除 v
+攘夺 v
+嚷 v x
+嚷嚷 v
+让 p v
+让步 v v
+让茶 v
+让出 v
+让道 v
+让给 v
+让开 v
+让利 v
+让路 v
+让位 v
+让贤 v
+让行 v
+让座 v
+饶 g n v
+饶命 v
+饶舌 v
+饶恕 v
+饶有 v
+扰 g v
+扰动 v v
+扰乱 v
+扰民 v v
+绕 v
+绕脖子 v
+绕道 v
+绕圈子 v
+绕弯儿 v
+绕弯子 v
+绕行 v
+绕远 v
+惹 v
+惹不起 v
+惹火 v
+惹祸 v
+惹恼 v
+惹气 v
+惹事 v
+热 a a j k n v
+热爱 v v
+热补 v
+热处理 v v
+热敷 v
+热化 v
+热交换 v
+热恋 v
+热络 v
+热身 v v
+热望 v v
+热销 v v
+热心 a a a v
+热轧 v
+热中 v
+热衷 v v
+人 n v
+人格化 v
+人性化 v v
+忍 v
+忍不住 v
+忍耐 v
+忍让 v
+忍受 v v
+忍心 v
+任 c g n n n q v
+任教 v
+任课 v v
+任满 v
+任免 v v
+任命 n v v
+任凭 c v
+任选 v
+任用 v v
+任职 v v
+认 v
+认出 v
+认错 v
+认得 v
+认定 v v
+认购 v
+认捐 v v
+认可 v v
+认领 v
+认命 v
+认清 v
+认识 c n v v
+认输 v
+认同 v v
+认为 v
+认账 v
+认真 a a v
+认证 v v
+认知 v v
+认字 v
+认罪 v
+妊娠 v v
+扔 v
+扔掉 v
+扔下 v
+日产 v v
+日出 v
+日隆 v
+日落 v
+日晒 v
+日增 v
+日照 n v
+荣登 v
+荣归 v
+荣获 v
+荣立 v
+荣升 v
+融 n v
+融合 v v
+融化 v
+融会 v v
+融解 v
+融洽 a v v
+融入 v v
+融通 v v
+融注 v
+融资 v v
+熔 v
+熔断 v
+熔合 v
+熔化 v
+熔解 v
+熔炼 v
+熔融 v
+熔铸 v
+溶 v
+溶化 v
+溶解 v
+溶入 v
+容 g n n n v
+容留 v
+容纳 v
+容情 v
+容人 v
+容忍 v
+容身 v
+容许 v
+揉 v
+揉搓 v
+柔 a g v
+肉搏 v
+蠕动 v
+如 c g p v
+如常 v
+如春 v
+如故 v
+如果 c v
+如实 d v
+如梭 v
+如同 p v
+如下 v v
+如愿 v
+辱 g n v
+辱骂 v v
+辱没 v
+乳 g v
+乳化 v
+乳透 v v
+入 g v
+入仓 v
+入场 v
+入超 v
+入党 v v
+入定 v
+入冬 v
+入队 v
+入伏 v
+入港 v
+入阁 v
+入骨 v
+入股 v v
+入画 v
+入会 v v
+入伙 v v
+入籍 v
+入境 v v
+入口 n v
+入库 v
+入列 v
+入门 v
+入梦 v
+入眠 v
+入魔 v
+入侵 v v
+入秋 t v
+入世 v
+入市 v
+入室 v
+入手 v
+入睡 v
+入土 v
+入团 v
+入托 v v
+入网 v
+入围 v
+入味 v
+入伍 v v
+入席 v
+入夏 v
+入选 v v
+入学 v v v
+入药 v
+入夜 v
+入狱 v
+入院 v v
+入账 v v
+入赘 v
+入座 v
+入殓 v
+软化 v
+软禁 v
+软磨 v
+锐减 v v
+润 a g v
+润笔 n v
+润滑 v
+润色 v
+润饰 v
+润泽 a v
+若 c g v x
+弱化 v
+弱视 v
+撒 g n v
+撒播 v
+撒布 v
+撒刁 v
+撒放 v v
+撒欢 v
+撒谎 v
+撒娇 v
+撒赖 v
+撒尿 v
+撒泼 v
+撒气 v
+撒手 v
+撒网 v
+撒野 v
+撒种 v
+洒 g v
+洒遍 v
+洒泪 v
+洒落 v
+洒满 v
+洒扫 v
+塞 g j v x
+塞车 v
+塞入 v
+塞牙 v
+赛 n n n v v
+赛车 n v v
+赛马 v
+赛跑 v
+三思 v
+伞降 v
+散 a a v
+散播 v
+散布 v
+散步 v v
+散场 v
+散发 v
+散光 v
+散会 v
+散伙 v
+散记 n v v
+散架 v
+散见 v
+散居 v
+散开 v
+散落 v
+散热 v v
+散射 v
+散失 v
+散心 v
+丧 g n v v
+丧命 v
+丧偶 v
+丧身 v
+丧生 v
+丧失 v v
+搔 v
+搔痒 v
+骚动 v v
+骚乱 v v
+骚扰 v
+扫 v x
+扫除 v v
+扫荡 v v
+扫地 v
+扫黄 v v
+扫雷 v v
+扫盲 v v
+扫描 v v
+扫墓 v
+扫平 v
+扫射 v v
+扫视 v
+扫尾 v v
+瑟缩 v
+色弱 v
+杀 v
+杀敌 v
+杀光 v
+杀害 v v
+杀价 v
+杀菌 v
+杀戮 v
+杀灭 v
+杀青 v
+杀人 v v
+杀伤 v v
+杀生 v
+杀死 v
+杀头 v
+刹 g v
+刹车 n v
+刹住 v
+沙化 v v
+沙漠化 v v
+沙浴 v v
+傻干 v
+傻乐 v
+傻笑 v
+傻眼 v
+煞 a a d d g v y
+煞笔 n v
+煞车 n v
+煞气 n v
+煞尾 n v
+煞住 v
+筛 g v
+筛糠 v
+筛选 v v
+晒 v
+晒版 v
+晒太阳 v
+晒图 v
+苫 g v
+山崩 v
+删 v
+删除 v
+删改 v v
+删节 v v
+删去 v
+煽动 v v
+煽惑 v
+闪 g v
+闪避 v
+闪电 n v
+闪动 v
+闪光 n v
+闪开 v
+闪亮 v
+闪身 v
+闪失 n v
+闪烁 v
+闪现 v
+闪耀 v
+擅 g v
+擅长 v
+赡 g v
+赡养 v v
+善 a a d d g n n v
+善处 v
+善为 v
+善于 v
+善战 v
+善终 v
+扇 g q v
+扇动 v
+缮写 v
+伤 n v
+伤残 v v
+伤风 v v
+伤害 v v
+伤耗 v
+伤脑筋 v
+伤逝 v v
+伤亡 v v
+伤愈 v v
+商 g j n n t t v v
+商定 v
+商计 v
+商检 j v v
+商量 v v
+商品化 v v
+商洽 v
+商榷 v
+商谈 v v
+商讨 v v
+商业化 v v
+商议 v
+商用 b v v
+商酌 v
+赏 g n v
+赏赐 n v
+赏光 v
+赏鉴 v
+赏脸 v
+赏识 v
+赏玩 v
+赏析 v v
+赏月 v
+上 f g j n n n v
+上岸 v
+上班 v v
+上报 v v
+上膘 v
+上操 v
+上场 v v
+上朝 v
+上车 v v
+上当 v
+上吊 v
+上调 v
+上冻 v
+上访 v v
+上坟 v
+上岗 v v
+上告 v
+上工 v v
+上供 v
+上钩 v
+上馆子 v
+上光 v
+上轨道 v
+上晃 a v
+上火 v
+上机 v
+上浆 v
+上交 v v
+上缴 v v
+上街 v
+上进 a v
+上京 v
+上课 v v
+上蜡 v
+上来 v
+上楼 v
+上路 v v
+上马 v
+上门 v v
+上年纪 v
+上坡 v
+上前 v
+上勤 v
+上去 v
+上任 v
+上色 v
+上山 v v
+上升 v v
+上市 v v
+上手 s v
+上书 v
+上述 b v v
+上水 v
+上税 v
+上溯 v
+上诉 v v
+上岁数 v
+上台 v v
+上天 n v
+上网 v v
+上下 f m n v
+上下班 j v
+上弦 v
+上刑 v
+上行 v v
+上学 v v
+上演 v v
+上扬 v
+上映 v
+上涨 v v
+上账 v
+上阵 v
+上装 n v
+上桌 v
+上瘾 v
+尚 d g n v v
+尚武 v
+捎 g v
+捎带 v
+捎脚 v
+稍候 v
+稍息 v
+烧 n v
+烧光 v
+烧化 v
+烧坏 v
+烧荒 v v
+烧毁 v
+烧火 v
+烧结 v v
+烧烤 v v
+烧伤 n v v
+烧塌 v
+烧炭 v
+烧香 v
+烧窑 v v
+烧纸 n v
+烧制 v v
+烧砖 v
+烧着 v
+烧灼 v
+少 a a d g j n n v
+少待 v
+少陪 v
+少于 v
+奢望 v v
+赊 v
+赊购 v v
+赊欠 v
+赊售 v
+赊销 v v
+赊账 v
+蛇行 v
+舌战 v
+舍 g n q v v
+舍不得 v
+舍得 v
+舍弃 v
+舍去 v
+舍身 d v
+赦免 v
+摄 g j v v
+摄录 j v
+摄取 v v
+摄食 v
+摄像 v v
+摄影 n v v
+摄政 v
+摄制 v v
+射 v
+射电 n v v
+射击 v v
+射箭 v v
+射猎 v
+射门 v v
+慑服 v
+涉 g v v
+涉案 v v
+涉及 v v
+涉猎 v v
+涉农 v v
+涉企 v v
+涉水 v
+涉外 v v
+涉嫌 v v
+涉险 v
+涉足 v
+社会化 v v v
+设 v
+设点 v
+设定 v
+设法 v
+设防 v v
+设伏 v
+设计 n v v
+设卡 v
+设立 v v
+设色 v
+设想 b v v
+设宴 v
+设有 v
+设置 v v
+申办 v v
+申报 v v
+申辩 v
+申斥 v
+申明 v
+申请 n v v
+申述 v
+申说 v
+申诉 v v
+申讨 v
+申谢 v
+申冤 v
+呻吟 v v
+伸 v
+伸长 v
+伸出 v
+伸懒腰 v
+伸手 v
+伸缩 v
+伸腿 v
+伸腰 v
+伸冤 v
+伸展 v
+伸张 v v
+伸直 v
+身处 s v
+身受 v
+身亡 v
+身为 v
+身着 v
+深表 v
+深感 v
+深耕 v
+深化 v v
+深交 v
+深究 v
+深恐 v
+深入 a a a v v
+深受 v
+深思 v v
+深陷 v
+深信 v
+深造 v
+深知 v
+深谙 v
+神化 v v
+神聊 v
+神算 v
+神往 v
+审 g v v
+审案 v
+审查 v v
+审察 v
+审定 v v
+审订 v
+审读 v
+审度 v
+审稿 v
+审核 v v
+审计 v v
+审价 v v
+审结 v
+审理 v v
+审美 v v
+审判 v v
+审批 v v
+审视 v v
+审问 v
+审校 v
+审讯 v v
+审验 v
+审议 v v
+审阅 v
+慎选 v
+渗 v
+渗出 v
+渗灌 v
+渗漏 v
+渗入 v
+渗水 v
+渗透 v v
+声 g n n q v v
+声辩 v
+声称 v
+声明 n v v
+声讨 v
+声言 v
+声援 v v
+声张 v
+生 a g k n n n v v
+生病 v v
+生财 v v
+生产 n v v
+生长 v v
+生成 v v
+生出 v
+生凑 v
+生存 n v v
+生发 v
+生发出 v
+生俘 v
+生根 v
+生还 v v
+生辉 v
+生活 n v v
+生活化 v v
+生火 v
+生机 n v
+生就 v
+生恐 v
+生闷气 v
+生怕 v
+生擒 v
+生色 v
+生事 v
+生态 n v
+生物 n v
+生息 v
+生效 v v
+生锈 v
+生养 v
+生疑 v
+生于 v
+生育 v v
+生造 v
+生殖 v v
+升 q v v
+升班 v
+升帆 v
+升高 v v
+升格 v
+升官 v
+升华 v v
+升级 v v
+升降 v v
+升空 v
+升旗 v v
+升起 v
+升迁 v v
+升任 v
+升入 v
+升腾 v
+升天 v
+升温 v v
+升学 v v
+升压 v
+升值 v v
+省 g n v
+省察 v
+省得 v
+省掉 v
+省力化 v v
+省略 v
+省亲 v
+省去 v
+省却 v
+省视 v
+省悟 v
+盛 a g n v
+盛产 v v
+盛传 v
+盛饭 v
+盛开 v
+盛怒 v
+盛行 v
+盛赞 v
+剩 v
+剩下 v
+剩余 v v
+胜 g n n v v v
+胜过 v
+胜利 v v v
+胜任 v
+胜似 v
+胜诉 v
+师承 v v
+师从 v
+师法 v
+失 v v
+失败 v v
+失策 n v
+失宠 v
+失传 v
+失聪 v
+失措 v
+失当 v
+失盗 v
+失掉 v
+失调 v v
+失和 v
+失衡 v v
+失火 v v
+失节 v
+失禁 v
+失敬 v
+失控 v v
+失口 v
+失礼 v
+失利 v v
+失恋 v
+失灵 v v
+失落 v v
+失密 v
+失眠 v v
+失明 v
+失陪 v
+失窃 v v
+失去 v
+失却 v
+失散 v
+失色 v
+失身 v
+失神 v
+失慎 v
+失声 v v
+失时 v
+失实 v v
+失事 v v
+失势 v
+失手 v v
+失守 v
+失水 v
+失算 v
+失态 v
+失误 v v
+失陷 v
+失笑 v
+失效 v
+失信 v
+失修 v
+失学 v v
+失血 v
+失言 v
+失业 v v
+失宜 v
+失意 a v v
+失音 v
+失迎 v
+失约 v
+失真 v v
+失职 v v
+失重 v
+失踪 v v
+失足 v v
+施 g n v
+施恩 v
+施放 v
+施肥 v v
+施工 v v
+施加 v
+施礼 v
+施舍 v
+施威 v
+施行 n v
+施训 v
+施压 v v
+施用 v
+施展 v
+施政 b v v
+湿 a v
+湿润 a v
+诗化 v v
+石印 v
+拾 m n v
+拾掇 v
+拾荒 v
+拾零 v
+拾取 v
+拾遗 v
+时 g n n n q v
+时隔 v
+时届 v
+时任 v
+时兴 v
+时值 v
+食 g n n v v
+食言 v v
+食用 v v
+蚀 g v v
+蚀本 v
+蚀刻 v
+实测 v v
+实干 v v v
+实践 a n v v
+实力 n v
+实录 n v v
+实施 v v
+实收 v v
+实属 v
+实习 v v
+实现 v v
+实行 v v
+实验 n v v
+实用 a a v v
+实用化 v v
+实则 v
+实证 n v
+实证化 v
+实装 v v
+识 g n v
+识别 v
+识货 v
+识破 v
+识字 v v
+矢志 v
+使 g v
+使得 v
+使坏 v
+使唤 v
+使劲 v v
+使性子 v
+使役 v
+使用 v v
+驶 g v v
+驶过 v
+驶近 v
+驶来 v
+驶去 v
+驶入 v
+驶往 v
+始 d g v v
+始创 v
+始发 v v
+始建 v v
+始起 v
+示 g v v
+示范 v v
+示弱 v
+示威 v v
+示意 v
+示众 v
+世俗化 v
+世袭 v v
+事 g n v
+事发 v v
+事关 v
+拭泪 v
+誓 g v v
+誓图 v
+逝 g v v
+逝去 v v
+逝世 v v
+是 n r v
+是不是 v
+是否 d v
+嗜 g v
+嗜好 n v
+嗜睡 v
+适 a g v
+适逢 v
+适合 a v
+适销 v
+适宜 a v v
+适应 v v
+适用 a a v v
+适于 v
+适值 v
+侍奉 v
+侍候 v
+侍卫 n v
+释 g v
+释放 v v
+释怀 v
+释手 v
+释疑 v v
+释义 v
+饰 g v
+饰演 v
+市场化 v v
+视 g v v
+视察 v v
+视唱 v
+视为 v
+试 n v v v
+试办 v
+试表 v
+试唱 v
+试车 v
+试穿 v
+试点 n v v
+试飞 v
+试工 v
+试航 v
+试讲 v
+试看 v
+试试 v
+试探 v
+试跳 v v
+试图 v
+试问 v
+试想 v
+试销 v v
+试行 v v
+试演 v
+试验 n v v
+试药 v
+试映 v v
+试用 v v
+试制 v v
+试种 v v
+收 v
+收编 v
+收兵 v
+收藏 v v
+收操 v
+收场 n v
+收到 v
+收发 n v v
+收费 v v
+收服 v
+收复 v
+收腹 v
+收割 v v
+收工 v
+收购 v v
+收回 v
+收获 n v v
+收集 v v
+收监 v
+收缴 v
+收紧 v
+收看 v v
+收口 v
+收款 v v
+收揽 v
+收敛 v v
+收留 v
+收拢 v
+收录 v v
+收罗 v
+收买 v
+收纳 v
+收盘 v v
+收起 v
+收讫 v
+收秋 v
+收取 v v
+收容 v
+收入 n v v
+收审 v
+收拾 v
+收市 v
+收受 v
+收税 v
+收缩 v
+收摊 v
+收听 v v
+收尾 v v
+收效 v v
+收心 v
+收押 v
+收养 v
+收益 n v
+收音 b v
+收银 v v
+收油 v
+收载 v
+收支 n v v
+收执 n v
+收治 v
+收缰 v
+收殓 v
+手紧 v
+手快 v
+手巧 v
+手书 n v
+手术 n v v
+手痒 v
+手淫 v
+首播 v
+首倡 v
+首创 v v
+首发 v v
+首航 v v
+首肯 v v
+首先 c d v
+首选 v v
+首演 v v
+首映 v
+守 v v
+守备 v
+守财 v
+守城 v
+守法 v v
+守寡 v
+守恒 v
+守候 v
+守护 v
+守节 v
+守灵 v
+守门 v
+守岁 v
+守土 v
+守望 v v
+守卫 v
+守业 v
+守夜 v
+守约 v
+授 g v v
+授粉 v
+授奖 v
+授卡 v v
+授课 v v
+授命 v v
+授权 n v v
+授衔 v v
+授勋 v
+授意 v v
+授予 v
+授职 v v
+售 g v
+售出 v
+售房 v v
+售货 v
+售假 v v
+售价 n v
+售粮 v v
+售卖 v
+售票 v v
+售书 v v
+售完 v
+受 v
+受病 v
+受潮 v
+受挫 v
+受到 v
+受敌 v
+受冻 v
+受罚 v
+受粉 v
+受害 v v
+受寒 v
+受惠 v
+受贿 v v
+受奖 v
+受降 v
+受戒 v
+受惊 v
+受精 v
+受窘 v
+受苦 v
+受累 v
+受理 v v
+受礼 v
+受凉 v
+受领 v
+受命 v
+受难 v
+受骗 v
+受聘 v
+受气 v
+受权 v
+受热 v
+受辱 v
+受伤 v v
+受审 v
+受暑 v
+受损 v v
+受胎 v
+受托 v v
+受洗 v
+受刑 v
+受训 v
+受业 v
+受益 v v
+受孕 v
+受灾 v v
+受阻 v v
+受罪 v
+梳 g v
+梳理 v v
+梳头 v
+梳洗 v
+梳妆 v
+殊不知 v
+抒 g v v
+抒发 v
+抒怀 v v
+抒情 v v
+抒写 v
+输 v
+输出 v v
+输导 v
+输电 v v
+输光 v
+输气 v v
+输入 v v
+输送 v v
+输血 v v
+输氧 v
+输液 v v
+输油 v
+舒 a g n v
+舒展 a a v
+舒张 v
+疏 a g v v
+疏导 v v
+疏忽 v v
+疏浚 v
+疏开 v
+疏理 v
+疏散 v
+疏松 a v
+疏通 v
+疏淤 v
+疏于 p v
+疏远 v v
+书 g n n v v
+书写 v
+赎 v
+赎当 v
+赎回 v v
+赎买 v v
+赎身 v
+赎罪 v
+孰料 v
+熟 a a v
+熟读 v
+熟记 v
+熟识 v
+熟睡 v
+熟透 v
+熟悉 a v v
+熟习 v
+熟知 v v
+熟谙 v
+署 g n n v v
+署名 v v
+属 g n n v v
+属地化 v v
+属实 a v
+属于 v
+术 g n n v x
+述 g v v
+述古 v
+述说 v
+述职 v
+树 n q v
+树敌 v
+树立 v v
+束 g n q v
+束缚 v v
+戍边 v v
+戍守 v
+竖 n v
+竖吹 v
+竖立 v
+竖起 v
+数 g j m n v
+数点 v
+数量化 v
+数落 v v
+数说 v
+数字化 v v
+数叨 v
+漱 v
+漱口 v
+恕 g v v
+恕罪 v
+刷 g o v
+刷洗 v
+刷写 v v
+刷新 v
+刷牙 v
+耍 g v
+耍猴 v
+耍滑 v
+耍赖 v
+耍弄 v
+耍态度 v
+耍笑 v
+耍心眼 v
+摔 v
+摔打 v v
+摔倒 v
+摔跟头 v
+摔交 v
+摔跤 v v
+衰败 v
+衰变 v
+衰减 v v
+衰竭 v
+衰落 v v
+衰颓 v
+衰退 v v
+衰亡 v v
+衰微 v
+衰朽 v
+甩 v
+甩掉 v
+甩开 v
+甩卖 v
+甩手 v v
+帅 a g n n v
+拴 v
+爽约 v
+谁料 v
+谁知 c v
+水化 v
+水解 v
+水利化 v v
+水运 v v
+睡 v
+睡觉 v
+睡眠 v
+睡熟 v
+睡醒 v
+睡着 v
+吮 v
+吮吸 v
+顺 a g v v
+顺差 n v v
+顺从 v
+顺道 v
+顺访 v
+顺风 v
+顺路 a d v
+顺延 v
+顺应 v
+说 g n n v
+说不得 v
+说穿 v
+说道 v
+说定 v
+说动 v
+说服 v v
+说怪话 v
+说和 v
+说合 v
+说话 v
+说谎 v
+说教 v v
+说尽 v
+说来 u v
+说理 v v
+说媒 v
+说明 n v v
+说亲 v
+说情 v
+说是 v
+说书 v
+说说 v
+说妥 v
+说笑 v
+撕 v
+撕毁 v
+撕开 v
+撕裂 v
+撕破 v
+撕碎 v
+撕下 v
+嘶吼 v
+嘶叫 v
+思 g n v v x
+思辨 v v
+思考 v v
+思恋 v
+思量 v
+思虑 v
+思谋 v
+思慕 v
+思念 v v
+思亲 v
+思索 v v
+思维 n v v
+思悟 v v
+思乡 v v
+思忖 v
+私奔 v
+私藏 v
+私分 v
+私了 v
+私卖 v
+私逃 v
+私通 v
+私有 v v
+私有化 v v
+私语 v
+司 g j n n n v
+死 a d v v
+死记 v
+死难 b v v
+死去 v
+死伤 v
+死守 v
+死亡 v v
+死心 v
+死战 v
+肆虐 v
+肆扰 v
+肆行 v
+四起 v
+四散 v
+伺服 v v
+伺候 v
+伺机 d v
+似 d g u v v x
+饲养 v v
+松 a g n n n v
+松绑 v
+松动 a v
+松劲 v v
+松开 v
+松口 v
+松扣 v
+松气 v
+松手 v
+松懈 a a v
+耸 g v v
+耸肩 v
+耸立 v
+怂恿 v
+颂 g v v
+颂扬 v v
+送 v
+送报 v
+送别 v v
+送达 v
+送电 v
+送给 v
+送还 v
+送货 v v
+送交 v v
+送客 v v
+送来 v
+送礼 v v
+送粮 v v
+送命 v
+送气 v
+送亲 v
+送入 v
+送丧 v
+送死 v
+送行 v v
+送葬 v
+送终 v
+送殡 v
+诵 g v v
+诵读 v
+诵经 v
+搜 v
+搜捕 v
+搜查 v v
+搜刮 v
+搜集 v v
+搜括 v
+搜罗 v
+搜身 v
+搜索 v v
+搜寻 v v
+苏醒 v
+酥麻 v
+俗称 n v
+素有 v
+速 a a g n n v
+速成 v
+速递 v v
+速冻 v v
+速滑 n v v
+速寄 v
+速记 v
+速决 v
+速射 v
+塑 g n n v
+塑化 v
+塑造 v v
+溯 g v
+溯源 v
+宿 g n n q v
+宿营 v
+诉 g v v
+诉苦 v
+诉说 v v
+诉讼 v v
+诉冤 v
+诉诸 v
+肃 g v
+肃反 v
+肃立 v
+肃清 v
+算 d v
+算不得 v
+算计 v v
+算命 v v
+算清 v
+算是 v
+算数 v
+算账 v
+算作 v
+算卦 v
+随 d d g p v
+随便 a a c v
+随从 n v
+随带 v
+随访 v
+随风倒 v
+随军 v v
+随俗 v
+随同 v v
+随行 n v v
+绥靖 v
+碎 a v
+碎裂 v
+穗选 v
+遂 d g v x
+遂心 v
+遂行 v
+遂意 v
+遂愿 v
+损 g v v v
+损害 v v
+损耗 n v v
+损坏 v v
+损伤 v v
+损失 n v v
+梭巡 v
+唆使 v
+缩 v x
+缩编 v
+缩短 v v
+缩回 v
+缩减 v
+缩聚 v
+缩手 v
+缩水 v
+缩瞳 v
+缩小 v v
+缩写 n v
+缩印 v
+索 g n v v
+索还 v
+索贿 v
+索赔 v v
+索取 v
+索要 v
+索债 v
+锁 n v
+锁边 v
+锁定 v
+锁门 v
+所 n n q u v
+所得 n v
+所属 n v v
+所谓 b v v
+所有 b v v
+所在 n v
+塌 v
+塌方 v v
+塌台 v
+塌陷 v
+蹋 v
+踏 v x
+踏步 v
+踏看 v
+踏平 v
+踏破 v
+踏青 v v
+踏入 v
+踏雪 v
+踏足 v
+抬 q v
+抬杠 v
+抬高 v
+抬价 v
+抬举 v
+抬头 v v
+汰 g v v
+坍 v
+坍方 v
+坍塌 v v
+摊 n n q v
+摊款 v v
+摊牌 v
+摊派 v v
+贪 v
+贪便宜 v v
+贪吃 a v
+贪多 v
+贪恋 v
+贪求 v
+贪图 v v
+贪污 v v
+贪心 a v
+贪赃 v
+瘫 v
+瘫痪 v v
+瘫软 v
+谈 g n v v
+谈到 v
+谈定 v
+谈话 n v v
+谈及 v
+谈论 v
+谈判 n v v
+谈起 v
+谈谈 v
+谈天 v
+谈笑 v
+谈心 v v
+坦白 a v
+坦承 v
+坦言 v v
+袒护 v
+袒露 v
+探 g v
+探病 v
+探测 v v
+探查 v
+探察 v v
+探访 v
+探家 v
+探监 v
+探究 v
+探矿 v v
+探雷 v
+探路 v
+探明 v v
+探亲 v v
+探求 v
+探伤 v
+探视 v v
+探索 v v
+探讨 v v
+探听 v
+探头 v
+探望 v
+探问 v
+探悉 v
+探险 v v
+探询 v
+探寻 v v
+探幽 v
+探友 v
+叹 g v
+叹服 v
+叹气 v
+叹赏 v
+叹息 v v
+叹惜 v
+炭化 v
+搪 v
+搪塞 v
+唐突 v
+糖化 v
+倘佯 v
+躺 v
+躺倒 v
+淌 v
+趟 q v
+烫 a v
+烫发 v
+烫伤 v
+烫头 v
+掏 v
+掏空 v
+掏钱 v
+掏腰包 v
+逃 v
+逃奔 v
+逃避 v
+逃窜 v
+逃遁 v
+逃荒 v
+逃课 v
+逃离 v
+逃命 v
+逃难 v
+逃匿 v
+逃跑 v
+逃散 v
+逃生 v
+逃税 v
+逃脱 v
+逃亡 v
+逃往 v
+逃学 v
+逃逸 v v
+逃走 v
+淘 v
+淘金 v
+淘汰 v v
+陶冶 v
+陶铸 n v
+陶醉 v
+讨 v
+讨便宜 v
+讨伐 v
+讨饭 v
+讨好 v
+讨还 v
+讨价 v
+讨教 v
+讨论 v v
+讨巧 v
+讨情 v
+讨饶 v
+讨厌 v
+讨债 v v
+讨账 v
+套 g n q v
+套版 n v
+套裁 v
+套耕 v
+套购 v
+套红 v
+套换 v
+套色 v v
+套问 v
+套印 v
+套用 v
+套种 v v
+特命 n v v
+特派 v v
+特批 v
+特聘 v
+特赦 v
+特设 v
+特殊化 v v
+特需 v v
+特许 v v
+特邀 v v
+特有 b v
+特约 b v
+特指 v
+特制 b v
+腾 g n v
+腾出 v
+腾飞 v v
+腾空 v
+腾挪 v
+腾越 v
+腾跃 v v
+疼 a v
+疼爱 v
+誊 v
+誊录 v
+誊清 v
+誊写 v
+誊印 v
+剔 n v
+剔出 v
+剔除 v
+剔牙 v
+踢 v
+踢打 v
+踢腿 v
+提 n v x
+提拔 v
+提拨 v
+提倡 v v
+提成 n v v
+提出 v v
+提纯 v
+提到 v
+提法 n v
+提防 v
+提干 v
+提高 v v
+提个醒 v
+提供 v v
+提货 v
+提及 v
+提级 v
+提价 v v
+提交 v
+提款 v v
+提炼 v v
+提留 v v
+提名 v v
+提起 v
+提前 v v
+提亲 v
+提请 v
+提取 v v
+提神 v
+提审 v
+提升 v v
+提示 v v
+提速 v v
+提问 v v
+提携 v
+提醒 v v
+提要 n v
+提议 n v v
+题 n v
+题辞 n v
+题词 n v
+题名 n v
+题诗 n v
+题写 v
+题字 n v v
+啼 v
+啼哭 v v
+啼呜 v
+体察 v
+体罚 v
+体会 v v
+体检 v v
+体谅 v
+体贴 v v
+体味 v v
+体悟 v
+体现 v v
+体恤 v
+体验 v v
+替 p v
+替班 v
+替补 v v
+替代 v v
+替换 v
+涕泣 v
+剃 v
+剃度 v
+剃头 v
+天赋 n v
+天亮 v
+添 v
+添补 v
+添丁 v
+添加 v v
+添设 v
+添置 v
+填 v
+填报 v
+填表 v
+填补 v
+填充 v
+填词 v
+填空 v
+填平 v v
+填写 v
+舔 v
+腆 g v
+挑 g n q v
+挑拨 v
+挑错 v
+挑动 v
+挑逗 v v
+挑拣 v
+挑起 v
+挑水 v
+挑唆 v
+挑剔 a v
+挑衅 v v
+挑选 v v
+挑战 v v
+挑字眼 v
+条陈 n v
+眺望 v
+跳 v v
+跳槽 v
+跳出 v
+跳动 v v
+跳发球 v v
+跳高 v v
+跳级 v
+跳脚 v
+跳楼 v
+跳伞 v
+跳绳 v
+跳水 v v
+跳舞 v
+跳远 v v
+跳越 v
+跳跃 v v
+跳闸 v
+贴 g n q v
+贴补 v v
+贴换 v
+贴金 v
+贴近 v v
+贴身 a v v
+贴水 n v
+贴慰 v
+贴息 n v
+贴现 v v
+铁 j n n v
+铁心 v
+厅属 v
+听 n v
+听便 v
+听从 v
+听到 v
+听候 v
+听见 v
+听讲 v
+听课 v v
+听命 v
+听凭 v
+听取 v
+听任 v
+听说 v
+听听 v
+听写 v
+听信 v
+听由 v
+听诊 v
+听证 v v
+停 q v
+停办 v
+停泊 v
+停步 v
+停产 v v
+停车 v v
+停电 v v
+停顿 v v
+停放 v
+停工 v
+停航 v
+停火 v v
+停机 v
+停建 v
+停刊 v
+停靠 v
+停课 v
+停灵 v
+停留 v v
+停手 v
+停水 v
+停息 v
+停下 v
+停歇 v
+停薪 v
+停学 v
+停业 v
+停战 v v
+停职 v
+停止 v
+停滞 v v
+庭审 v v
+挺 d g q v
+挺进 v
+挺举 n v
+挺立 v
+挺起 v
+挺身 v
+挺胸 v
+挺直 v
+通 a g j n n q v v
+通报 n v v v
+通车 v v
+通称 n v
+通达 v
+通敌 v
+通电 n v v
+通电话 v
+通读 v
+通风 v v
+通告 n v
+通关 v v
+通观 v
+通过 p v v
+通航 v v
+通话 v v
+通婚 v
+通缉 v
+通奸 v
+通令 n v
+通气 v
+通窍 v
+通融 v
+通商 v v
+通水 v
+通俗化 v
+通天 v
+通往 v
+通向 v
+通晓 v
+通信 v v
+通行 v v
+通译 n v
+通用 a n v v
+通用化 v
+通邮 v v
+通胀 j v
+通知 n v
+同 c d n p v v x
+同班 v v
+同步 b v v v
+同窗 n v
+同房 v
+同庚 v
+同化 v
+同级 b n v v
+同居 v
+同龄 v v
+同路 v
+同名 v v
+同谋 n v
+同情 v v
+同上 v
+同事 n v
+同岁 v
+同台 d v v
+同现 v
+同心 n v
+同形 v
+同行 n v
+同性恋 v
+同姓 v
+同学 n v
+同意 v v
+同义 v
+同音 v
+同源 v
+同宗 v
+捅 v
+捅娄子 v
+统 g v v v
+统称 v
+统筹 v v v
+统购 v
+统计 v v
+统考 v v
+统揽 v
+统率 v
+统配 v
+统摄 v
+统帅 n v
+统辖 v
+统销 v
+统一 a a a v v
+统御 v
+统制 v v
+统治 v v
+痛斥 v
+痛打 v
+痛悼 v
+痛感 v
+痛恨 v
+痛悔 v
+痛击 v
+痛哭 v
+痛骂 v
+痛惜 v v
+痛饮 v
+痛责 v
+偷 d g v
+偷安 v
+偷盗 v v
+偷电 v v
+偷渡 v v
+偷看 v
+偷空 v
+偷窥 v
+偷懒 v
+偷猎 v
+偷拍 v
+偷窃 v
+偷情 v
+偷人 v
+偷生 v
+偷税 v
+偷逃 v
+偷听 v
+偷袭 v
+偷闲 v
+偷营 v
+偷越 v
+偷运 v
+偷走 v
+偷嘴 v
+投 v
+投案 v
+投保 v v
+投奔 v
+投标 v v
+投产 v v
+投诚 v
+投弹 v
+投敌 v
+投递 v v
+投放 v v
+投稿 v
+投工 v
+投河 v
+投机 a v v
+投降 v
+投井 v
+投考 v
+投靠 v
+投篮 v v
+投拍 v v
+投票 v v
+投亲 v
+投球 v
+投入 a a n v v
+投射 v
+投身 v
+投生 v
+投师 v
+投书 v
+投送 v
+投宿 v
+投诉 v v
+投胎 v
+投向 v v
+投药 v
+投影 n v v
+投掷 v
+投中 v
+投资 n v v
+头昏 v
+头晕 v
+透 a a v
+透底 v
+透风 v
+透光 v
+透过 v
+透空 a v v
+透亮 v v
+透漏 v
+透露 v
+透气 v
+透射 v
+透视 v v
+透支 v
+凸出 v v
+凸起 v
+凸显 v
+凸现 v
+秃顶 v
+突 d g j n v
+突变 v v
+突出 a a d v v
+突发 v v
+突防 v
+突贯 v
+突击 v v v
+突进 v v
+突破 n v v
+突起 v
+突入 v
+突围 v
+突袭 v
+突显 v
+突兀 v
+图 n v
+图解 v v
+图谋 n v v
+图示 v
+徒劳 v
+途经 v
+涂 g n v
+涂改 v
+涂抹 v
+涂饰 v
+涂刷 v
+涂鸦 v
+屠 g n v
+屠戮 v
+屠杀 v v
+屠宰 v
+土改 v
+吐 v
+吐露 v
+吐蕊 v
+吐丝 v
+吐诉 v
+吐穗 v
+吐泻 v
+吐絮 v
+吐血 v
+吐字 v
+团 j n q v
+团拜 v v
+团拜会 n v
+团伙化 v
+团结 a a a v v
+团聚 v
+团圆 v v
+推 v
+推测 v
+推迟 v v
+推崇 v v
+推出 v v
+推辞 v
+推倒 v
+推导 v v
+推动 v v
+推断 v v
+推翻 v
+推广 v v
+推荐 v v
+推介 v
+推进 v v
+推究 v
+推举 v
+推开 v
+推理 v
+推论 v
+推磨 v
+推拿 v
+推敲 v
+推求 v
+推却 v
+推让 v
+推算 v
+推头 v
+推托 v
+推脱 v
+推委 v
+推想 v
+推向 v
+推销 v v
+推卸 v
+推行 v v
+推选 v
+推演 v
+推移 v v
+推诿 v
+颓 g v
+蜕变 v v
+蜕化 v
+蜕皮 v
+褪 v
+褪色 v
+退 j v v
+退避 v
+退兵 v
+退步 v v
+退场 v
+退潮 v
+退出 v
+退党 v
+退稿 v
+退后 v
+退化 v v
+退还 v v
+退换 v
+退回 v
+退婚 v
+退伙 v
+退火 v
+退货 v
+退款 v
+退赔 v
+退票 v v
+退亲 v
+退却 v
+退让 v v
+退色 v
+退烧 v
+退守 v
+退税 v v
+退缩 v v
+退堂 v
+退庭 v
+退位 v
+退伍 v v
+退席 v
+退休 v v
+退学 v
+退押 v
+退役 v v
+退隐 v
+退赃 v
+退职 v
+退走 v
+吞 v
+吞并 v
+吞服 v
+吞没 v
+吞灭 v
+吞食 v
+吞噬 v
+吞吐 v v
+吞咽 v
+屯 g n v x
+屯兵 v
+屯垦 v
+屯粮 v
+屯田 v
+屯扎 v
+拖 v
+拖带 v
+拖动 v
+拖后腿 v
+拖垮 v
+拖累 v
+拖锚 v v
+拖欠 v v
+拖延 v
+拖曳 v
+拖住 v
+托 g n n q v
+托病 v
+托辞 n v
+托词 n v
+托儿 n v
+托福 n v
+托付 v v
+托故 v
+托管 v v
+托举 v
+托收 v v
+托运 v v
+脱 d g v
+脱靶 v
+脱产 v v v
+脱出 v
+脱党 v
+脱档 v
+脱发 v v
+脱稿 v
+脱钩 v
+脱光 v
+脱轨 v
+脱焊 v
+脱胶 v
+脱节 v v
+脱臼 v
+脱开 v
+脱扣 v
+脱困 v v
+脱蜡 v
+脱离 v
+脱粒 v
+脱漏 v
+脱落 v v
+脱盲 v
+脱毛 v
+脱帽 v
+脱敏 v
+脱模 v
+脱坯 v
+脱皮 v
+脱贫 v v
+脱色 v
+脱身 v
+脱手 v
+脱水 v v
+脱俗 v
+脱胎 v v
+脱逃 v
+脱位 v
+脱险 v
+脱销 v
+脱氧 v
+脱脂 v
+脱榫 v
+驮 g v
+驼 g v
+妥协 a v v
+拓 g v
+拓荒 v
+拓宽 v
+拓展 v v
+唾 g v
+唾骂 v
+唾弃 v
+挖 v v
+挖补 v
+挖掘 v v
+挖苦 v
+挖潜 v v
+挖沙 v v
+蛙泳 v v
+瓦 n q v
+瓦解 v
+歪 a v
+歪曲 v
+歪斜 v
+外出 v v
+外出血 v
+外传 v v
+外带 n v
+外调 v v
+外访 v v
+外敷 v
+外购 v
+外挂 v v
+外加 v
+外交 n v v
+外流 v v
+外露 v v
+外逃 v
+外销 v v
+外泄 v
+外用 v v
+外运 v v
+弯 a g n q v
+弯弓 n v
+弯弯 v z
+弯腰 v
+湾 g v
+玩 g v
+玩儿命 v
+玩火 v
+玩乐 v
+玩命 v
+玩弄 v
+玩牌 v
+玩赏 v
+玩耍 v
+玩味 v
+顽抗 v
+完 g n v v
+完备 a v
+完毕 v
+完成 v v
+完蛋 v
+完稿 v
+完工 v v
+完婚 v
+完结 v
+完竣 v
+完了 v
+完善 a a a v v
+完事 v
+完税 v
+完整 a a a v
+完钻 v
+挽 v
+挽回 v
+挽救 v v
+挽留 v v
+晚安 v
+晚点 v
+晚婚 n v
+晚练 v
+晚起 v
+晚育 v
+宛然 v
+宛如 v
+宛若 v
+宛转 a v
+婉辞 v
+婉拒 v v
+汪 g n o q v
+亡 g v v
+亡故 v
+亡国 v
+亡命 v
+枉 g v v
+网 j n v
+网罗 n v
+网络化 v v
+往 p v
+往返 v v
+往复 v
+往来 v v
+望 g n n p v
+望风 v
+望见 v
+望诊 v
+忘 v
+忘本 v
+忘掉 v
+忘怀 v
+忘记 v
+忘情 v
+忘却 v
+妄称 v
+妄动 v
+妄图 v
+妄想 v
+妄言 n v
+威逼 v
+威慑 v v
+威吓 v
+威胁 v v
+微调 n v v
+微笑 n v v
+微型化 v
+微涨 v
+微醺 v
+危害 n v v
+危及 v
+违 g v v
+违背 v
+违法 v v v
+违反 v v
+违犯 v
+违规 v v v
+违纪 v v
+违禁 b v v
+违抗 v
+违例 v
+违令 v
+违心 v
+违约 v v
+违章 v v v
+违拗 v
+围 g n q v
+围捕 v
+围城 n v
+围堵 v
+围攻 v v
+围观 v v
+围护 v
+围歼 v
+围剿 v
+围聚 v
+围垦 v
+围困 v
+围猎 v
+围拢 v
+围绕 v
+围住 v
+围追 v
+唯恐 v
+唯有 v
+惟恐 v
+惟有 v
+为 c g p u v v
+为辅 v
+为副 v
+为了 p v
+为名 v
+为难 a v
+为期 v v
+为人 n v
+为人注意 v
+为生 v
+为首 v
+为伍 v
+为由 v
+为止 v
+为重 v
+为主 v
+维持 v v
+维和 j v v
+维护 v v
+维继 v
+维系 v
+维修 v v
+萎 g v
+萎蔫 v
+萎缩 v v
+委派 v v
+委屈 a v v
+委任 n v
+委托 v v v
+委罪 v
+伪报 v
+伪造 v v
+伪装 n v
+尾随 v
+尾追 v
+未定 v
+未果 v
+未婚 v v
+未竟 v
+未决 v
+未了 v
+未能 d v
+未遂 v v
+未遭 v
+未知 v v
+畏 g v
+畏避 v
+畏光 v
+畏忌 v
+畏惧 v
+畏难 a v
+畏缩 v
+畏罪 v
+喂 e v
+喂奶 v
+喂养 v v
+位居 v
+位于 v
+位尊 v
+谓 g v v
+慰 g v v
+慰藉 v v
+慰劳 v
+慰勉 v
+慰问 v v
+慰唁 v
+卫冕 v v
+瘟 g v
+温 b g n n n v
+温课 v
+温暖 a a n v v
+温书 v
+温习 v
+文 a g j n n n q v
+文饰 n v
+文章 n v v
+闻 g n v
+闻名 v
+闻讯 v
+吻 g v
+吻合 v
+稳 a a a v v
+稳步 d v
+稳定 a a a v v v
+稳固 a v
+稳健 a a a v
+稳输 v
+稳赢 v
+稳住 v
+问 g n n n v v
+问安 v
+问答 v v
+问道 v
+问鼎 v
+问好 v
+问候 v v
+问及 v
+问津 v
+问路 v
+问起 v
+问世 v v
+问问 v
+问询 v
+问讯 v
+问诊 v
+问罪 v
+蜗居 n v
+窝 n q v
+窝藏 v
+窝工 v
+窝赃 v
+斡旋 v v
+卧 g v
+卧病 v
+卧床 v
+卧倒 v
+卧底 v
+握 v
+握别 v
+握紧 v
+握拳 v
+握手 v
+握有 v
+握住 v
+沃 g n v
+呜咽 v
+污 g n n v
+污蔑 v
+污染 v v
+污辱 v
+诬告 v
+诬害 v
+诬赖 v
+诬蔑 v
+诬陷 v v
+无 c d v x
+无产阶级化 n v
+无敌 v v
+无毒 v
+无法 d v
+无方 v
+无妨 v
+无公害 b v
+无关 b v
+无害 v
+无害化 v v v
+无后 v
+无悔 v
+无价 v
+无尽 b v
+无愧 v v
+无愧于 v
+无力 a v v
+无量 v
+无权 v
+无色 v
+无声 v v v
+无绳 b v
+无视 v
+无损 v
+无题 v
+无望 v
+无畏 v
+无误 v
+无限 b d v v v
+无效 a v v
+无心 v
+无形化 v v
+无需 v
+无序 b d v
+无意 v
+无益 a v
+无异 v
+无异于 v
+无用 v
+无缘 v
+无助 a a v
+无助于 v
+无罪 v v
+武斗 v
+武装 n v v
+捂 v x
+捂盖子 v
+捂住 v
+午睡 v
+午休 v
+舞 n v
+舞弊 v v
+舞蹈 n v v
+舞动 v
+舞剑 v
+舞弄 v
+舞狮 v v
+侮慢 v
+侮蔑 v
+侮辱 v v
+晤 g v v
+晤对 v
+晤面 v
+物化 v
+物流 n v
+物色 v
+务 d d g v
+务农 v
+务求 v
+务实 v v
+务使 v
+务虚 v
+悟 g v v
+悟出 v
+误 d g n v
+误场 v
+误车 v
+误传 v
+误导 v v
+误点 v
+误工 v
+误国 v
+误会 v v
+误解 n v v
+误判 v
+误认 v
+误认为 v
+误杀 v
+误伤 v
+误食 v
+误事 v
+误用 v
+误诊 v
+析出 v
+析取 v
+析疑 v
+西方化 v
+西化 v
+西移 v
+嘻笑 v
+吸 v
+吸毒 v v
+吸附 v
+吸纳 v
+吸气 v
+吸取 v v
+吸热 v
+吸食 v
+吸收 v v
+吸吮 v
+吸烟 v v
+吸引 v
+牺牲 v v
+稀罕 a a v
+稀释 v v
+息 g n v
+息怒 v
+希 g j n v
+希罕 a v
+希冀 v v
+希望 n n v v
+希翼 v
+悉 g v
+惜 g v v
+惜别 v
+惜力 v
+熄 v
+熄灯 v
+熄火 v
+熄灭 v v
+袭 g n q v
+袭击 v v
+袭取 v
+袭扰 v
+袭用 v
+席卷 v
+习 g n n v
+习惯 n v
+习军 v
+习拳 v
+习文 v
+习武 v v
+习字 v
+习作 n v
+喜 a a g n n v v
+喜爱 v v
+喜好 v
+喜欢 v v
+喜庆 v v
+喜迎 v
+喜迎春 v
+洗 g v
+洗肠 v
+洗尘 v
+洗涤 v
+洗劫 v
+洗礼 n v v
+洗煤 v
+洗钱 v
+洗染 v v
+洗手 v
+洗刷 v
+洗胃 v
+洗雪 n v
+洗衣 v v
+洗印 v
+洗冤 v
+洗澡 v
+系 n v
+系列化 v v
+系念 v
+系统化 v
+戏 g n v v x
+戏称 n v
+戏弄 v
+戏耍 v
+戏谑 v
+细别 n v
+细分 v
+细化 v v
+细看 v
+细说 v
+细问 v
+瞎 d v
+瞎猜 v
+瞎扯 v
+瞎闯 v
+瞎干 v
+瞎蒙 v
+瞎闹 v
+瞎说 v
+瞎眼 v
+瞎诌 v
+瞎抓 v
+辖 g v
+辖制 v
+下 f n n q r v
+下班 v v
+下半旗 v
+下笔 v
+下拨 v v
+下操 v
+下场 n v
+下车 v
+下沉 v
+下厨 v
+下船 v
+下垂 v
+下挫 v
+下达 v
+下大力 v
+下蛋 v
+下地 v
+下调 v v
+下跌 v v
+下毒 v
+下毒手 v
+下发 v
+下凡 v
+下饭 v
+下放 v v
+下浮 v
+下岗 v v
+下工 v
+下工夫 v
+下功夫 l v
+下跪 v
+下海 v
+下滑 v v
+下机 v
+下降 v v
+下脚 n v
+下结论 v
+下酒 v
+下决心 v
+下课 v
+下来 v
+下令 v
+下落 n v
+下马 v
+下派 v
+下坡 v
+下棋 v
+下欠 n v
+下去 v v
+下山 v
+下设 v
+下世 v
+下手 n s v
+下属 n v v
+下水 n v
+下台 v
+下帖 v
+下同 v
+下辖 v
+下陷 v
+下乡 v v
+下泄 v
+下泻 v
+下行 v
+下学 v
+下雪 v
+下药 v
+下野 v
+下雨 v
+下狱 v
+下载 v
+下葬 v
+下种 v
+下坠 v
+下榻 v
+夏种 n v
+吓 e v
+吓倒 v
+吓唬 v
+吓坏 v
+掀 v
+掀动 v
+掀翻 v
+掀开 v
+掀起 v
+掀腾 v
+先行 d v v
+先于 v
+仙逝 v
+鲜见 v
+衔 g v
+衔接 v v
+衔冤 v
+闲 a a a v
+闲扯 v
+闲荡 v
+闲逛 v
+闲居 v
+闲聊 v
+闲弃 v
+闲谈 v
+闲置 v v
+闲坐 v
+涎着脸 v
+嫌 g n v
+嫌恶 v
+嫌弃 v
+嫌厌 v
+显 v
+显出 v
+显得 v
+显见 v
+显灵 v
+显露 v
+显圣 v
+显示 v v
+显现 v v
+显形 v
+显耀 v
+显影 v
+险胜 v
+现 d t t v
+现出 v
+现存 v v
+现代化 v v
+现任 b v v
+现身 v
+现世 n v
+现形 v
+现行 b v
+现有 b v v
+献 v
+献宝 v
+献策 v
+献丑 v
+献给 v
+献花 v
+献技 v
+献计 v
+献计献策 l v
+献礼 n v v
+献媚 v
+献身 v v
+献血 v v
+献艺 v
+献殷勤 v
+羡 g n v
+羡慕 v v
+陷 g v
+陷害 v
+陷落 v
+陷没 v
+陷入 v
+陷于 v
+限 g n v
+限定 v v
+限额 n v v v
+限价 v v v
+限量 n v v
+限令 v
+限期 n v v
+限速 n v v
+限于 v
+限制 n v v
+相 d g n n n v
+相爱 v v
+相伴 v
+相比 v
+相差 v
+相乘 v
+相持 v v
+相斥 v
+相除 v
+相处 v v
+相传 v
+相当 d v v
+相等 v
+相抵 v
+相对 b d v v v
+相反 v v
+相仿 v
+相逢 v v
+相符 v
+相干 v
+相隔 v
+相关 b v v
+相会 v
+相加 v
+相间 v
+相见 v
+相交 v
+相接 v
+相聚 v
+相距 v
+相联 v
+相连 v
+相邻 v v
+相面 v
+相碰 v
+相切 v
+相亲 v
+相劝 v
+相让 v
+相容 v
+相商 v
+相识 v
+相思 v
+相通 v v
+相投 v
+相望 v
+相信 v
+相依 d v
+相应 d v v v
+相映 v
+相与 v
+相遇 v
+相约 v
+相知 n v
+相中 v
+相撞 v
+相左 v
+相悖 v
+镶 v
+镶边 v
+镶嵌 v v
+镶牙 v
+镶制 v
+香化 v
+襄助 v
+详解 v
+详谈 v
+想 v v
+想到 v
+想法 n v
+想见 v
+想开 v
+想来 v
+想念 v
+想起 v
+想望 v
+想想 v
+想像 v
+想象 v v
+响 a a q v v
+响彻 v
+响动 n v
+响起 v
+响应 v v
+享 g v v
+享福 v
+享乐 v v
+享受 v v
+享用 v
+享有 v
+享誉 v
+项目 n v
+巷战 v
+像 d n p v
+像话 v
+向 g n p v
+向钱看 v
+向前 v
+向上 v
+向往 v v
+向阳 n v
+象是 v
+象征 n v v
+硝 n v
+硝化 v
+削 g v
+削发 v
+削价 v
+削减 v
+削平 v
+削球 v
+削弱 v v
+销 g j v v
+销毁 v
+销货 v
+销假 v
+销量 n v
+销蚀 v
+销售 n v v
+销行 v
+销赃 v v
+销账 v
+消 v
+消长 v
+消愁 v
+消除 v v
+消毒 v v
+消防 b v v
+消费 n v v
+消耗 v v
+消化 v v
+消解 v
+消灭 v
+消磨 v
+消气 v
+消遣 v v
+消融 v
+消溶 v
+消散 v
+消失 v v
+消食 v
+消逝 v v
+消释 v
+消受 v
+消暑 v
+消损 v
+消痰 v
+消退 v
+消亡 v v
+消夏 v v
+消闲 v
+消炎 v
+消音 v
+消肿 v
+消弭 v
+宵禁 v
+淆乱 a v
+晓 g v v
+晓畅 a v
+晓得 v
+晓示 v
+晓谕 v
+小 a a a g h n n v
+小便 n v
+小产 v
+小改 v v
+小广播 n v
+小结 n v
+小解 v
+小看 v
+小跑 v
+小心 a a v
+小修 v v
+小于 n v
+小住 v
+小坐 v
+小憩 v v
+孝敬 v v
+孝顺 a a v
+校 g n n v
+校办 v v
+校订 v v
+校对 n v
+校改 v
+校勘 v
+校射 v
+校验 v
+校阅 v
+校正 v
+校准 v
+肖 g n v
+啸 v
+笑 v v
+笑话 n v
+笑骂 v
+笑纳 v
+效法 v
+效仿 v
+效劳 v
+效力 n v
+效命 v
+效死 v
+效忠 v
+楔 g v
+歇 v
+歇班 v
+歇顶 v
+歇伏 v
+歇工 v
+歇脚 v
+歇凉 v
+歇晌 v
+歇手 v
+歇息 v
+歇歇 v
+歇业 v
+协办 v v
+协调 a a a v v
+协理 n v
+协商 v v
+协同 v v v
+协议 n v v v
+协助 v v
+协作 v v v
+挟 v
+挟持 v
+挟带 v
+挟制 v
+携 v
+携带 v
+携侣 v
+携手 v v v
+斜 a a v
+斜切 v
+斜射 v
+斜视 n v
+胁持 v
+胁从 n v
+胁迫 v
+写 v x
+写道 v
+写稿 v
+写景 v
+写入 v
+写生 v v
+写实 b n v v
+写信 v
+写真 n v v
+写字 v v
+写作 v v
+械斗 v v
+卸 v
+卸车 v
+卸掉 v
+卸货 v
+卸任 v
+卸下 v
+卸责 v
+卸职 v
+卸装 v
+卸妆 v
+懈 g v
+泄 g v v
+泄底 v
+泄愤 v
+泄恨 v
+泄洪 v v
+泄劲 v
+泄漏 v v
+泄露 v
+泄密 v v
+泄气 v v
+泻 n v
+泻肚 v
+谢 g j n v
+谢顶 v
+谢恩 v
+谢绝 v
+谢客 v
+谢落 v
+谢幕 v
+谢却 v
+谢世 v
+谢谢 v
+谢罪 v
+欣 g v v
+欣赏 v v
+欣闻 v
+欣悉 v
+辛苦 a a a v v
+新编 v v
+新建 v v
+新交 n v
+新生 b n v
+新兴 b n v
+新增 v
+心动 v
+心烦 v
+心服 v
+心怀 n v
+心悸 v
+心惊 v
+心静 v
+心算 v v
+心碎 v
+心疼 v
+心跳 v v
+心想 v
+心仪 v
+心醉 v
+信 n n v
+信不过 v
+信步 v
+信从 v
+信得过 v
+信奉 v
+信佛 v
+信服 v
+信教 v v
+信赖 v v
+信任 v v
+信守 v
+信息化 v v
+信仰 n v v
+信诊 v
+兴 g n v
+兴办 v
+兴邦 v
+兴奋 a a v
+兴工 v
+兴国 n v v
+兴建 v v
+兴起 v v
+兴衰 n v
+兴叹 v
+兴修 v
+兴学 v
+刑讯 n v
+形 g n n v
+形成 n v v
+形容 v
+形式化 v
+形似 v
+形象化 v v
+行 a g j n n q v v x
+行不通 v
+行车 v v
+行程 n v
+行船 v
+行刺 v
+行动 v v
+行方便 v
+行好 v
+行贿 v v
+行劫 v
+行进 v
+行经 v
+行酒令 v
+行军 v v
+行乐 v
+行礼 v
+行路 v
+行骗 v
+行乞 v
+行善 v
+行使 v v
+行驶 v v
+行事 v
+行文 v v
+行销 v v
+行刑 v
+行凶 v
+行医 v v
+行政 b n v v
+行政化 v
+行走 v v
+醒 g v
+醒酒 v
+醒来 v
+醒悟 v
+幸 d g n v
+幸存 v v
+幸免 v
+性交 v v
+姓 n n v
+凶杀 v v
+胸痹 v v
+胸怀 n v
+汹涌 a n v
+雄踞 v
+休 d v
+休工 v
+休会 v
+休假 n v v
+休克 v v
+休眠 v v
+休庭 v
+休息 v v
+休闲 v v
+休想 v
+休学 v
+休养 v
+休业 v
+休战 v
+休整 v v
+休止 v
+休憩 v
+修 g n v
+修补 v v
+修车 v v
+修成 v
+修道 v
+修订 v v
+修复 v v
+修改 v v
+修好 v
+修剪 v v
+修建 v v
+修脚 v
+修浚 v
+修理 v v
+修炼 v
+修路 v v
+修配 v
+修缮 v v
+修身 v
+修史 v
+修饰 v
+修行 v
+修修 v
+修修补补 v
+修修改改 v
+修业 v
+修造 v
+修整 v
+修正 v v
+修枝 v
+修筑 v v
+修葺 v
+羞 a g v
+羞愤 v
+羞愧 v
+羞辱 a v
+朽 v
+朽烂 v
+嗅 v
+嗅到 v
+锈 n v
+锈蚀 v
+袖 g n v
+绣 g n v
+绣花 v
+绣制 v v
+需 g n v v v
+需求 n v v
+需水 v v
+需要 n v v
+虚报 v
+虚度 v
+虚构 v v
+虚惊 v
+虚夸 v
+虚拟 v v
+虚设 v v
+虚脱 v v
+虚掩 v
+虚应 v
+嘘 e v
+嘘气 v
+嘘唏 v
+须 d g n n v v
+须要 v
+须知 n v
+许 d g m n v v
+许可 n v v
+许诺 n v
+许配 v
+许愿 v
+蓄 v
+蓄发 v
+蓄洪 v
+蓄积 v
+蓄谋 v
+蓄热 v
+蓄水 v v
+蓄须 v
+酗酒 v
+叙 j v
+叙别 v
+叙旧 v
+叙事 v v
+叙述 v v
+叙说 v v
+叙谈 v
+畜养 v
+絮 g v
+絮叨 v
+续 g n v
+续编 n v
+续订 v
+续航 v
+续假 v
+续建 v
+续借 v
+续弦 v
+续展 v
+喧哗 v
+喧闹 v v
+喧嚷 v
+喧扰 v
+喧腾 v
+喧嚣 v v
+宣布 v v
+宣称 v
+宣传 n v v
+宣读 v
+宣告 v
+宣讲 v v
+宣教 j v
+宣判 v v
+宣示 v
+宣誓 v v
+宣泄 v
+宣扬 v v
+宣战 v
+宣旨 v
+悬 a g v
+悬垂 v
+悬浮 v v
+悬挂 v v
+悬空 v v
+悬梁 v
+悬念 n v
+悬赏 v
+悬停 v
+悬腕 v
+悬想 v
+旋 d g n v v
+旋动 v
+旋滚 v
+旋绕 v
+旋转 v v
+选 g n v
+选案 v
+选拔 v v
+选编 v v
+选材 n v
+选出 v
+选调 v
+选定 v v
+选读 v
+选稿 v
+选购 v
+选辑 n v
+选举 v v
+选课 v
+选矿 v
+选录 v
+选美 v
+选派 v
+选配 v v
+选聘 v
+选取 v
+选送 v
+选题 n v v
+选线 v v
+选修 v
+选样 v
+选用 v v
+选育 v v
+选择 v v
+选址 v v
+选中 v
+选种 v
+眩晕 v
+学 g k n n v v
+学法 v
+学好 v
+学画 v
+学会 n v
+学舌 v
+学习 v v
+学艺 v
+穴居 v
+雪耻 v
+雪恨 v
+雪洗 v
+血崩 v
+血洗 v
+熏 g v
+熏染 v
+熏陶 v v
+熏蒸 v v
+熏制 v
+循 g v v
+循环 v v v
+询问 v v
+寻 g q v
+寻的 v
+寻短见 v
+寻访 v v
+寻根 v
+寻呼 v v
+寻机 v
+寻开心 v
+寻觅 v v
+寻求 v
+寻思 v
+寻死 v
+寻味 v
+寻衅 v
+寻医 v
+寻找 v v
+寻踪 v v
+驯 v
+驯服 a v
+驯化 v v
+驯象 v
+驯养 v v
+巡 g q v
+巡查 v v
+巡航 v
+巡护 v v
+巡回 v v v
+巡礼 v v
+巡逻 v v
+巡视 v v
+巡行 v
+巡夜 v
+巡游 v v
+巡展 v
+巡诊 v v
+殉 g v
+殉国 v
+殉节 v
+殉难 v
+殉情 v
+殉葬 v
+殉职 v
+训 g n v
+训斥 v v
+训导 v
+训话 v
+训诫 v v
+训练 v v
+讯 g n n v v
+讯问 v
+逊 g v
+压 v x
+压宝 v
+压倒 v
+压低 v
+压电 v v
+压锭 v v
+压分 v
+压服 v
+压价 v
+压惊 v
+压境 v
+压垮 v
+压迫 v v
+压缩 v v
+压题 v v
+压条 v
+压腿 v
+压弯 v
+压延 v
+压抑 a v v
+压榨 v v
+压阵 v
+压制 v v
+押 g v
+押车 v
+押解 v v
+押送 v
+押运 v
+牙痛 v v
+牙碜 v
+雅正 v
+哑 o v
+亚 g j v v
+亚于 v
+讶异 v
+焉 d r v y
+咽 g v
+咽气 v
+咽下 v
+阉 v
+阉割 v
+烟 n v x
+淹 g v v
+淹没 v
+淹死 v
+盐碱化 v v
+严办 v
+严查 v
+严惩 v v
+严打 v v
+严防 v
+严格 a a a d v
+严加 v v
+严禁 a v
+严密 a a v
+严明 a n v
+严守 v
+严肃 a a v
+研 g n v v
+研读 v
+研究 n v v
+研磨 v
+研讨 v v
+研习 v
+研制 v v
+延 g v
+延长 v v
+延迟 v
+延缓 v
+延揽 v
+延绵 v
+延聘 v
+延期 v v v
+延伸 v v v
+延误 v v
+延续 v v
+延宕 v
+言 g n n n v v
+言传 v
+言和 v
+言语 n v v
+沿 p v
+沿边儿 v
+沿袭 v
+沿用 v
+掩 v
+掩蔽 n v
+掩藏 v
+掩盖 v
+掩护 v v
+掩埋 v
+掩门 v
+掩饰 v v
+掩映 v
+眼馋 v
+眼红 v
+眼花 v
+眼见 v
+眼看 d v
+眼跳 v
+衍 g v v
+衍变 v
+衍化 v
+衍射 v
+衍生 v v
+演 j v
+演变 v v
+演播 v v
+演唱 v v
+演出 v v
+演化 v v
+演讲 v v
+演进 v v
+演练 v v
+演示 v v
+演说 v v
+演算 v v
+演习 v v
+演戏 v
+演绎 n v
+演奏 v v
+艳羡 v v
+厌 g v v
+厌恶 v
+厌烦 v
+厌倦 v
+厌弃 v
+厌食 v
+厌世 v
+厌战 v v
+宴请 v v
+验 v
+验放 v v
+验光 v
+验货 v
+验票 v
+验尸 v
+验收 v v
+验算 v
+验血 v
+验证 v v
+殃及 v
+央告 v
+央求 v
+央托 v
+秧 g n n v v
+扬 g n n v v
+扬场 v
+扬帆 v
+扬花 v
+扬名 v
+扬起 v
+扬弃 v
+扬威 v
+扬言 v
+佯称 v
+佯动 v
+佯攻 v
+佯降 v
+佯死 v
+佯言 v
+佯装 v
+洋溢 v
+阳痿 v
+氧化 v
+仰 g n v
+仰观 v
+仰赖 v
+仰慕 v
+仰视 v
+仰望 v
+仰卧 v
+仰泳 v v
+仰仗 v
+养 g n v
+养兵 v
+养病 v v
+养成 v v
+养狐 v
+养护 v
+养活 v
+养鸡 v v
+养家 v
+养老 v v
+养路 v v
+养牛 v v
+养气 v
+养禽 v v
+养伤 v
+养神 v
+养生 v v
+养蟹 v
+养鱼 v v
+养育 v
+养殖 v v
+养猪 v v
+漾 g v
+漾奶 v
+邀 v v
+邀功 v
+邀集 v
+邀客 v
+邀请 v v
+腰斩 v
+摇 v
+摇摆 v
+摇船 v
+摇荡 v
+摇动 v
+摇滚 n v
+摇撼 v
+摇晃 v
+摇头 v
+摇摇 v
+摇曳 v
+遥测 v
+遥见 v
+遥控 v v
+遥望 v
+遥想 v
+遥指 v
+遥祝 v
+谣传 v
+咬 v
+咬定 v
+咬合 v
+咬嚼 v
+咬啮 v
+咬噬 v
+咬牙 v
+咬咬 v
+舀 v
+药 n v
+要 a c d g n n v
+要得 v
+要饭 v
+要价 v
+要命 a v
+要求 n v v
+要素 n v
+要挟 v v
+要账 v
+耀 g n v v
+噎 v
+噎住 v
+野炊 v
+野营 v v
+冶 g v v
+冶炼 v v
+也 d j u v y
+掖 g v
+叶 g j n n n q v
+夜宿 v
+夜袭 v
+夜游 v
+夜战 v
+液化 v v
+一把抓 v
+一般化 v
+一边倒 l v
+一刀切 v
+一贯 a b d v
+一晃 v
+一体化 v v
+一元化 v
+医 g j n n v
+医护 v v
+医疗 n v v
+医治 v v
+依 g n p v
+依傍 v
+依从 v
+依存 v v
+依法 d v
+依附 v v
+依据 n p v v
+依靠 c n p v v
+依赖 v v
+依恋 v v
+依凭 n v
+依顺 v
+依托 v v
+依依恋恋 v
+依仗 v
+依照 p v
+依偎 v
+伊始 v
+衣 g n n n v
+颐养 v
+遗 g v v
+遗传 n v v
+遗存 v v
+遗恨 v
+遗精 v
+遗留 v v
+遗漏 v v
+遗落 v
+遗弃 v
+遗失 v
+遗忘 v
+移 v
+移步 v
+移锭 v
+移动 v v
+移防 v
+移交 v
+移居 v
+移苗 v
+移民 n v v
+移送 v v
+移位 v
+移栽 v
+移植 v v
+疑 g v v
+疑惑 n v v
+疑惧 v
+疑虑 n v v
+疑心 n v
+宜 a a g n v v
+宜于 v
+倚 g v
+倚靠 v
+倚赖 v
+倚仗 v
+倚重 v v
+倚坐 v
+已 d g v
+已故 v v
+已婚 v v
+以防 v
+以免 c v
+以期 d v
+以为 v
+艺术 a n v
+抑 g v
+抑扬 v v
+抑止 v
+抑制 v v
+易 a a g n v v
+易位 v
+易于 v v
+屹立 v
+役使 v
+臆测 v
+臆断 v
+臆想 v
+臆造 v
+肄业 v
+亦可 v
+意 g j n n v v
+意会 v
+意料 v v
+意识 n v v
+意思 n v
+意味 n v
+意味着 v
+意想 v
+意译 n v
+意欲 v
+忆 g v v
+忆及 v
+忆旧 v
+忆苦 v
+义卖 v
+义演 v v
+义诊 v v
+益 g n n v
+益智 v
+溢 g v
+溢出 v
+诣 g v
+议 g v
+议标 v v
+议定 v
+议购 v
+议和 v
+议决 v
+议论 v v
+议商 v
+议事 v v
+议政 v v
+译 v
+译制 v
+异步 b v
+异化 v v
+荫 a g n v
+荫蔽 v
+因 c n p v
+因袭 v
+阴暗 a a v
+阴干 v
+阴谋 n v v
+吟 g v v
+吟唱 v
+吟诗 v
+吟诵 v v
+吟咏 v
+淫亵 v
+饮 g n n v
+饮茶 v
+饮恨 v
+饮酒 v v
+饮泣 v
+饮食 n v
+饮水 n v v
+饮用 v v
+引 g q v
+引爆 v
+引产 v
+引出 v
+引导 n v v
+引得 n v
+引逗 v
+引渡 v
+引发 v
+引航 v
+引荐 v v
+引见 v
+引进 v v
+引咎 v
+引来 v
+引流 v
+引路 v
+引聘 v
+引起 v
+引入 v
+引申 v
+引述 v
+引水 v v
+引退 v
+引用 v
+引诱 v
+引证 v
+引种 v
+引资 v v
+隐蔽 a a v v
+隐藏 v
+隐伏 v
+隐含 v
+隐讳 v
+隐居 v
+隐瞒 v
+隐没 v
+隐匿 v
+隐忍 v
+隐身 v
+隐退 v
+隐现 v
+隐喻 v
+印 g j n n n v
+印发 v
+印花 b n v
+印记 n v
+印染 v v
+印刷 v v
+印行 v
+印证 n v v
+印制 v v
+应 g n p v
+应变 v v
+应承 v
+应酬 v v
+应答 v v
+应当 d v
+应得 v
+应敌 v
+应对 v v
+应付 v v
+应该 r v
+应急 v v
+应景 v v
+应考 v
+应募 v
+应聘 v
+应声 v
+应试 v v
+应选 v
+应验 v
+应邀 v
+应用 v v
+应有 v v
+应允 v v
+应战 v v
+应招 v
+应诊 v
+应征 v v
+营 g n v v
+营建 v
+营救 v v
+营利 v
+营生 v v
+营私 v
+营销 v v
+营业 v v
+营运 v v
+营造 v v
+迎 v
+迎宾 v v
+迎春 n v v
+迎风 v
+迎合 v
+迎候 v
+迎击 v
+迎接 v
+迎来 v
+迎娶 v
+迎送 v
+迎新 v v
+迎战 v
+赢 v
+赢得 v
+赢利 n v v
+盈 g v v
+盈怀 v
+盈亏 n v
+盈利 n v v
+盈余 n v v
+影 g n n v
+影射 v
+影响 v v
+影印 v
+硬撑 v
+硬底化 v v
+硬干 v
+硬化 v
+硬结 n v
+硬碰硬 v
+硬拼 v
+硬套 v
+硬挺 v
+硬拚 v
+映 v
+映衬 v
+映出 v
+映荡 v
+映入 v
+映射 v
+映现 v
+映照 v v
+拥 v
+拥抱 v
+拥簇 v
+拥戴 v v
+拥护 v v
+拥挤 a a v v
+拥军 v v
+拥入 v
+拥塞 v
+拥有 v v
+庸俗化 v
+咏 g v
+咏春 v
+咏叹 v
+咏赞 v
+涌 g v
+涌出 v
+涌动 v
+涌入 v v
+涌现 v v
+永别 v
+永诀 v
+永生 d v v
+永葆 v
+勇斗 v
+勇救 v
+勇为 v
+勇于 d v
+用 g n n p v v
+用报 v v
+用兵 v v
+用餐 v
+用到 v
+用地 n v
+用典 v
+用电 n v
+用工 v v
+用活 v
+用尽 v
+用劲 v
+用来 v
+用人 v v
+用膳 v
+用事 v
+用水 n v v
+用武 v
+用刑 v
+用于 v v
+用作 v
+幽会 v
+幽禁 v
+幽居 v
+幽思 n v
+优待 v v
+优抚 v v
+优化 v v
+优惠 a n v v v
+优生 v
+优胜 v
+优先 d v v v
+优选 v
+优于 v
+悠 g v
+悠荡 v
+忧 a a g n n v v
+忧患 n v v
+忧虑 v v
+由 g n p v
+邮 g j v
+邮递 v v
+邮发 v v
+邮购 v v
+邮寄 v v
+邮售 v
+犹存 v
+犹如 v
+油 a n v
+油漆 n v
+油印 v v
+游 g n n n v v
+游荡 v v
+游动 v v v
+游逛 v
+游街 v
+游览 v v
+游乐 v v
+游离 v
+游历 v
+游牧 v v
+游水 v
+游说 v v
+游玩 v
+游戏 n v v
+游行 v v
+游移 v
+游泳 v v
+游泳赛 n v
+游园 v v
+游弋 v
+有 m n v
+有别于 v
+有待 v
+有底 v
+有毒 v v
+有方 v
+有感 v
+有功 v v
+有关 p v v
+有鬼 v
+有救 v
+有空 v
+有赖于 v
+有劳 v
+有利 a a v
+有利于 v v
+有请 v
+有日子 v
+有如 v
+有身子 v
+有失 v
+有事 v
+有所 d v
+有望 v
+有为 v
+有喜 v
+有效 a a v
+有心 v
+有幸 v
+有序 a a a v
+有序化 v v
+有意 d v
+有意识 v
+有余 m v
+有志于 v
+有助于 v
+有着 v
+有悖 v
+有悖于 v
+有瘾 v
+友爱 v
+佑助 v
+诱 g v
+诱逼 v
+诱变 v v
+诱捕 v
+诱导 v
+诱敌 v
+诱发 v v
+诱供 v
+诱拐 v
+诱惑 v v
+诱奸 v
+诱降 v
+诱骗 v
+诱杀 v
+又 c d m v
+迂回 v v
+淤 g n v
+淤积 v v
+淤塞 v
+愚弄 v
+余 g m n n n v
+余下 v v
+逾 d d g v v
+逾期 v v
+逾越 v
+鱼肉 n v
+渝 g j v
+渔利 v
+予 g r v v
+予以 j v
+娱乐 n v v
+与 c g n p v v y
+与会 v v
+语 g n n v v
+语塞 v
+羽化 v
+郁积 v
+郁结 v
+吁 e g o v
+吁请 v
+遇 g v
+遇刺 v
+遇到 v
+遇害 v
+遇见 v
+遇救 v
+遇难 v v
+遇险 v v
+喻 g n v
+御 g v
+御寒 v v
+御侮 v
+愈 d g v v
+愈合 v
+欲 d g v v
+育 g v v x
+育才 v v
+育雏 v
+育肥 v
+育苗 v
+育秧 v v
+育种 v v
+誉 g n n v v
+誉为 v
+浴 g v
+浴血 v v
+寓 g v v
+寓居 v
+寓意 n v
+寓于 v
+预 d g v
+预报 v v
+预备 v v
+预编 v
+预测 v v
+预处理 v v
+预定 v v
+预订 v v
+预防 v v
+预付 v
+预感 n v
+预告 v
+预购 v
+预估 v
+预计 v v
+预加工 v
+预见 n v
+预警 v v
+预料 v v
+预留 v v
+预谋 v v
+预期 v v
+预热 v
+预赛 n v
+预审 v v
+预示 v
+预售 v v
+预算 n v v
+预习 v
+预想 v
+预选 v v
+预言 n v
+预演 v v
+预约 v v
+预展 v
+预支 v
+预置 v
+预制 v
+预祝 v
+预装 v
+冤 a g v
+冤枉 a v
+原定 v v
+原谅 v v
+原有 v v
+援 g v v
+援建 v
+援救 v v
+援外 v v
+援引 v
+援用 v
+援助 v v
+圆 a g n q v v
+圆场 v
+圆寂 v
+圆梦 v
+源于 v
+源自 v
+缘 g n p v
+远航 v
+远离 v
+远视 v
+远眺 v
+远投 v
+远望 n v
+远销 v
+远行 v v
+远游 v
+远在 v
+远征 v
+远足 v
+愿 g n n v v
+愿意 v
+怨 v v
+怨恨 v
+曰 g v v
+约 d g j n n v v
+约定 v v
+约分 v
+约稿 v v
+约会 n v
+约计 v
+约请 v
+约束 v v
+越 d g j n v v
+越冬 v v
+越轨 v v
+越过 v
+越级 v
+越界 v v
+越境 v
+越权 v v
+越位 v
+越洋 v v
+越野 v v
+越狱 v
+跃 g v v
+跃进 v v
+跃居 v
+跃然 v
+跃入 v
+阅 g v
+阅兵 v
+阅读 v v
+阅卷 v
+阅览 v v
+阅历 n v
+云 g j n n v v
+云集 v
+云游 v
+匀 a v
+陨 g v
+陨落 v
+允 g v v
+允诺 v v
+允许 v v
+运 g n n n v
+运筹 v v
+运动 n v v
+运球 v
+运输 v v
+运送 v v
+运算 v v
+运往 v
+运销 v v
+运行 v v
+运营 v v
+运用 v v
+运载 v v
+运转 v v
+运作 v v
+蕴 g v
+蕴藏 v
+蕴含 v
+蕴涵 v
+蕴蓄 v
+酝酿 v v
+晕 g v
+晕车 v
+晕船 v
+晕倒 v
+晕机 v
+晕厥 v
+孕穗 v
+孕吐 v
+孕育 v v
+砸 v
+砸饭碗 v
+砸烂 v
+砸碎 v
+杂 a v
+杂凑 v
+杂交 v v
+杂居 v
+栽 g v
+栽倒 v
+栽跟头 v
+栽斤头 v
+栽培 v v
+栽秧 v
+栽赃 v
+栽植 v
+栽种 v v
+宰 g n v
+宰割 v
+宰杀 v
+载 g n n q v
+载货 v v
+载客 v v
+载入 v
+载有 v
+载运 v
+载重 v v
+再 d g v
+再版 v
+再会 v
+再婚 v v
+再嫁 v
+再见 v
+再审 v v
+再生 v v
+再生产 v v
+再说 c v
+再现 v v
+再造 v
+再植 v
+在 d p v
+在岸 v v
+在案 v
+在编 v
+在场 a v v
+在岗 b v v
+在乎 v
+在即 v
+在家 v
+在建 v v
+在教 v
+在世 v
+在逃 v v
+在望 v
+在位 v
+在握 v
+在线 b v v
+在校 b v v
+在心 v
+在押 v v
+在野 v
+在业 v
+在意 v
+在于 v
+在职 v v
+在座 v v
+攒 v
+暂定 v
+暂缓 v
+暂缺 v
+暂停 v v
+暂用 v
+暂住 v
+赞 g j n n v v
+赞成 v v
+赞美 v v
+赞佩 v v
+赞赏 v v
+赞颂 v
+赞叹 v
+赞同 v v
+赞许 v v
+赞扬 v v
+赞誉 v v
+赞助 v v
+葬 g v
+葬身 v
+葬送 v
+遭 q v
+遭到 v
+遭逢 v
+遭劫 v
+遭难 v
+遭受 v
+遭殃 v
+遭遇 n v v
+遭灾 v
+糟 a g v
+糟蹋 v
+糟踏 v
+凿 g n v
+凿冰 v
+凿空 v
+凿孔 v
+早安 v
+早产 v v
+早婚 v v
+早起 v
+早逝 v
+早熟 v v
+早衰 v
+早退 v v
+早泄 v
+澡 g v
+躁动 v v
+造 g v
+造表 v
+造册 v
+造成 v
+造船 v v
+造次 v
+造反 v
+造访 v v
+造福 v
+造假 v v
+造就 n v
+造句 v
+造林 v v
+造孽 v
+造田 v v
+造血 v v
+造谣 v
+造影 v v
+造纸 v v
+造作 a v
+责 g n n v v
+责备 v
+责成 v
+责罚 v
+责怪 v
+责令 v
+责骂 v
+责难 v v
+责问 v
+择 g v
+择菜 v
+择偶 v
+择要 d v
+择业 v v
+择优 d v
+择友 v
+增 g v v v
+增兵 v
+增补 v v
+增产 v v
+增长 v v
+增大 v v
+增订 v
+增多 v v
+增高 v
+增光 v
+增加 v v
+增减 v v
+增进 v
+增派 v
+增强 v v
+增容 v
+增色 v
+增删 v
+增设 v
+增生 v
+增收 v v
+增添 v
+增效 v v
+增选 v v
+增压 v v
+增益 v
+增援 v
+增支 v
+增殖 v v
+增值 v v
+增至 v
+增资 v v
+憎恶 v
+憎恨 v
+赠 v
+赠别 v
+赠答 v
+赠订 v
+赠给 v
+赠款 n v v
+赠书 v v
+赠送 v v
+赠与 v
+赠阅 v
+扎 v x
+扎根 v
+扎糊 v
+扎猛子 v
+扎实 a a v
+扎营 v
+扎针 v
+扎制 v
+轧 g o v v
+轧钢 v
+轧花 v
+轧路 v
+轧制 v
+铡 g v
+闸 n v
+眨 v
+眨巴 v
+眨眼 v
+榨 g v
+榨取 v
+榨油 v
+咋呼 v
+咋舌 v
+乍 d g v
+炸 v
+炸掉 v
+炸毁 v
+炸裂 v
+炸肉 n v
+炸伤 v
+炸鱼 n v v
+诈 v
+诈败 v
+诈病 v
+诈称 v
+诈唬 v
+诈降 v
+诈骗 v v
+诈欺 v
+诈取 v
+诈死 v
+摘 v
+摘编 v v
+摘抄 v
+摘除 v
+摘登 v
+摘掉 v
+摘发 v
+摘记 n v
+摘录 v
+摘取 v
+摘要 n v v
+摘译 v
+摘引 v
+摘自 v
+斋戒 v
+瞻 g v v
+瞻望 v
+瞻仰 v v
+粘 a g v
+粘附 v
+粘合 v
+粘结 v
+粘连 v
+粘贴 v
+沾 v
+沾边 v
+沾光 v
+沾满 v
+沾染 v
+斩 v
+斩断 v
+斩首 v
+辗转 v v
+展 g n n n v v
+展播 v
+展翅 v
+展出 v
+展开 v v
+展览 n v v
+展露 v
+展评 v
+展示 v v
+展望 v v
+展现 v v
+展限 v
+展销 v v
+展演 v v
+蘸 v
+占 g n v
+占便宜 v
+占卜 v
+占地 v v
+占据 v
+占领 v v
+占先 v
+占线 v v
+占用 v v
+占优势 v
+占有 v v
+占卦 v v
+战 g j n n n v v
+战罢 v
+战败 v
+战备 v v
+战抖 v
+战斗 v v
+战和 v
+战胜 v
+战死 v
+站 n q v
+站队 v
+站岗 v
+站柜台 v
+站立 v
+站稳 v
+站住 v
+站住脚 v
+绽 g v v
+绽出 v
+绽放 v
+绽开 v
+绽裂 v
+张 g j n q v
+张榜 v v
+张大 v
+张挂 v
+张开 v
+张口 v
+张罗 n v
+张目 v
+张贴 v v
+张望 v
+张扬 v v
+张嘴 v
+掌 n v
+掌灯 v v
+掌舵 n v
+掌管 v
+掌权 v v
+掌勺 v
+掌握 v
+掌嘴 v
+涨 v
+涨潮 v
+涨跌 v
+涨价 v v
+丈量 v
+仗 n v
+仗恃 v
+招 n n q v
+招安 v
+招标 v v
+招兵 v
+招待 v v
+招风 v
+招抚 v
+招工 v v
+招供 v
+招呼 v v
+招魂 v
+招祸 v
+招集 v
+招架 v
+招降 v
+招考 v
+招揽 v v
+招领 v
+招募 v v
+招聘 v v
+招惹 v
+招认 v
+招商 v v
+招生 v v
+招事 v
+招收 v
+招手 v
+招贤 v
+招引 v
+招灾 v
+招展 v v
+招致 v
+招赘 v
+招租 v
+招徕 v
+昭 g v
+昭示 v v
+昭雪 v v
+找 v
+找茬 v
+找碴 v
+找到 v
+找还 v
+找回 v
+找乐 v
+找麻烦 v
+找平 v
+找齐 v
+找钱 v
+找上门 v
+找事 v
+找寻 v
+照 g n p v
+照搬 v
+照办 v
+照常 v v
+照抄 v
+照发 v
+照拂 v
+照顾 v v
+照管 v
+照会 n v
+照见 v
+照镜子 v
+照旧 v
+照看 v
+照理 v
+照亮 v
+照料 v v
+照面 v
+照明 n v
+照排 v v
+照射 v v
+照说 v
+照相 v v
+照耀 v
+照应 v
+照准 v
+罩 g v
+兆 g m n v
+兆示 v
+肇祸 v
+肇事 v v
+召 g n v
+召唤 v v
+召回 v
+召集 v
+召见 v
+召开 v v
+召募 v
+遮 v
+遮蔽 v
+遮丑 v
+遮挡 v
+遮盖 v
+遮光 v
+遮拦 v
+遮羞 v
+遮掩 v v
+遮阳 v
+遮荫 v
+遮住 v
+折 g q v v
+折半 v
+折本 v
+折叠 v v
+折断 v
+折兑 v
+折返 v
+折服 v
+折光 v
+折桂 v
+折合 v
+折回 v
+折价 v
+折旧 v v
+折磨 v v
+折射 v
+折寿 v
+折算 v
+折腾 v
+折腰 v
+折中 v
+折衷 v v
+蛰 g v
+蛰伏 v
+蛰居 v
+珍爱 v v
+珍藏 n v v
+珍视 v v
+珍惜 v v
+珍重 v
+斟 v
+斟茶 v
+斟酒 v
+斟酌 v
+真是 d v
+甄拔 v
+甄别 v v
+甄选 v
+臻 g v v
+针对 p v v
+针砭 v v
+侦 g v
+侦查 v v
+侦察 v v
+侦缉 v v
+侦破 v v
+枕 g n v
+诊 g v
+诊病 v
+诊察 v
+诊断 v v
+诊疗 v v
+诊脉 v
+诊治 v v
+震 g n n v v
+震颤 v v
+震荡 v v
+震动 v v
+震害 n v
+震撼 v v
+震惊 v v
+震怒 v
+震慑 v
+震天 v v
+振 g v v
+振荡 v
+振动 v v
+振奋 a v v
+振兴 v v
+振作 v
+镇 n v
+镇定 a v
+镇守 v
+镇痛 v v
+镇压 v
+镇住 v
+阵痛 v v
+阵亡 v
+蒸 v v
+蒸发 v
+蒸馏 v
+蒸腾 v
+挣 v x
+挣断 v
+挣开 v
+挣钱 v v
+挣脱 v
+挣扎 v v
+睁 v
+征 g v
+征兵 v
+征地 v v
+征调 v
+征丁 v
+征订 v v
+征伐 v
+征服 v
+征稿 v v
+征购 v v
+征婚 v v
+征集 v v
+征缴 v
+征粮 v
+征募 v
+征聘 v
+征求 v v
+征收 v v
+征税 v v
+征讨 v
+征文 n v v
+征询 v
+征用 v
+征战 v
+征召 v
+争 g j v v v
+争霸 v
+争辩 v
+争吵 v v
+争持 v
+争创 v
+争得 v
+争斗 v v
+争夺 v v
+争购 v
+争光 v v
+争论 v v
+争鸣 v v
+争取 v
+争权 v
+争先 d v
+争议 n v v
+争执 v v
+争嘴 v
+怔 v x
+怔住 v
+整 a m v
+整备 v
+整编 v
+整除 v
+整党 v
+整地 v v
+整顿 v v
+整风 v v
+整改 v v
+整合 v v
+整军 v v
+整理 v v
+整流 v
+整人 v
+整容 v
+整肃 v
+整形 v v
+整修 v v
+整训 v
+整整 d v
+整枝 v
+整治 v v
+整组 v
+整饬 v
+拯救 v
+正 a a b d g v
+正常化 v v
+正当 a a d p v
+正当年 v
+正点 d v
+正法 v
+正逢 v
+正告 v
+正骨 v
+正规化 v v
+正名 v
+正如 p v
+正是 v
+正视 v v
+正数 n v
+正音 n v
+正值 n v
+正中 f v
+正坐 v
+政变 v v
+证 g j n n v
+证婚 v
+证今 v
+证明 n v v
+证实 v v
+支 g n n n q v v
+支边 v
+支撑 v v
+支持 v v
+支出 n v v
+支付 v v
+支护 v v
+支解 v
+支农 v v
+支配 v v
+支前 v v
+支取 v
+支使 v
+支吾 v
+支援 v v
+支支吾吾 v z
+吱声 v
+知 g v v
+知道 v
+知底 v
+知法 v
+知会 v
+知情 v v
+知识化 v v
+知悉 v
+知晓 v v
+肢解 v
+之 g r u v
+织 v
+织补 v
+织布 v
+织成 v
+织就 v
+织造 v v
+职业化 v v
+直 a d n v
+直奔 v
+直播 v v
+直拨 v v
+直达 v v
+直到 v
+直立 v
+直落 v
+直面 v
+直射 v
+直视 v
+直属 b v v
+直说 v
+直通 v v
+直销 v
+直言 v
+直译 v
+直指 v
+直至 v
+植 g n v
+植保 v v
+植棉 n v
+植苗 v
+植皮 v
+植入 v
+植树 v v
+殖民 v v
+执 g v v
+执白 v
+执棒 v
+执笔 v
+执导 v
+执法 v v
+执黑 v
+执纪 v v
+执教 v
+执勤 n v v
+执行 v v
+执掌 v
+执政 v v
+值 a n v v
+值班 v v
+值得 v
+值勤 v v
+值日 v
+值夜 v
+指 g n n v
+指出 v
+指导 n v v
+指点 v v
+指定 v v
+指挥 n v v
+指教 v
+指靠 v
+指控 v v
+指令 n v
+指明 v
+指名 v
+指派 v
+指使 v
+指示 n v v
+指望 n v v
+指向 v
+指引 v v
+指责 v v
+指正 v
+止 d v
+止步 v
+止咳 v v
+止渴 v
+止痛 v
+止息 v
+止血 v
+止痒 v
+止住 v
+只顾 d v
+只管 d v
+只见 v
+只能 v
+只求 v
+只是 c d v
+只限 p v
+只用 v
+只有 c d v
+旨在 v
+志 g n n v
+掷 v
+至 d f p t v
+至极 v
+至今 d v
+至上 v
+致 g n p v v
+致哀 v
+致癌 v v
+致病 v v
+致残 v
+致辞 v v
+致词 n v v
+致电 v
+致富 v v
+致函 v
+致畸 v
+致敬 v
+致力 v
+致命 a v v
+致歉 v
+致使 v
+致死 v
+致谢 v
+致信 v
+致以 v
+致意 v v
+置 v
+置办 v
+置备 v
+置换 v v
+置评 v
+置身 v
+置于 v
+制 k n v
+制版 v
+制备 v
+制表 v
+制裁 v v
+制成 v
+制导 v
+制定 v v
+制订 v v
+制动 v
+制毒 v
+制度化 v v
+制伏 v
+制服 n v
+制革 v v
+制衡 v v
+制假 v v
+制浆 v v
+制冷 v v
+制片 v v
+制胜 v
+制图 v
+制宪 v
+制盐 v
+制药 v v
+制约 v v
+制造 v v
+制止 v v
+制种 v v
+制作 v v
+智能化 v v
+智取 v
+质问 v
+质询 v
+质疑 v v
+滞 g v v
+滞后 v v
+滞缓 v
+滞留 v
+滞销 v v
+滞胀 v v
+治 g v
+治安 n v
+治本 v v
+治标 v v
+治病 v v
+治国 v
+治家 v
+治监 v
+治军 v v
+治理 n v v
+治疗 n v v
+治丧 v
+治沙 v v
+治水 v
+治税 v
+治污 v v
+治校 v
+治学 v v
+治印 v
+治愈 v v
+治装 v
+治罪 v
+窒息 v v
+中 b f g j p t v
+中标 v v
+中彩 v
+中弹 v
+中毒 v v
+中断 v v
+中风 v v
+中耕 v
+中和 v
+中计 v
+中继 v
+中奖 v v
+中考 v v
+中空 s v
+中立 v v
+中伤 v
+中试 j v v
+中暑 v
+中邪 v
+中选 v
+中止 v v
+中转 v v
+忠 g v v
+忠诚 a a a v v
+忠告 n v
+忠于 v
+钟爱 v v
+钟情 v
+终 d g n v v
+终结 v v
+终了 v
+终止 v v
+种 g m n n n q v
+种菜 v v
+种草 v
+种地 v v
+种果 v v
+种花 v
+种粮 v v
+种牛痘 v
+种树 v
+种田 v v
+种养 v v
+种植 v v
+种种 q v
+肿 v
+肿大 v
+肿胀 v
+重 a d g j n q v v
+重版 v
+重办 v
+重播 v
+重创 v v
+重叠 v
+重读 v
+重返 v v
+重逢 v v
+重复 a v v v
+重构 v v
+重合 v
+重婚 v
+重建 v v
+重奖 n v
+重排 v
+重伤 n v
+重赏 n v
+重申 v
+重视 a v v
+重塑 v
+重提 v
+重温 v
+重现 v
+重写 v
+重演 v v
+重要 a a v
+重印 v
+重用 v
+重载 v
+重在 v
+重振 v
+重整 v v
+重组 v v
+仲裁 v v
+周济 v
+周旋 v v
+周游 v
+周转 v v
+诌 g v
+咒 g v
+咒骂 v v
+皱 n v
+皱眉 v
+皱眉头 v
+骤 d g v
+骤变 v v
+骤降 v
+骤起 v
+骤增 v v
+株连 v v
+诸如 p v
+逐 g v v
+逐出 v
+逐鹿 v
+烛照 v
+煮 v
+煮饭 v
+煮沸 v
+拄 v
+拄杖 v
+瞩目 v v
+瞩望 v
+嘱 g v
+嘱咐 v
+嘱托 v v
+主 a a a b b g j n n v
+主办 v v
+主编 n v
+主辩 v v
+主持 v v
+主厨 n v
+主创 v v
+主导 n v v
+主攻 n v v
+主管 n v v
+主婚 v
+主讲 v
+主叫 v v
+主考 n v
+主控 v v
+主理 v
+主使 v
+主修 v
+主演 n v
+主营 v v
+主宰 v v
+主张 n v v
+主治 v
+主抓 v
+著 g v v
+著称 v
+著录 v
+著书 v
+著述 n v
+著文 v
+著作 n v v
+助 v
+助残 v
+助长 v v
+助耕 v
+助攻 v
+助教 n v v
+助困 v
+助老 v v
+助跑 v
+助燃 v
+助推 v v
+助威 v v
+助兴 v
+助学 v v
+助养 v v
+助战 v
+助阵 v
+蛀 g v
+贮 v
+贮备 n v v
+贮藏 v v
+贮存 v
+贮运 v v
+铸 v
+铸币 v
+铸补 v
+铸成 v
+铸就 v
+铸造 v v
+筑 g j v
+筑坝 v
+筑巢 v
+筑堤 v
+筑路 v v
+筑造 v
+住 v v
+住店 v v
+住房 n v v
+住家 n v
+住口 v
+住手 v
+住宿 v v
+住校 v
+住院 v v
+住嘴 v
+注 g n v
+注册 v v
+注定 v
+注解 n v
+注明 v
+注目 v v
+注入 v
+注射 v v
+注释 n v
+注视 v v
+注水 v
+注塑 v
+注销 v v
+注意 v v
+注音 v
+注重 v
+注资 v
+祝 g n v
+祝辞 n v
+祝福 v v
+祝贺 v v
+祝捷 v
+祝酒 v
+祝寿 v v
+祝愿 v v
+驻 v
+驻防 v
+驻华 v v
+驻军 n v v
+驻留 v
+驻守 v
+驻外 v v
+驻扎 v
+驻站 v v
+驻足 v
+抓 v
+抓捕 v
+抓差 v
+抓丁 v
+抓工夫 v
+抓好 v
+抓获 v
+抓紧 v
+抓举 v
+抓起 v
+抓取 v
+抓瞎 v
+抓药 v v
+抓住 v
+抓走 v
+抓阄 v
+拽 v
+专递 v v
+专访 v v
+专攻 v v
+专卖 v v
+专权 v
+专守 v
+专修 v
+专业化 v v v
+专营 v
+专用 b v v
+专有 b v
+专职 b v
+专注 v v v
+转 j n n q v
+转包 v
+转变 v v
+转播 v v
+转产 v
+转车 v
+转达 v
+转道 v
+转调 v
+转动 v v
+转发 v
+转赴 v
+转干 v
+转岗 v v
+转告 v
+转给 v
+转关 v
+转关系 v
+转轨 v v
+转化 v v
+转换 v v
+转嫁 v
+转交 v
+转接 v
+转借 v
+转筋 v
+转口 v v
+转隶 v
+转录 v
+转卖 v
+转念 v
+转圈 v
+转让 v v
+转入 v
+转身 v v
+转世 v
+转手 v
+转述 v
+转送 v
+转体 v
+转弯 v v
+转弯子 v
+转为 v
+转向 v
+转型 v v
+转学 v
+转业 v v
+转移 v v
+转译 v v
+转引 v
+转用 v
+转悠 v
+转游 v
+转院 v
+转运 v v
+转载 v
+转赠 v
+转战 v
+转账 v v
+转折 v v
+转正 v
+转注 n v
+转转 v
+转租 v
+撰 g v v
+撰稿 v
+撰文 v
+撰写 v
+撰著 v
+赚 g v
+赚钱 a v
+赚取 v
+篆刻 n v
+装 g n n v
+装扮 v
+装备 n v v
+装车 v v
+装船 v
+装点 v
+装订 v
+装糊涂 v
+装货 v
+装机 v
+装假 v
+装料 v
+装满 v
+装配 v v
+装入 v
+装傻 v
+装饰 n v v
+装蒜 v
+装坛 v
+装填 v
+装箱 v
+装卸 v v
+装熊 v
+装修 v v
+装有 v
+装运 v
+装载 v v
+装置 n v v
+装装 v
+装做 v
+装作 v
+装潢 n v v
+装殓 v
+装裱 v
+妆饰 n v
+撞 v
+撞车 v
+撞击 v v
+撞见 v
+撞骗 v
+撞入 v
+撞锁 n v
+撞钟 v
+壮 a j n v
+壮大 v v
+壮胆 v
+壮威 v
+状告 v
+锥 g v
+追 v
+追逼 v
+追捕 v v
+追查 v v
+追悼 v v
+追肥 n v v
+追赶 v
+追根 v
+追悔 v
+追击 v v
+追记 v
+追加 v v
+追歼 v
+追交 v
+追缴 v
+追究 v v
+追念 v
+追求 v v
+追认 v
+追述 v
+追思 v v
+追溯 v v
+追随 v
+追索 v v
+追问 v
+追叙 n v
+追寻 v v
+追忆 v
+追赃 v
+追赠 v
+追逐 v
+追踪 v v v
+赘述 v
+坠 g v
+坠毁 v
+坠机 n v v
+坠落 v
+坠入 v
+缀 v
+缀出 v
+准 a d h v
+准备 d n v v
+准假 v
+准入 v v
+准许 v
+准予 v
+捉 v
+捉奸 v
+捉摸 v
+捉拿 v
+捉弄 v
+捉住 v
+琢 v x
+琢磨 v
+酌 g v
+酌办 v
+酌定 v
+酌减 v
+啄 v
+着 n q u u v
+着笔 v
+着风 v
+着慌 v
+着火 v
+着力 d v v
+着凉 v
+着陆 v v
+着落 n v v
+着迷 v
+着魔 v
+着色 v
+着手 v
+着想 v
+着眼 n v
+着眼于 v
+着意 d v
+着重 v
+着装 n v
+灼伤 v
+咨询 v v
+资费 n v
+资助 v v
+滋 g v
+滋补 v v
+滋长 v v
+滋润 a a v v
+滋生 v v
+滋事 v
+滋养 n v v
+自拔 v
+自办 v
+自保 v
+自备 v v
+自便 v
+自查 v v
+自嘲 v
+自称 v
+自成 v v
+自持 v
+自筹 v v
+自动化 v v v
+自焚 v
+自封 v
+自负 a v
+自给 v v
+自供 v
+自荐 v v
+自尽 v
+自救 v v
+自咎 v
+自居 v
+自觉 a a a d v v
+自决 v
+自绝 v
+自考 j v
+自控 j v
+自夸 v
+自理 v v
+自立 v v
+自律 v v
+自勉 v
+自命 v
+自谋 v v
+自馁 v
+自虐 v
+自强 v v
+自燃 v
+自杀 v
+自审 v
+自省 v v
+自恃 v
+自首 v v
+自述 n v v
+自诉 v
+自卫 v v
+自问 v v
+自习 v v
+自销 v
+自信 a a v v
+自修 v
+自选 v v
+自学 v v
+自养 v
+自营 v v
+自用 v v
+自由化 v v
+自有 b v
+自娱 v
+自语 v
+自育 v
+自愿 v v v
+自责 v
+自找 v
+自知 v
+自制 v
+自治 v v
+自重 a n v
+自主 b d v v v
+自主化 v v
+自转 v v
+自尊 v v
+自刎 v
+自诩 v
+自忖 v
+自缢 v
+渍 g v
+宗 g n n q v
+综采 j v v
+综观 v
+综合 b n v v v
+综括 v
+综述 n v v
+总 b d j v
+总罢工 v
+总称 n v v
+总动员 v v
+总攻 v v
+总管 n v
+总合 v
+总汇 n v v
+总计 v v
+总结 n v v
+总括 v
+总揽 v
+总是 d v
+总算 d v
+总之 c v
+纵 a c g n v v
+纵穿 v
+纵观 v
+纵贯 v
+纵横 n v
+纵火 v
+纵览 v
+纵令 c v
+纵容 v
+纵身 v
+纵谈 v
+走 v v
+走遍 v
+走道 n v
+走调 v
+走动 v v
+走读 v
+走访 v v
+走过 u v
+走过场 v
+走红 v v
+走火 v
+走江湖 v
+走进 v
+走近 v
+走开 v
+走漏 v
+走路 v v
+走人 v
+走散 v
+走神 v
+走失 v
+走私 b v v
+走题 v
+走味 v
+走向 n v v
+走穴 v
+走样 v
+走走 v
+走嘴 v
+奏 v
+奏乐 v
+奏响 v
+奏效 v
+揍 v
+租 g j n n v
+租房 v
+租借 v
+租赁 v v
+租下 v
+租用 v
+租与 v
+足额 v v
+足够 a v v v
+卒业 v
+祖传 v
+诅咒 v
+阻 g v
+阻碍 n v v
+阻挡 v
+阻断 v
+阻隔 v v
+阻击 v
+阻截 v
+阻拦 v v
+阻挠 v v
+阻燃 v
+阻塞 v v
+阻止 v
+阻滞 v v
+组 g n q v v
+组成 n v v
+组队 v
+组方 n v
+组稿 v
+组阁 v v
+组合 n v v v
+组建 n v v
+组团 v
+组织 n v v
+组织化 v v
+组诛 v
+组装 v v
+钻 g v
+钻井 n v v
+钻空子 v
+钻孔 v v
+钻门子 v
+钻牛角尖 v
+钻探 v v
+钻心 v
+钻研 v v
+钻营 v
+嘴快 v
+嘴硬 v
+醉 v
+最大化 v
+尊 a g n n q v v
+尊称 n v
+尊崇 v
+尊敬 v v
+尊重 v v
+遵 g n v
+遵从 v
+遵命 v
+遵守 v v
+遵行 v
+遵循 v v
+遵照 p v
+左右 f m v v
+佐 g v
+佐餐 v
+佐理 v
+做 v
+做爱 v
+做伴 v
+做菜 v
+做操 v
+做成 v
+做出 v
+做到 v
+做东 v
+做饭 v v
+做工 n v
+做官 v
+做鬼 v
+做好 v v
+做活 v
+做客 v
+做媒 v
+做梦 v
+做起 v
+做人 v v
+做生日 v
+做事 v
+做手脚 v
+做文章 v
+做主 v
+做做 v
+做作 a v
+作 g n n v v
+作案 v v
+作罢 v
+作伴 v
+作保 v
+作弊 v v
+作成 v
+作出 v
+作到 v
+作东 v
+作对 v
+作恶 v
+作废 v v
+作梗 v
+作古 v
+作怪 v
+作鬼 v
+作画 v
+作假 v
+作价 v
+作践 v
+作客 v
+作乐 v
+作乱 v
+作难 v
+作弄 v
+作呕 v
+作陪 v
+作曲 v v
+作祟 v
+作图 v
+作为 n p v v
+作伪 v v
+作文 n v
+作响 v
+作业 n v v
+作用 n v v
+作战 v v
+作证 v
+作主 v
+坐 n v
+坐船 v
+坐待 v
+坐等 v
+坐定 v
+坐化 v
+坐禁闭 v
+坐牢 v
+坐落 v
+坐堂 v
+坐下 v
+坐镇 v
+坐庄 v
+坐蔸 n v
+坐禅 v
+座落 v
+座谈 v v
