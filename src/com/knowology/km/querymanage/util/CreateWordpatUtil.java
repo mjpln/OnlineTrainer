@@ -1,6 +1,7 @@
 package com.knowology.km.querymanage.util;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -10,6 +11,7 @@ import org.apache.commons.lang3.StringUtils;
 import org.apache.log4j.Logger;
 
 import com.knowology.Bean.User;
+import com.knowology.bll.CommonLibQueryManageDAO;
 import com.knowology.bll.CommonLibWordclassDAO;
 import com.knowology.km.util.GetLoadbalancingConfig;
 /**
@@ -137,6 +139,25 @@ public class CreateWordpatUtil {
 		user.setUserID(workerId);
 		user.setIndustryOrganizationApplication(serviceType);
 	   return user;
+   }
+   /**
+    * 返回标准问需要增加的返回值
+    * @param kbdataIdList
+    * @return
+    */
+   public static Map<String,String> getReturnValue(List<String> kbdataIdList){
+	   Result rs = CommonLibQueryManageDAO.getReturnValueByKbdataId(kbdataIdList);
+       Map<String, String> returnMap = new HashMap<String, String>();
+       if (rs != null && rs.getRowCount() > 0) {
+           for (int i = 0; i < rs.getRowCount(); i++) {
+        	    String kbdataid = rs.getRows()[i].get("kbdataid").toString();
+        	    String returnValue = (String)rs.getRows()[i].get("returnvalue");
+        	    if(StringUtils.isNotBlank(returnValue)){
+        	    	returnMap.put(kbdataid, returnValue);
+        	    }
+           }
+       }   
+       return returnMap;
    }
 
 }

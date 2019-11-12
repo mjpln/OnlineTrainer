@@ -495,9 +495,21 @@ public class SimpleString {
 								wordPad.append(arryStr[arryStr.length - 1]);
 								wordPad.append(">");
 							} else {
-								wordPad.append("<!");
-								wordPad.append(wordPatdel_1);
-								wordPad.append(">");
+								if(!wordPatdel_1.endsWith("父类") 
+											|| !wordPatdel_1.endsWith("近类")
+											|| !wordPatdel_1.endsWith("子句")
+											|| !wordPatdel_1.endsWith("词类")
+											|| !wordPatdel_1.endsWith("模板词")){
+									wordPad.append("<");
+									wordPad.append(wordPatdel_1);
+									wordPad.append(">");
+									
+								}else{
+									wordPad.append("<!");
+									wordPad.append(wordPatdel_1);
+									wordPad.append(">");									
+								}
+
 							}
 						}
 						wordPad.append("*");

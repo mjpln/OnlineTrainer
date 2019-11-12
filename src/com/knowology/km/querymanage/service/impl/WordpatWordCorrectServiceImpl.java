@@ -68,6 +68,7 @@ public class WordpatWordCorrectServiceImpl implements WordpatWordCorrectService{
         String serviceType=produceWordpatRequest.getServiceType();
         String workerId = produceWordpatRequest.getWorkerId();
         String businesswords = produceWordpatRequest.getBusinesswords();
+        boolean flagScene = produceWordpatRequest.getFlagscene();
 		// 插入问题库自动学习词模
 		List<List<String>> combListList = new ArrayList<List<String>>();
 		// 新词拆分
@@ -108,6 +109,15 @@ public class WordpatWordCorrectServiceImpl implements WordpatWordCorrectService{
 		}
 		// 新增别名
 		JSONObject jsonObj = (JSONObject) addOtherWord(StringUtils.join(otherWordList,"@@"), false,serviceType);
+		
+        // 获取摘要
+        List<String> kbIdList = new ArrayList<String>();
+        for (int i = 0; i < customerqueryArray.length; i++) {
+            String queryArray[] = customerqueryArray[i].split("@#@");
+            kbIdList.add(queryArray[2]);
+        }
+        //获取标准问下需要增加的返回值 <kbdataId,返回值>
+        Map<String,String> returnValueMap = CreateWordpatUtil.getReturnValue(kbIdList);
 
 		// 扩展问对应的原分词拆分
 		String[] segmentsWordArray = segmentWord.split("@@");
@@ -136,9 +146,11 @@ public class WordpatWordCorrectServiceImpl implements WordpatWordCorrectService{
 			if(newCustomerq.equals(query)){//判断新问题是否与原问题相同，若相同不再往下执行
 				continue;
 			}
+            //获取标准问下的额外返回值
+            String returnValue = returnValueMap.get(kbdataid);
 
 			if (StringUtils.isNotBlank(newCustomerq)) {
-				JSONObject jsonObject = queryManageService.getWordpat2(serviceType, newCustomerq, queryCityCode);
+				JSONObject jsonObject = queryManageService.getWordpat2(serviceType, newCustomerq, queryCityCode,flagScene);
 				wordpat = jsonObject.getString("wordpat");
 				wordpat = wordpat.replace("编者=\"自学习\"", "编者=\"问题库\"&来源=\"" + query.replace("&", "\\and") + "\"");
 				lockwordpat = jsonObject.getString("lockWordpat");
@@ -198,7 +210,13 @@ public class WordpatWordCorrectServiceImpl implements WordpatWordCorrectService{
 					simpleLockWordpat = simpleLockWordpat.replace("&最大未匹配字数=\"0\"", "").replace("><", ">*<");
 				}
 			}
-			
+			if(flagScene){
+				simpleWordpat = simpleWordpat.replace("编者=\"问题库\"", "编者=\"场景\"");
+				simpleLockWordpat = simpleLockWordpat.replace("编者=\"问题库\"", "编者=\"场景\"");
+			}
+			//增加返回值
+			simpleWordpat = simpleWordpat + "&" + returnValue;
+			simpleLockWordpat = simpleLockWordpat + "&" + returnValue;
 			List<String> combList = null;
 			if (!"2".equals(wordpattype)) {// 排除词模只有精准词模
 				if (Check.CheckWordpat(simpleWordpat)) {
@@ -224,6 +242,7 @@ public class WordpatWordCorrectServiceImpl implements WordpatWordCorrectService{
 				combList.add(queryid);
 				combListList.add(combList);
 			} else {
+				resultData = ResultData.fail();
 				resultData.setMsg(query + "生成的词模：【" + simpleLockWordpat + "】不规范");
 				return resultData;
 			}

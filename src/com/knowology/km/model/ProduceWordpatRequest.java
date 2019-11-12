@@ -48,6 +48,10 @@ public class ProduceWordpatRequest implements Serializable {
      * 业务词
      */
     private String businesswords;
+    /**
+     * 是否是场景进行的生成词模
+     */
+    private boolean flagscene;
 
     public String getCombition() {
         return combition;
@@ -119,6 +123,14 @@ public class ProduceWordpatRequest implements Serializable {
 
 	public void setBusinesswords(String businesswords) {
 		this.businesswords = businesswords;
+	}
+
+	public boolean getFlagscene() {
+		return flagscene;
+	}
+
+	public void setFlagscene(boolean flagscene) {
+		this.flagscene = flagscene;
 	}  
 	
     

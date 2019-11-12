@@ -12,7 +12,7 @@ public interface QueryManageService {
      * @return
      * @throws Exception
      */
-	ResultData produceWordpat(String combition, String wordpatType,String serviceType,String workerId) throws Exception;
+	ResultData produceWordpat(String combition, String wordpatType,String serviceType,String workerId,boolean flagscene) throws Exception;
 
     /**
      * 生成排除词模
@@ -21,13 +21,14 @@ public interface QueryManageService {
      * @return
      * @throws Exception
      */
-	ResultData removeProduceWordpat(String combition, String wordpatType,String serviceType,String workerId) throws Exception;
+	ResultData removeProduceWordpat(String combition, String wordpatType,String serviceType,String workerId,boolean flagscene) throws Exception;
 	/**
 	 * 调用高级分析接口
 	 * @param servicetype
 	 * @param query
 	 * @param queryCityCode
+	 * @param 是否场景
 	 * @return
 	 */
-	JSONObject getWordpat2(String servicetype, String query, String queryCityCode);
+	JSONObject getWordpat2(String servicetype, String query, String queryCityCode,boolean flagscene);
 }

@@ -50,13 +50,17 @@ public class QueryManageController {
             logger.error("生成词模produceWordpat方法中,参数校验combition参数为空");
             return resultData;
         }
+        String combiton =  produceWordpatRequest.getCombition();
         String wordpatType =  produceWordpatRequest.getWordpatType();
+        String serviceType =  produceWordpatRequest.getServiceType();
+        String workerId =  produceWordpatRequest.getWorkerId();
+        Boolean  flagscene =  produceWordpatRequest.getFlagscene();
         try {
         	if(StringUtils.isNotBlank(wordpatType) && WordpatTypeEnum.REMOVE_WORDPAT.getCode().equals(wordpatType)){//调用生成排除词模
-    			resultData = queryManageService.removeProduceWordpat(produceWordpatRequest.getCombition(),wordpatType, produceWordpatRequest.getServiceType(),produceWordpatRequest.getWorkerId());        		
+    			resultData = queryManageService.removeProduceWordpat(combiton,wordpatType,serviceType ,workerId,flagscene);        		
         		
         	}else{
-    			resultData = queryManageService.produceWordpat(produceWordpatRequest.getCombition(),wordpatType, produceWordpatRequest.getServiceType(),produceWordpatRequest.getWorkerId());        		
+    			resultData = queryManageService.produceWordpat(combiton,wordpatType, serviceType,workerId,flagscene);        		
         	}
 
 		} catch (Exception e) {

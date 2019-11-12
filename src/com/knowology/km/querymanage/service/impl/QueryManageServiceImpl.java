@@ -37,7 +37,7 @@ public class QueryManageServiceImpl implements QueryManageService {
     public static Map<String, List<String>> replaceWordMap = new ConcurrentHashMap<>();
 
     @Override
-    public ResultData produceWordpat(String combition, String wordpatType,String serviceType,String workerId) throws Exception {
+    public ResultData produceWordpat(String combition, String wordpatType,String serviceType,String workerId,boolean flagscene) throws Exception {
     	ResultData resultData = ResultData.ok();
         String combitionArray[] = combition.split("@@");
 
@@ -80,6 +80,8 @@ public class QueryManageServiceImpl implements QueryManageService {
         }
         // 生成客户问和对应的自学习词模 <客户问，词模>，一个客户问会包含两个词模，普通词模，精准词模，中间@#@分隔
         Map<String, String> wordpatMap = getAutoWordpatMap(kbIdList, wordpatType,"@2#");
+        //获取标准问下需要增加的返回值 <kbdataId,返回值>
+        Map<String,String> returnValueMap = CreateWordpatUtil.getReturnValue(kbIdList);
         List<String> oovWordList = new ArrayList<String>();
         //待插入词模
         List<List<String>> list = new ArrayList<List<String>>();// 待插入的词模数据
@@ -98,8 +100,8 @@ public class QueryManageServiceImpl implements QueryManageService {
             List<String> wordpatList = new ArrayList<String>();
             String wordpat = null;
             // 调用高析接口生成词模
-            if ("0".equals(wordpatType)) {
-                JSONObject jsonObject = getWordpat2(serviceType, query, queryCityCode);
+            if ("0".equals(wordpatType)) {            	
+                JSONObject jsonObject = getWordpat2(serviceType, query, queryCityCode,flagscene);
                 if (jsonObject.getBooleanValue("success")) {
                     // 将简单词模转化为普通词模，并返回转换结果
                     wordpat = SimpleString.SimpleWordPatToWordPat(jsonObject.getString("wordpat"));
@@ -120,6 +122,8 @@ public class QueryManageServiceImpl implements QueryManageService {
                 wordpat = callKAnalyze(serviceType, query, queryCityCode);
                 wordpatList.add(wordpat);
             }
+            //获取标准问下的额外返回值
+            String returnValue = returnValueMap.get(kbdataid);
 
             for (int j = 0; j < wordpatList.size(); j++) {
                 wordpat = wordpatList.get(j);
@@ -142,7 +146,14 @@ public class QueryManageServiceImpl implements QueryManageService {
 
                     // 保留自学习词模返回值，并替换 编者=\"自学习\""=>编者="问题库"&来源="(当前问题)" --->
                     // modify 2017-05-24
-                    wordpat = wordpat.replace("编者=\"自学习\"", "编者=\"问题库\"&来源=\"" + query.replace("&", "\\and") + "\"");
+                    if(flagscene){
+                        wordpat = wordpat.replace("编者=\"自学习\"", "编者=\"场景\"&来源=\"" + query.replace("&", "\\and") + "\"");
+                    }else{
+                        wordpat = wordpat.replace("编者=\"自学习\"", "编者=\"问题库\"&来源=\"" + query.replace("&", "\\and") + "\"");                    	
+                    }
+
+                    wordpat = wordpat + "&" + returnValue;
+                   
                  if (Check.CheckWordpat(wordpat)) {
 //					// 获取客户问对应的旧词模
 					String oldWordpat = wordpatMap.get(query);
@@ -197,7 +208,7 @@ public class QueryManageServiceImpl implements QueryManageService {
 			}else{
 				resultData = ResultData.fail();
 			}
-		} else if (combitionArray.length >= list.size() + filterCount && list.size() + filterCount > 0) {// 有成功处理的词模就算生成成功
+		} else if (combitionArray.length >= insertCount + filterCount && list.size() + filterCount > 0) {// 有成功处理的词模就算生成成功
 	        resultObj.put("OOVWord", StringUtils.join(oovWordList, "$_$"));
 	        resultObj.put("segmentWord", StringUtils.join(segmentWordList,"@@"));
 	        resultObj.put("OOVWordQuery", StringUtils.join(oovWordQueryList, "@@"));
@@ -206,7 +217,7 @@ public class QueryManageServiceImpl implements QueryManageService {
 		}
        
         resultData.setObj(resultObj);
-        logger.info("调用produceWordpat生成词模成功,返回信息:resultData="+ resultObj.toString());
+        logger.info("调用produceWordpat生成词模成功,返回信息:resultData="+ JSONObject.toJSONString(resultData));
         return resultData;
     }
     /**
@@ -322,7 +333,7 @@ public class QueryManageServiceImpl implements QueryManageService {
      *         如果生成失败，结果中detailAnalyzeResult和wordpatResult分别存高析结果和生成词模结果
      */
     @Override
-    public JSONObject getWordpat2(String servicetype, String query, String queryCityCode) {
+    public JSONObject getWordpat2(String servicetype, String query, String queryCityCode,boolean flagscene) {
         JSONObject result = new JSONObject();
         result.put("success", false);
         // 调用高析接口
@@ -331,7 +342,7 @@ public class QueryManageServiceImpl implements QueryManageService {
         // 解析高析接口结果，生成词模
         List<JSONObject> list = null;
         if (jsonObject.containsKey("detailAnalyze")) {
-            list = detailAnalyze4Wordpat(jsonObject.getString("detailAnalyze"), "自学习", optionWordMap.get(servicetype));
+            list = detailAnalyze4Wordpat(jsonObject.getString("detailAnalyze"), "自学习", optionWordMap.get(servicetype),flagscene);
         } else {
             result.put("detailAnalyzeResult", jsonObject);
         }
@@ -456,7 +467,7 @@ public class QueryManageServiceImpl implements QueryManageService {
      *         isValid：词模是否有效<br>
      *         OOVWord：词模中OOV的分词集合
      */
-    private static List<JSONObject> detailAnalyze4Wordpat(String result, String autor, Set<String> optionWord) {
+    private static List<JSONObject> detailAnalyze4Wordpat(String result, String autor, Set<String> optionWord,boolean flagscene) {
         String rs = "";
         // 定义返回的json串
         List<JSONObject> resultList = new ArrayList<JSONObject>();
@@ -490,7 +501,14 @@ public class QueryManageServiceImpl implements QueryManageService {
                 if (optionWord == null) {
                     optionWord = Collections.emptySet();
                 }
-                List<JSONObject> list = getLearnWordpat(map, autor, optionWord);
+                List<JSONObject> list = null;
+                
+                if(flagscene){
+                	list = getLearnWordpat2(map,autor,optionWord);
+                }else {
+                	list = getLearnWordpat(map, autor, optionWord);	
+                }
+               
                 resultList.addAll(list);
             }
         } catch (Exception e) {
@@ -610,9 +628,127 @@ public class QueryManageServiceImpl implements QueryManageService {
         }
         return list;
     }
+    /**
+    * 针对场景进行词模生成
+    * @param map
+    * @return
+    * @returnType String
+    * @dateTime 2017-9-1下午03:24:06
+    */
+   private static List<JSONObject> getLearnWordpat2(Map<String, String> map, String autor, Set<String> optionWord) {
+       List<JSONObject> list = new ArrayList<JSONObject>();
+       for (Map.Entry<String, String> entry : map.entrySet()) {
+           JSONObject jsonObject = new JSONObject();
+           JSONArray array = new JSONArray();
+           String word = entry.getKey().replace(" ", "##");
+           int wordnum = Integer.valueOf(entry.getValue());
+           String wordArray[] = word.split("##");
+           StringBuilder wordpatBuilder = new StringBuilder("");
+           StringBuilder lockWordpat = new StringBuilder("");
+           int flag = 0;// 词模处理结果 0 可用 1 分词中没有近类和父类 2 分词中包含OOV
+           boolean lastFlag = false;// 上一个分词是否是OOV
+           int requiredNum = 0;// 必选词数量
+           String _word = "";// 具体分词
+           //具体分词
+           JSONArray arraySegment = new JSONArray();
+
+           for (int i = 0; i < wordArray.length; i++) {
+               String tempWord = wordArray[i];
+               _word = tempWord.split("\\(")[0];
+               String _tempWord = "";
+               String _lockWord = "";
+
+               if (!"".equals(tempWord) && StringUtils.isNotBlank(_word)) {// 分词本身不能为空
+                   //增加分词
+                   if(StringUtils.isNotBlank(_word.replaceAll("\\p{P}" , ""))){
+                       arraySegment.add(_word);
+                   }
+                   List<String> dealWrod = CreateWordpatUtil.dealWrod2List(tempWord);
+                   if (dealWrod == null || dealWrod.isEmpty()) {
+                       // 页面展示： word(OOV)
+                       if (i > 0) {
+                           wordpatBuilder.append('-');
+                           lockWordpat.append('-');
+                       }
+                       wordpatBuilder.append(_word);
+                       lockWordpat.append(_word);
+                       // 记录当前词模中的OOV分词
+                       // 过滤标点符号 --> update by 20191008 sundj
+                       if(StringUtils.isNotBlank(_word.replaceAll("\\p{P}" , ""))){
+                           array.add(_word);
+                       }
+
+                       lastFlag = true;
+                       flag = 1;
+                       requiredNum++;
+                   } else {
+
+                       for (String str : dealWrod) {
+                           // 可选词
+                           if (optionWord.contains(str.replaceFirst("!", "")) && wordnum >=3 ) { //场景配置词数量小于3个时，必须全部必选  update by sundj 20191107
+                               _tempWord = "[" + StringUtils.join(dealWrod, "|") + "]";
+                               break;
+                           }
+                       }
+                       // 必选
+                       if (StringUtils.isEmpty(_tempWord)) {
+                           _tempWord = "<" + StringUtils.join(dealWrod, "|") + ">";
+                           requiredNum++;
+                       }
+                       _lockWord = "<" + StringUtils.join(dealWrod, "|") + ">";
+
+                       if (i > 0) {
+                           if (lastFlag) {
+                               wordpatBuilder.append('-');
+                               lockWordpat.append('-');
+                           } else {
+                               wordpatBuilder.append('*');
+                               lockWordpat.append('*');
+                           }
+                       }
+                       wordpatBuilder.append(_tempWord);
+                       lockWordpat.append(_lockWord);
+                       lastFlag = false;
+                   }
+               }
+           }
+
+           String wordpat = "";
+           //如果必选词数量大于2，则去掉最大未匹配字数 ，  author=sundj
+           wordpatBuilder.append("@2#").append("编者=\"").append(autor).append("\"");
+           if(requiredNum > 3){
+               wordpatBuilder.append("&最大未匹配字数=\"5\"");
+           }else if(requiredNum == 3){
+        	   wordpatBuilder.append("&最大未匹配字数=\"3\"");  
+           }else {
+        	   wordpatBuilder.append("&最大未匹配字数=\"1\"");    
+           }
+
+           wordpat = wordpatBuilder.toString();
+           wordpat = SimpleString.worpattosimworpat(wordpat);
+
+           String lockWordpatStr = lockWordpat.append("@2#").append("编者=\"").append(autor).append("\"")
+                   .append("&最大未匹配字数=\"").append(0).append("\"").append("&置信度=\"").append("1.1").append("\"")
+                   .toString();
+
+           lockWordpatStr = SimpleString.worpattosimworpat(lockWordpatStr);
+
+           String newWordpat = wordpat.replace("近类", "");
+           jsonObject.put("wordpat", wordpat);
+           jsonObject.put("newWordpat", newWordpat);
+           jsonObject.put("lockWordpat", lockWordpatStr);
+           jsonObject.put("isValid", flag == 0);
+           jsonObject.put("OOVWord", array);
+           //增加返回分词
+           jsonObject.put("segmentWord", arraySegment);
+           list.add(jsonObject);
+       }
+       return list;
+   }
+
 
 	@Override
-	public ResultData removeProduceWordpat(String combition, String wordpatType, String serviceType,String workerId) throws Exception {
+	public ResultData removeProduceWordpat(String combition, String wordpatType, String serviceType,String workerId,boolean flagscene) throws Exception {
 		// TODO Auto-generated method stub
 		ResultData resultData = ResultData.ok();
 		String combitionArray[] = combition.split("@@");
@@ -662,6 +798,8 @@ public class QueryManageServiceImpl implements QueryManageService {
 		}
 		// 生成客户问和对应的自学习词模 <排除问，词模>，一个排除问只有一条精准词模，中间##分隔
 		Map<String, String> wordpatMap = getAutoWordpatMap(kbIdList, wordpatType,"@1#");
+        //获取标准问下需要增加的返回值 <kbdataId,返回值>
+        Map<String,String> returnValueMap = CreateWordpatUtil.getReturnValue(kbIdList);
 		List<String> oovWordList = new ArrayList<String>();
         //待插入词模
         List<List<String>> list = new ArrayList<List<String>>();// 待插入的词模数据
@@ -692,7 +830,7 @@ public class QueryManageServiceImpl implements QueryManageService {
 			for (int j = 0; j < removequery.length; j++) {
 
 				if ("0".equals(wordpatType) || "2".equals(wordpatType)) {
-					JSONObject jsonObject = getWordpat2(serviceType, removequery[j], queryCityCode);
+					JSONObject jsonObject = getWordpat2(serviceType, removequery[j], queryCityCode,flagscene);
 					if (jsonObject.getBooleanValue("success")) {
 						// 将简单词模转化为普通词模，并返回转换结果
 						String 	 removewordpat = SimpleString.SimpleWordPatToWordPat(jsonObject.getString("lockWordpat"));
@@ -730,8 +868,12 @@ public class QueryManageServiceImpl implements QueryManageService {
 				}
 				// 保留自学习词模返回值，并替换 编者=\"自学习\""=>编者="问题库"&来源="(当前问题)" ---> modify
 				// 2017-05-24
-
-				wordpat = "~"+wordpat + "@1#编者=\"问题库\"&来源=\"" + query.replace("&", "\\and") + "\"";
+				if(flagscene){
+				   wordpat = "~"+wordpat + "@1#编者=\"场景\"&来源=\"" + query.replace("&", "\\and") + "\"";
+				}else{
+				   wordpat = "~"+wordpat + "@1#编者=\"问题库\"&来源=\"" + query.replace("&", "\\and") + "\"";	
+				}
+				
 				//修改排除词模，oov词分隔符采用*号
 				if("否".equals(isstrictexclusion)){//非严格排除
 					wordpat = wordpat.replace("><", ">*<");
@@ -739,6 +881,8 @@ public class QueryManageServiceImpl implements QueryManageService {
 				if ("2".equals(wordpatType) && isstrictexclusion != null && "是".equals(isstrictexclusion)) {// 排除词模只生成一条词模,且必须是有序词模
 					wordpat += "&最大未匹配字数=0";
 				}
+				String returnValue = returnValueMap.get(kbdataid);
+				wordpat = wordpat +"&" + returnValue;
 				// 校验自动生成的词模是否符合规范
 				if (Check.CheckWordpat(wordpat)) {
 					// 获取客户问对应的旧词模
@@ -793,7 +937,7 @@ public class QueryManageServiceImpl implements QueryManageService {
 			} else {
 				resultData = ResultData.fail();
 			}
-		} else if (combitionArray.length >  filterCount && filterCount > 0) {// 有成功处理的词模就算生成成功
+		} else if (combitionArray.length ==  (insertCount+filterCount) && (insertCount+filterCount) > 0) {// 有成功处理的词模就算生成成功
 			resultObj.put("OOVWord", StringUtils.join(oovWordList, "$_$"));
 			resultObj.put("OOVWordQuery", StringUtils.join(oovWordQueryList,"@@"));
 			resultObj.put("segmentWord", StringUtils.join(segmentWordList,"@@"));
@@ -801,7 +945,7 @@ public class QueryManageServiceImpl implements QueryManageService {
 			resultData = ResultData.fail();
 		}
         resultData.setObj(resultObj);
-        logger.info("调用removeProduceWordpat生成词模成功,返回信息:resultData="+ resultObj.toString());
-		return null;
+        logger.info("调用removeProduceWordpat生成词模成功,返回信息:resultData="+ JSONObject.toJSONString(resultData));
+		return resultData;
 	}
 }
