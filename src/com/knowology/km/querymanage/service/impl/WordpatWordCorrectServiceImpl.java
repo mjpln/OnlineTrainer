@@ -112,12 +112,15 @@ public class WordpatWordCorrectServiceImpl implements WordpatWordCorrectService{
 		
         // 获取摘要
         List<String> kbIdList = new ArrayList<String>();
+        // 获取扩展问ID
+        List<String> queryIdList = new ArrayList<String>();
         for (int i = 0; i < customerqueryArray.length; i++) {
             String queryArray[] = customerqueryArray[i].split("@#@");
             kbIdList.add(queryArray[2]);
+            queryIdList.add(queryArray[3]);
         }
-        //获取标准问下需要增加的返回值 <kbdataId,返回值>
-        Map<String,String> returnValueMap = CreateWordpatUtil.getReturnValue(kbIdList);
+        //获取标准问下需要增加的返回值 <queryId,返回值>
+        Map<String,String> returnValueMap = CreateWordpatUtil.getReturnValue(queryIdList);
 
 		// 扩展问对应的原分词拆分
 		String[] segmentsWordArray = segmentWord.split("@@");
@@ -147,7 +150,7 @@ public class WordpatWordCorrectServiceImpl implements WordpatWordCorrectService{
 				continue;
 			}
             //获取标准问下的额外返回值
-            String returnValue = returnValueMap.get(kbdataid);
+            String returnValue = returnValueMap.get(queryid);
 
 			if (StringUtils.isNotBlank(newCustomerq)) {
 				JSONObject jsonObject = queryManageService.getWordpat2(serviceType, newCustomerq, queryCityCode,flagScene);
@@ -214,9 +217,12 @@ public class WordpatWordCorrectServiceImpl implements WordpatWordCorrectService{
 				simpleWordpat = simpleWordpat.replace("编者=\"问题库\"", "编者=\"场景\"");
 				simpleLockWordpat = simpleLockWordpat.replace("编者=\"问题库\"", "编者=\"场景\"");
 			}
-			//增加返回值
-			simpleWordpat = simpleWordpat + "&" + returnValue;
-			simpleLockWordpat = simpleLockWordpat + "&" + returnValue;
+			//词模增加返回值
+			if(StringUtils.isNotBlank(returnValue)){
+				simpleWordpat = simpleWordpat + "&" + returnValue;
+				simpleLockWordpat = simpleLockWordpat + "&" + returnValue;
+			}
+
 			List<String> combList = null;
 			if (!"2".equals(wordpattype)) {// 排除词模只有精准词模
 				if (Check.CheckWordpat(simpleWordpat)) {

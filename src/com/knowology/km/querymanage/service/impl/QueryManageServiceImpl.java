@@ -74,14 +74,17 @@ public class QueryManageServiceImpl implements QueryManageService {
         }
         // 获取摘要
         List<String> kbIdList = new ArrayList<String>();
+        // 获取扩展问ID
+        List<String> queryIdList = new ArrayList<String>();
         for (int i = 0; i < combitionArray.length; i++) {
             String queryArray[] = combitionArray[i].split("@#@");
             kbIdList.add(queryArray[2]);
+            queryIdList.add(queryArray[3]);
         }
         // 生成客户问和对应的自学习词模 <客户问，词模>，一个客户问会包含两个词模，普通词模，精准词模，中间@#@分隔
         Map<String, String> wordpatMap = getAutoWordpatMap(kbIdList, wordpatType,"@2#");
-        //获取标准问下需要增加的返回值 <kbdataId,返回值>
-        Map<String,String> returnValueMap = CreateWordpatUtil.getReturnValue(kbIdList);
+        //获取标准问下需要增加的返回值 <queryId,返回值>
+        Map<String,String> returnValueMap = CreateWordpatUtil.getReturnValue(queryIdList);
         List<String> oovWordList = new ArrayList<String>();
         //待插入词模
         List<List<String>> list = new ArrayList<List<String>>();// 待插入的词模数据
@@ -123,7 +126,7 @@ public class QueryManageServiceImpl implements QueryManageService {
                 wordpatList.add(wordpat);
             }
             //获取标准问下的额外返回值
-            String returnValue = returnValueMap.get(kbdataid);
+            String returnValue = returnValueMap.get(queryid);
 
             for (int j = 0; j < wordpatList.size(); j++) {
                 wordpat = wordpatList.get(j);
@@ -151,8 +154,10 @@ public class QueryManageServiceImpl implements QueryManageService {
                     }else{
                         wordpat = wordpat.replace("编者=\"自学习\"", "编者=\"问题库\"&来源=\"" + query.replace("&", "\\and") + "\"");                    	
                     }
-
-                    wordpat = wordpat + "&" + returnValue;
+    				//词模增加返回值
+    				if(StringUtils.isNotBlank(returnValue)){
+    					wordpat = wordpat +"&" + returnValue;
+    				}                   
                    
                  if (Check.CheckWordpat(wordpat)) {
 //					// 获取客户问对应的旧词模
@@ -792,14 +797,17 @@ public class QueryManageServiceImpl implements QueryManageService {
 		}
 		// 获取摘要
 		List<String> kbIdList = new ArrayList<String>();
+        // 获取扩展问ID
+        List<String> queryIdList = new ArrayList<String>();
 		for (int i = 0; i < combitionArray.length; i++) {
 			String queryArray[] = combitionArray[i].split("@#@");
 			kbIdList.add(queryArray[2]);
+			queryIdList.add(queryArray[3]);
 		}
 		// 生成客户问和对应的自学习词模 <排除问，词模>，一个排除问只有一条精准词模，中间##分隔
 		Map<String, String> wordpatMap = getAutoWordpatMap(kbIdList, wordpatType,"@1#");
-        //获取标准问下需要增加的返回值 <kbdataId,返回值>
-        Map<String,String> returnValueMap = CreateWordpatUtil.getReturnValue(kbIdList);
+        //获取标准问下需要增加的返回值 <queryId,返回值>
+        Map<String,String> returnValueMap = CreateWordpatUtil.getReturnValue(queryIdList);
 		List<String> oovWordList = new ArrayList<String>();
         //待插入词模
         List<List<String>> list = new ArrayList<List<String>>();// 待插入的词模数据
@@ -881,8 +889,12 @@ public class QueryManageServiceImpl implements QueryManageService {
 				if ("2".equals(wordpatType) && isstrictexclusion != null && "是".equals(isstrictexclusion)) {// 排除词模只生成一条词模,且必须是有序词模
 					wordpat += "&最大未匹配字数=0";
 				}
-				String returnValue = returnValueMap.get(kbdataid);
-				wordpat = wordpat +"&" + returnValue;
+				//词模增加返回值
+				String returnValue = returnValueMap.get(queryid);
+				if(StringUtils.isNotBlank(returnValue)){
+					wordpat = wordpat +"&" + returnValue;
+				}
+				
 				// 校验自动生成的词模是否符合规范
 				if (Check.CheckWordpat(wordpat)) {
 					// 获取客户问对应的旧词模

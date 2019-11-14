@@ -145,15 +145,15 @@ public class CreateWordpatUtil {
     * @param kbdataIdList
     * @return
     */
-   public static Map<String,String> getReturnValue(List<String> kbdataIdList){
-	   Result rs = CommonLibQueryManageDAO.getReturnValueByKbdataId(kbdataIdList);
+   public static Map<String,String> getReturnValue(List<String> queryIdList){
+	   Result rs = CommonLibQueryManageDAO.getReturnValueByQueryId(queryIdList);
        Map<String, String> returnMap = new HashMap<String, String>();
        if (rs != null && rs.getRowCount() > 0) {
            for (int i = 0; i < rs.getRowCount(); i++) {
-        	    String kbdataid = rs.getRows()[i].get("kbdataid").toString();
+        	    String queryid = rs.getRows()[i].get("queryid").toString();
         	    String returnValue = (String)rs.getRows()[i].get("returnvalue");
         	    if(StringUtils.isNotBlank(returnValue)){
-        	    	returnMap.put(kbdataid, returnValue);
+        	    	returnMap.put(queryid, returnValue);
         	    }
            }
        }   
