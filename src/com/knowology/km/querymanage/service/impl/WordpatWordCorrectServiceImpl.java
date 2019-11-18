@@ -90,7 +90,7 @@ public class WordpatWordCorrectServiceImpl implements WordpatWordCorrectService{
 		for (int i = 0; i < combitionArray.length; i++) {
 			String[] query = combitionArray[i].split("#");
 			//判断问题中是否包含此新词，不包含不需要处理
-			for(int j = 0; j < customerqueryArray.length; i++){
+			for(int j = 0; j < customerqueryArray.length; j++){
 				String customer = customerqueryArray[j].split("@#@")[1];
 				if(StringUtils.isNotBlank(customer) && customer.contains(query[0])){
 					// 将新词存入新词数组
